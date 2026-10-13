@@ -1,0 +1,109 @@
+NŐI TORNA 2025–2028 – VÁLOGATOTT ELEMTÁBLÁZAT, RAG DEMÓ
+
+Összesen 100 mintaelem: ugrás 25; felemáskorlát 25; gerenda 25; talaj 25.
+Forrás: Női torna 2025–2028 magyar szabálykönyv, 57–165. PDF-oldalak képalapú (többnyire angol feliratú) elemtáblázatai.
+A nevek egy része az eredeti angol szöveg. A bizonytalan és olvashatatlan cellák nincsenek feldolgozva.
+A–J nehézségi értékek a korlát/gerenda/talaj elemeinél betűkategóriák; az ugrásnál pontérték.
+FIGYELEM: egyetemi DEMÓADAT, nem helyettesíti a hivatalos szabálykönyvet és szakmai ellenőrzést.
+Minden kódszám a saját szeren belül értelmezendő.
+
+Név: Kézenátfordulás előre, 1/2 fordulattal az első ívben, fordulat nélkül a második ívben | Szer: ugrás | Típus: 1. ugráscsoport | Elem kódszáma: 1.20 | D érték: 1,60 pont | Forrás: PDF 57. oldal
+Név: Kézenátfordulás előre, 1/2 fordulattal az első ívben és 1/2 fordulattal a második ívben | Szer: ugrás | Típus: 1. ugráscsoport | Elem kódszáma: 1.21 | D érték: 2,40 pont | Forrás: PDF 57. oldal
+Név: Kézenátfordulás előre, 1/2 fordulattal az első ívben és 1/1 fordulattal a második ívben | Szer: ugrás | Típus: 1. ugráscsoport | Elem kódszáma: 1.22 | D érték: 2,60 pont | Forrás: PDF 57. oldal
+Név: Kézenátfordulás előre, 1/2 fordulattal az első ívben és 1½ fordulattal a második ívben | Szer: ugrás | Típus: 1. ugráscsoport | Elem kódszáma: 1.23 | D érték: 3,20 pont | Forrás: PDF 57. oldal
+Név: Kézenátfordulás előre, 1/2 fordulattal az első ívben és 2/1 fordulattal a második ívben | Szer: ugrás | Típus: 1. ugráscsoport | Elem kódszáma: 1.24 | D érték: 3,60 pont | Forrás: PDF 57. oldal
+Név: Handsprint forward, tucked salto forward | Szer: ugrás | Típus: 2. ugráscsoport | Elem kódszáma: 2.10 | D érték: 3,60 pont | Forrás: PDF 59. oldal
+Név: Handspring forward, tucked salto forward with 1/2 twist | Szer: ugrás | Típus: 2. ugráscsoport | Elem kódszáma: 2.11 | D érték: 3,80 pont | Forrás: PDF 59. oldal
+Név: Handspring forward, tucked salto forward with 1/1 twist | Szer: ugrás | Típus: 2. ugráscsoport | Elem kódszáma: 2.12 | D érték: 4,20 pont | Forrás: PDF 59. oldal
+Név: Handspring forward, tucked salto forward with 1½ twist | Szer: ugrás | Típus: 2. ugráscsoport | Elem kódszáma: 2.13 | D érték: 4,60 pont | Forrás: PDF 59. oldal
+Név: Handspring forward, piked salto forward | Szer: ugrás | Típus: 2. ugráscsoport | Elem kódszáma: 2.20 | D érték: 3,80 pont | Forrás: PDF 59. oldal
+Név: Tsukahara tucked (Tourischeva) | Szer: ugrás | Típus: 3. ugráscsoport | Elem kódszáma: 3.10 | D érték: 3,20 pont | Forrás: PDF 61. oldal
+Név: Tsukahara tucked with 1/2 twist | Szer: ugrás | Típus: 3. ugráscsoport | Elem kódszáma: 3.11 | D érték: 3,40 pont | Forrás: PDF 61. oldal
+Név: Tsukahara tucked with 1/1 twist (Kim) | Szer: ugrás | Típus: 3. ugráscsoport | Elem kódszáma: 3.12 | D érték: 3,80 pont | Forrás: PDF 61. oldal
+Név: Tsukahara tucked with 1½ twist | Szer: ugrás | Típus: 3. ugráscsoport | Elem kódszáma: 3.13 | D érték: 4,20 pont | Forrás: PDF 61. oldal
+Név: Tsukahara tucked with 2/1 twist | Szer: ugrás | Típus: 3. ugráscsoport | Elem kódszáma: 3.14 | D érték: 4,60 pont | Forrás: PDF 61. oldal
+Név: Round-off, flic-flac onto table, stretched salto backward | Szer: ugrás | Típus: 4. ugráscsoport | Elem kódszáma: 4.30 | D érték: 3,60 pont | Forrás: PDF 63. oldal
+Név: Round-off, flic-flac onto table, stretched salto backward with 1/2 twist | Szer: ugrás | Típus: 4. ugráscsoport | Elem kódszáma: 4.31 | D érték: 3,80 pont | Forrás: PDF 63. oldal
+Név: Round-off, flic-flac onto table, stretched salto backward with 1/1 twist | Szer: ugrás | Típus: 4. ugráscsoport | Elem kódszáma: 4.32 | D érték: 4,20 pont | Forrás: PDF 63. oldal
+Név: Round-off, flic-flac onto table, stretched salto backward with 1½ twist | Szer: ugrás | Típus: 4. ugráscsoport | Elem kódszáma: 4.33 | D érték: 4,60 pont | Forrás: PDF 63. oldal
+Név: Round-off, flic-flac onto table, stretched salto backward with 2/1 twist (Baitova) | Szer: ugrás | Típus: 4. ugráscsoport | Elem kódszáma: 4.34 | D érték: 5,00 pont | Forrás: PDF 63. oldal
+Név: Round-off, flic-flac with 1/2 turn onto table, tucked salto forward (Ivantcheva) | Szer: ugrás | Típus: 5. ugráscsoport | Elem kódszáma: 5.10 | D érték: 3,80 pont | Forrás: PDF 65. oldal
+Név: Round-off, flic-flac with 1/2 turn onto table, tucked salto forward with 1/2 twist (Servente) | Szer: ugrás | Típus: 5. ugráscsoport | Elem kódszáma: 5.11 | D érték: 4,00 pont | Forrás: PDF 65. oldal
+Név: Round-off, flic-flac with 1/2 turn onto table, tucked salto forward with 1/1 twist | Szer: ugrás | Típus: 5. ugráscsoport | Elem kódszáma: 5.12 | D érték: 4,40 pont | Forrás: PDF 65. oldal
+Név: Round-off, flic-flac with 1/2 turn onto table, tucked salto forward with 1½ twist (Khorkina) | Szer: ugrás | Típus: 5. ugráscsoport | Elem kódszáma: 5.13 | D érték: 4,80 pont | Forrás: PDF 65. oldal
+Név: Round-off, flic-flac with 1/2 turn onto table, piked salto forward (Omelianchik) | Szer: ugrás | Típus: 5. ugráscsoport | Elem kódszáma: 5.20 | D érték: 4,00 pont | Forrás: PDF 65. oldal
+Név: Glide kip to support on low bar (or glide with 1/2 turn, kip to support) | Szer: felemáskorlát | Típus: Felugrások | Elem kódszáma: 1.101 | D érték: A | Forrás: PDF 68. oldal
+Név: Jump with 1/1 turn (360°), glide kip to support on low bar | Szer: felemáskorlát | Típus: Felugrások | Elem kódszáma: 1.202 | D érték: B | Forrás: PDF 68. oldal
+Név: From front support on high bar – cast with release and 1/1 turn to hang on high bar (Caslavska) | Szer: felemáskorlát | Típus: Kidobások és szabadkelepek | Elem kódszáma: 2.303 | D érték: C | Forrás: PDF 75. oldal
+Név: From inner front support on low bar – cast with salto roll forward to hang on high bar (Radochla) | Szer: felemáskorlát | Típus: Kidobások és szabadkelepek | Elem kódszáma: 2.403 | D érték: D | Forrás: PDF 75. oldal
+Név: From front support on high bar – cast with salto forward straddled to hang on high bar (Comaneci) | Szer: felemáskorlát | Típus: Kidobások és szabadkelepek | Elem kódszáma: 2.503 | D érték: E | Forrás: PDF 75. oldal
+Név: Hip circle forward, hips touching bar | Szer: felemáskorlát | Típus: Kidobások és szabadkelepek | Elem kódszáma: 2.104 | D érték: A | Forrás: PDF 75. oldal
+Név: Clear hip circle forward to handstand with 1/2 turn in handstand phase (Weiler-kip) | Szer: felemáskorlát | Típus: Kidobások és szabadkelepek | Elem kódszáma: 2.404 | D érték: D | Forrás: PDF 75. oldal
+Név: Long swing forward, counter straddle reverse hecht over high bar to hang (Tkatchev / Davydova) | Szer: felemáskorlát | Típus: Óriáskörök és repülőelemek | Elem kódszáma: 3.403 | D érték: D | Forrás: PDF 80. oldal
+Név: Tkatchev piked; long swing forward and counter flight over high bar (alternative Shushunova) | Szer: felemáskorlát | Típus: Óriáskörök és repülőelemek | Elem kódszáma: 3.503 | D érték: E | Forrás: PDF 80. oldal
+Név: Clear straddle circle forward in L grip to clear support | Szer: felemáskorlát | Típus: Stalderek | Elem kódszáma: 4.103 | D érték: A | Forrás: PDF 87. oldal
+Név: Stalder forward in L grip to handstand, also with 1/2 turn (White) | Szer: felemáskorlát | Típus: Stalderek | Elem kódszáma: 4.403 | D érték: D | Forrás: PDF 87. oldal
+Név: Stalder forward in L grip with 1/1 turn to handstand | Szer: felemáskorlát | Típus: Stalderek | Elem kódszáma: 4.503 | D érték: E | Forrás: PDF 87. oldal
+Név: Clear straddle circle backward to clear support | Szer: felemáskorlát | Típus: Stalderek | Elem kódszáma: 4.104 | D érték: A | Forrás: PDF 87. oldal
+Név: Stalder backward to handstand, also with hop-grip change or 1/2 turn | Szer: felemáskorlát | Típus: Stalderek | Elem kódszáma: 4.304 | D érték: C | Forrás: PDF 87. oldal
+Név: Stalder backward with 1/1 turn to handstand (Frederick) | Szer: felemáskorlát | Típus: Stalderek | Elem kódszáma: 4.404 | D érték: D | Forrás: PDF 87. oldal
+Név: Stalder backward with 1½ turn to handstand | Szer: felemáskorlát | Típus: Stalderek | Elem kódszáma: 4.504 | D érték: E | Forrás: PDF 87. oldal
+Név: Rear support on high bar – seat circle backward with release to hang on low bar | Szer: felemáskorlát | Típus: Ülő forgások | Elem kódszáma: 5.202 | D érték: B | Forrás: PDF 91. oldal
+Név: Clear rear pike support on high bar – full circle swing backward to finish in clear rear support (Steinemann circle) | Szer: felemáskorlát | Típus: Ülő forgások | Elem kódszáma: 5.302 | D érték: C | Forrás: PDF 91. oldal
+Név: Clear rear pike support on high bar – full circle swing backward over bar to hang (Mirgorodskaja) | Szer: felemáskorlát | Típus: Ülő forgások | Elem kódszáma: 5.402 | D érték: D | Forrás: PDF 91. oldal
+Név: Clear rear pike support on high bar – circle backward to stretched salto between bars (Teza) | Szer: felemáskorlát | Típus: Ülő forgások | Elem kódszáma: 5.502 | D érték: E | Forrás: PDF 91. oldal
+Név: From high bar: underswing with 1/2 turn to salto backward tucked or piked (Comaneci) | Szer: felemáskorlát | Típus: Leugrások | Elem kódszáma: 6.303 | D érték: C | Forrás: PDF 97. oldal
+Név: From high bar: underswing with 1/2 turn to salto backward stretched (Okino) | Szer: felemáskorlát | Típus: Leugrások | Elem kódszáma: 6.403 | D érték: D | Forrás: PDF 97. oldal
+Név: Split leap forward (180° leg separation) | Szer: gerenda | Típus: Gimnasztikus ugrások | Elem kódszáma: 2.101 | D érték: A | Forrás: PDF 116. oldal
+Név: Split leap forward with 1/2 turn | Szer: gerenda | Típus: Gimnasztikus ugrások | Elem kódszáma: 2.301 | D érték: C | Forrás: PDF 116. oldal
+Név: Split jump from cross position (180°) | Szer: gerenda | Típus: Gimnasztikus ugrások | Elem kódszáma: 2.202 | D érték: B | Forrás: PDF 116. oldal
+Név: Split jump with 1/2 turn from cross position | Szer: gerenda | Típus: Gimnasztikus ugrások | Elem kódszáma: 2.302 | D érték: C | Forrás: PDF 116. oldal
+Név: Split jump with 1/1 turn from cross position | Szer: gerenda | Típus: Gimnasztikus ugrások | Elem kódszáma: 2.402 | D érték: D | Forrás: PDF 116. oldal
+Név: Straddle pike jump with legs above horizontal / side split jump from cross position | Szer: gerenda | Típus: Gimnasztikus ugrások | Elem kódszáma: 2.203 | D érték: B | Forrás: PDF 117. oldal
+Név: Straddle pike jump with 1/2 turn from cross position | Szer: gerenda | Típus: Gimnasztikus ugrások | Elem kódszáma: 2.303 | D érték: C | Forrás: PDF 117. oldal
+Név: Straddle pike jump with 1/1 turn from cross position | Szer: gerenda | Típus: Gimnasztikus ugrások | Elem kódszáma: 2.403 | D érték: D | Forrás: PDF 117. oldal
+Név: 1/1 turn pirouette with free leg held backward with both hands (Preziosa) | Szer: gerenda | Típus: Gimnasztikus forgások | Elem kódszáma: 3.403 | D érték: D | Forrás: PDF 124. oldal
+Név: 1/1 turn with heel of extended free leg held forward at horizontal | Szer: gerenda | Típus: Gimnasztikus forgások | Elem kódszáma: 3.304 | D érték: C | Forrás: PDF 124. oldal
+Név: 1½ turn with heel of extended free leg held forward at horizontal | Szer: gerenda | Típus: Gimnasztikus forgások | Elem kódszáma: 3.404 | D érték: D | Forrás: PDF 124. oldal
+Név: 2/1 turn with heel of extended free leg held forward at horizontal (Wevers) | Szer: gerenda | Típus: Gimnasztikus forgások | Elem kódszáma: 3.504 | D érték: E | Forrás: PDF 124. oldal
+Név: Kick to side or cross handstand (2 seconds), lower to end position touching beam | Szer: gerenda | Típus: Tartásos és nem repülő akrobatikus elemek | Elem kódszáma: 4.103 | D érték: A | Forrás: PDF 128. oldal
+Név: Kick to cross handstand – roll forward with or without hand support to sit or tuck stand | Szer: gerenda | Típus: Tartásos és nem repülő akrobatikus elemek | Elem kódszáma: 4.203 | D érték: B | Forrás: PDF 128. oldal
+Név: Roll forward without hand support to sit position or tuck stand | Szer: gerenda | Típus: Tartásos és nem repülő akrobatikus elemek | Elem kódszáma: 4.204 | D érték: B | Forrás: PDF 128. oldal
+Név: Free shoulder roll forward with hip extension, without hand support, to sit or tuck stand | Szer: gerenda | Típus: Tartásos és nem repülő akrobatikus elemek | Elem kódszáma: 4.304 | D érték: C | Forrás: PDF 128. oldal
+Név: Flic-flac with 1/4 twist (90°) to handstand held 2 seconds | Szer: gerenda | Típus: Akrobatikus repülőelemek | Elem kódszáma: 5.303 | D érték: C | Forrás: PDF 133. oldal
+Név: Flic-flac with 3/4 twist (270°) to side handstand held 2 seconds (Omelianchik) | Szer: gerenda | Típus: Akrobatikus repülőelemek | Elem kódszáma: 5.403 | D érték: D | Forrás: PDF 133. oldal
+Név: Flic-flac with step-out, optionally on one arm | Szer: gerenda | Típus: Akrobatikus repülőelemek | Elem kódszáma: 5.204 | D érték: B | Forrás: PDF 133. oldal
+Név: Flic-flac with 1/2 twist (180°) after hand support | Szer: gerenda | Típus: Akrobatikus repülőelemek | Elem kódszáma: 5.304 | D érték: C | Forrás: PDF 133. oldal
+Név: Backward jump with 1/2 twist to forward tucked/piked salto (Arabian salto) | Szer: gerenda | Típus: Leugrások | Elem kódszáma: 6.203 | D érték: B | Forrás: PDF 140. oldal
+Név: Stretched jump forward with 1/1 twist, tucked/piked forward salto | Szer: gerenda | Típus: Leugrások | Elem kódszáma: 6.303 | D érték: C | Forrás: PDF 140. oldal
+Név: Stretched jump forward with 1/1 twist, stretched forward salto | Szer: gerenda | Típus: Leugrások | Elem kódszáma: 6.403 | D érték: D | Forrás: PDF 140. oldal
+Név: Split leap forward (180°) | Szer: talaj | Típus: Gimnasztikus ugrások | Elem kódszáma: 1.101 | D érték: A | Forrás: PDF 145. oldal
+Név: Split leap with 1/2 turn (180°) | Szer: talaj | Típus: Gimnasztikus ugrások | Elem kódszáma: 1.201 | D érték: B | Forrás: PDF 145. oldal
+Név: Split leap with 1/1 turn (360°) | Szer: talaj | Típus: Gimnasztikus ugrások | Elem kódszáma: 1.301 | D érték: C | Forrás: PDF 145. oldal
+Név: Fouetté hop with leg change to cross split (180°), tour jeté | Szer: talaj | Típus: Gimnasztikus ugrások | Elem kódszáma: 1.202 | D érték: B | Forrás: PDF 146. oldal
+Név: Tour jeté with additional 1/2 turn (180°) (Produnova) | Szer: talaj | Típus: Gimnasztikus ugrások | Elem kódszáma: 1.302 | D érték: C | Forrás: PDF 146. oldal
+Név: 1/1 turn with free leg held upward in 180° split position | Szer: talaj | Típus: Gimnasztikus forgások | Elem kódszáma: 2.203 | D érték: B | Forrás: PDF 156. oldal
+Név: 2/1 turn with free leg held upward in 180° split position (Memmel) | Szer: talaj | Típus: Gimnasztikus forgások | Elem kódszáma: 2.403 | D érték: D | Forrás: PDF 156. oldal
+Név: 3/1 turn with free leg held upward in 180° split position (Mustafina) | Szer: talaj | Típus: Gimnasztikus forgások | Elem kódszáma: 2.503 | D érték: E | Forrás: PDF 156. oldal
+Név: 1/1 turn in back attitude, thigh of free leg horizontal | Szer: talaj | Típus: Gimnasztikus forgások | Elem kódszáma: 2.204 | D érték: B | Forrás: PDF 156. oldal
+Név: 2/1 turn in back attitude (Semenova), alternatively Berar leg held with hands | Szer: talaj | Típus: Gimnasztikus forgások | Elem kódszáma: 2.404 | D érték: D | Forrás: PDF 156. oldal
+Név: Hecht roll | Szer: talaj | Típus: Kéztámaszos elemek | Elem kódszáma: 3.102 | D érték: A | Forrás: PDF 159. oldal
+Név: Backward roll to handstand with 1/2 or 1/1 turn | Szer: talaj | Típus: Kéztámaszos elemek | Elem kódszáma: 3.103 | D érték: A | Forrás: PDF 159. oldal
+Név: Backward roll to handstand with 1½–2/1 turn | Szer: talaj | Típus: Kéztámaszos elemek | Elem kódszáma: 3.203 | D érték: B | Forrás: PDF 159. oldal
+Név: Salto forward tucked or piked | Szer: talaj | Típus: Szaltók előre és oldalra | Elem kódszáma: 4.101 | D érték: A | Forrás: PDF 162. oldal
+Név: Salto forward tucked with 1/2 or 1/1 twist; or piked with 1/2 twist | Szer: talaj | Típus: Szaltók előre és oldalra | Elem kódszáma: 4.201 | D érték: B | Forrás: PDF 162. oldal
+Név: Double salto forward tucked (Podkopayeva) | Szer: talaj | Típus: Szaltók előre és oldalra | Elem kódszáma: 4.501 | D érték: E | Forrás: PDF 162. oldal
+Név: Salto forward stretched, also with 1/2 twist | Szer: talaj | Típus: Szaltók előre és oldalra | Elem kódszáma: 4.202 | D érték: B | Forrás: PDF 162. oldal
+Név: Salto forward stretched with 2/1 twist (Tarasevich) | Szer: talaj | Típus: Szaltók előre és oldalra | Elem kódszáma: 4.402 | D érték: D | Forrás: PDF 162. oldal
+Név: Salto backward tucked, piked or stretched | Szer: talaj | Típus: Szaltók hátra | Elem kódszáma: 5.101 | D érték: A | Forrás: PDF 164. oldal
+Név: Salto backward stretched with 1/2 or 1/1 twist | Szer: talaj | Típus: Szaltók hátra | Elem kódszáma: 5.201 | D érték: B | Forrás: PDF 164. oldal
+Név: Salto backward stretched with 1½ or 2/1 twist | Szer: talaj | Típus: Szaltók hátra | Elem kódszáma: 5.301 | D érték: C | Forrás: PDF 164. oldal
+Név: Salto backward stretched with 2½ twist | Szer: talaj | Típus: Szaltók hátra | Elem kódszáma: 5.401 | D érték: D | Forrás: PDF 164. oldal
+Név: Salto backward stretched with 3/1 twist | Szer: talaj | Típus: Szaltók hátra | Elem kódszáma: 5.501 | D érték: E | Forrás: PDF 164. oldal
+Név: Double salto backward tucked with 2/1 twist (Silivas) | Szer: talaj | Típus: Szaltók hátra | Elem kódszáma: 5.802 | D érték: H | Forrás: PDF 164. oldal
+Név: Double salto backward tucked with 3/1 twist (Biles II) | Szer: talaj | Típus: Szaltók hátra | Elem kódszáma: 5.1002 | D érték: J | Forrás: PDF 164. oldal
+Név: Giant circle backward in regular grip or on one arm, optionally with 1/2 turn to handstand | Szer: felemáskorlát | Típus: Óriáskörök és repülőelemek | Elem kódszáma: 3.201 | D érték: B | Forrás: PDF 79. oldal
+Név: Giant circle backward with 1/1 turn to handstand | Szer: felemáskorlát | Típus: Óriáskörök és repülőelemek | Elem kódszáma: 3.301 | D érték: C | Forrás: PDF 79. oldal
+Név: Giant circle backward with 1½ or 2/1 turn to handstand (Chusovitina) | Szer: felemáskorlát | Típus: Óriáskörök és repülőelemek | Elem kódszáma: 3.401 | D érték: D | Forrás: PDF 79. oldal
+Név: Handspring forward with flight to land on one or both legs | Szer: gerenda | Típus: Akrobatikus repülőelemek | Elem kódszáma: 5.201 | D érték: B | Forrás: PDF 132. oldal
+Név: Handspring forward with leg change in flight phase | Szer: gerenda | Típus: Akrobatikus repülőelemek | Elem kódszáma: 5.301 | D érték: C | Forrás: PDF 132. oldal

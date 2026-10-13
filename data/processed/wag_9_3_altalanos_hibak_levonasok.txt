@@ -1,0 +1,84 @@
+9.3. AZ ÁLTALÁNOS HIBÁK ÉS LEVONÁSOK TÁBLÁZATA
+Forrás: Női torna pontozói szabálykönyv, 2025–2028, PDF 32–34. oldal.
+Jelmagyarázat: A „nincs jelölve” azt jelenti, hogy a táblázat az adott levonási oszlopban nem jelöl levonást. A „végső pontszámból” történő levonás nem azonos az E-zsűri kiviteli levonásával. A feltételek és megjegyzések a forrás táblázatának részei.
+
+=== E-ZSŰRI ÁLTAL – KIVITELI HIBÁK (PDF 32. oldal) ===
+Kategória: Kiviteli hibák | Hiba: Hajlított kar vagy hajlított térd | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Kis hiba: 0,10 pont | Közepes hiba: 0,30 pont | Nagy hiba: 0,50 pont | Nagyon nagy hiba: nincs jelölve.
+Kategória: Kiviteli hibák | Hiba: Térd- vagy lábnyitás | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Kis hiba: 0,10 pont | Közepes hiba: 0,30 pont (vállszéles vagy szélesebb) | Nagy hiba: nincs jelölve | Nagyon nagy hiba: nincs jelölve.
+Kategória: Kiviteli hibák | Hiba: Lábkeresztezés a csavar elemeknél | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Kis hiba: 0,10 pont | Közepes hiba: nincs jelölve | Nagy hiba: nincs jelölve | Nagyon nagy hiba: nincs jelölve.
+Kategória: Kiviteli hibák | Hiba: Elem elégtelen magassága (külső kiterjedés) | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Kis hiba: 0,10 pont | Közepes hiba: 0,30 pont | Nagy hiba: nincs jelölve | Nagyon nagy hiba: nincs jelölve.
+Kategória: Kiviteli hibák | Hiba: Zsugor és bicska helyzet elégtelen pontossága sima szaltóban | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Kis hiba: 0,10 pont (90° csípő-/térdszög) | Közepes hiba: 0,30 pont (>90° csípő-/térdszög) | Nagy hiba: nincs jelölve | Nagyon nagy hiba: nincs jelölve.
+Kategória: Kiviteli hibák | Hiba: Zsugor és bicska helyzet elégtelen pontossága csavar nélküli duplaszaltóban | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Kis hiba: 0,10 pont (>90° csípő-/térdszög) | Közepes hiba: nincs jelölve | Nagy hiba: nincs jelölve | Nagyon nagy hiba: nincs jelölve.
+Kategória: Kiviteli hibák | Hiba: Nem marad nyújtott testhelyzetben elég ideig (túl hamar bicskázik) | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Kis hiba: 0,10 pont | Közepes hiba: 0,30 pont | Nagy hiba: nincs jelölve | Nagyon nagy hiba: nincs jelölve.
+Kategória: Kiviteli hibák | Hiba: Bizonytalanság az elemek és mozdulatok bemutatásakor | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Kis hiba: 0,10 pont | Közepes hiba: nincs jelölve | Nagy hiba: nincs jelölve | Nagyon nagy hiba: nincs jelölve.
+Kategória: Kiviteli hibák | Hiba: Kísérelt elem végrehajtása nélkül (üres nekifutás) | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Kis hiba: nincs jelölve | Közepes hiba: 0,30 pont | Nagy hiba: nincs jelölve | Nagyon nagy hiba: nincs jelölve.
+Kategória: Kiviteli hibák | Hiba: Eltérés az egyenes iránytól | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Kis hiba: 0,10 pont | Közepes hiba: nincs jelölve | Nagy hiba: nincs jelölve | Nagyon nagy hiba: nincs jelölve.
+Kategória: Kiviteli hibák; test- és/vagy lábhelyzet az elemben (nem gimnasztikus) | Hiba: Törzs kiegyenesítése | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Kis hiba: 0,10 pont | Közepes hiba: nincs jelölve | Nagy hiba: nincs jelölve | Nagyon nagy hiba: nincs jelölve.
+Kategória: Kiviteli hibák; test- és/vagy lábhelyzet az elemben (nem gimnasztikus) | Hiba: Lábfej nem spiccel/feszes | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Kis hiba: 0,10 pont | Közepes hiba: nincs jelölve | Nagy hiba: nincs jelölve | Nagyon nagy hiba: nincs jelölve.
+Kategória: Kiviteli hibák; test- és/vagy lábhelyzet az elemben (nem gimnasztikus) | Hiba: Elégtelen lábnyitás akrobatikus elemekben (repülő fázis nélkül) | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Kis hiba: 0,10 pont | Közepes hiba: 0,30 pont | Nagy hiba: nincs jelölve | Nagyon nagy hiba: nincs jelölve.
+Kategória: Kiviteli hibák | Hiba: Nem teljesülnek a gimnasztikus elemek technikai követelményei (testforma) | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Kis hiba: 0,10 pont | Közepes hiba: 0,30 pont | Nagy hiba: 0,50 pont | Nagyon nagy hiba: nincs jelölve | Hivatkozás: a 8. szakaszban részletezett gimnasztikus elemek hibái.
+Kategória: Kiviteli hibák | Hiba: Pontosság | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Kis hiba: 0,10 pont | Közepes hiba: nincs jelölve | Nagy hiba: nincs jelölve | Nagyon nagy hiba: nincs jelölve.
+Kategória: Kiviteli hibák | Hiba: Leugrás túl közel a szerhez (korlát és gerenda) | Elbíráló: E-zsűri | Alkalmazás: a táblázatban nincs külön megadva | Kis hiba: nincs jelölve | Közepes hiba: 0,30 pont | Nagy hiba: nincs jelölve | Nagyon nagy hiba: nincs jelölve.
+
+=== E-ZSŰRI ÁLTAL – LEÉRKEZÉSI HIBÁK (PDF 32. oldal) ===
+Kategória: Leérkezési hibák (minden elem, a leugrást is beleértve) | Elbíráló: E-zsűri | Általános feltétel: Ha nincs esés, a leérkezési hibák összesen nem haladhatják meg a 0,80 pontot.
+Kategória: Leérkezési hibák | Hiba: Lábfejek külön a leérkezéskor | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Kis hiba: 0,10 pont | Közepes hiba: nincs jelölve | Nagy hiba: nincs jelölve | Nagyon nagy hiba: nincs jelölve.
+Kategória: Leérkezési hibák | Hiba: Felesleges karlendítések | Elbíráló: E-zsűri | Alkalmazás: a táblázatban nincs külön megadva | Kis hiba: 0,10 pont | Közepes hiba: nincs jelölve | Nagy hiba: nincs jelölve | Nagyon nagy hiba: nincs jelölve.
+Kategória: Leérkezési hibák | Hiba: Egyensúlyvesztés | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Kis hiba: 0,10 pont | Közepes hiba: 0,30 pont | Nagy hiba: nincs jelölve | Nagyon nagy hiba: nincs jelölve.
+Kategória: Leérkezési hibák | Hiba: Ellépés, kis elszökkenés | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Kis hiba: 0,10 pont | Közepes hiba: nincs jelölve | Nagy hiba: nincs jelölve | Nagyon nagy hiba: nincs jelölve.
+Kategória: Leérkezési hibák | Hiba: Nagyon nagy ellépés vagy elszökkenés (viszonyítási alap: nagyobb mint vállszélesség) | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Kis hiba: nincs jelölve | Közepes hiba: 0,30 pont | Nagy hiba: nincs jelölve | Nagyon nagy hiba: nincs jelölve.
+Kategória: Leérkezési hibák | Hiba: Testhelyzet hibái | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Kis hiba: 0,10 pont | Közepes hiba: 0,30 pont | Nagy hiba: nincs jelölve | Nagyon nagy hiba: nincs jelölve.
+Kategória: Leérkezési hibák | Hiba: Mély guggolás | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Kis hiba: nincs jelölve | Közepes hiba: nincs jelölve | Nagy hiba: 0,50 pont | Nagyon nagy hiba: nincs jelölve.
+Kategória: Leérkezési hibák | Hiba: Szerhez vagy szőnyeghez hozzáérés kézzel, de nem esés | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Kis hiba: nincs jelölve | Közepes hiba: 0,30 pont | Nagy hiba: nincs jelölve | Nagyon nagy hiba: nincs jelölve.
+Kategória: Leérkezési hibák | Hiba: Támasz a szeren vagy szőnyegen 1 vagy 2 kézzel | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Levonás: 1,00 pont (nagyon nagy hiba).
+Kategória: Leérkezési hibák | Hiba: Térdre vagy fenékre esés a szőnyegen | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Levonás: 1,00 pont (nagyon nagy hiba).
+Kategória: Leérkezési hibák | Hiba: Szernek vagy szerre esés | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Levonás: 1,00 pont (nagyon nagy hiba).
+Kategória: Leérkezési hibák | Hiba: Leérkezéskor nem a láb ér le először | Elbíráló: E-zsűri | Alkalmazás: minden alkalommal | Levonás: 1,00 pont (nagyon nagy hiba).
+
+=== D-ZSŰRI ÁLTAL (D1 ÉS D2) (PDF 33. oldal) ===
+Kategória: D-zsűri által | Hiba: Elemkapcsolat eséssel | Érintett szer: UB, BB, FX | Következmény: nincs CV; nincs SB (BB) | Megjegyzés: nem pontlevonásként szerepel, hanem bónuszok elmaradásaként.
+Kategória: D-zsűri által | Hiba: DMT eséssel | Érintett szer: FX | Következmény: nincs bónusz | Megjegyzés: nem pontlevonásként szerepel, hanem bónusz elmaradásaként.
+Kategória: D-zsűri által | Hiba: Leérkezéskor nem a lába ér le először, vagy nem az előírt helyzetbe érkezik | Alkalmazás: minden alkalommal | Következmény: nincs DV, CV, CR; nincs SB (BB) és nincs DMT bónusz.
+Kategória: D-zsűri által | Hiba: Elugrás a talajterületen kívülről (teljesen kívülről) | Érintett szer: FX | Következmény: nincs DV, CV, CR.
+Kategória: D-zsűri által | Hiba: Be- és/vagy kijelentkezés elmulasztása a D-zsűri felé | Érintett: Tornász/Esemény | Közepes hiba: 0,30 pont | Levonás helye: végső pontszámból.
+Kategória: D-zsűri által | Hiba: Segítségadás (asszisztálás) | Érintett szer: UB, BB, FX | Alkalmazás: minden alkalommal | Levonás: 1,00 pont a végső pontszámból | További következmény: ha az edző segíti a tornászt az elem befejezése után, nincs CV és nincs DMT bónusz; ha az edző segíti a tornászt az elem végrehajtásában, nincs DV, CV, CR és nincs DMT bónusz.
+Kategória: D-zsűri által | Hiba: Segítségadó nem megengedett jelenléte | Érintett: Tornász/Esemény | Nagy hiba: 0,50 pont | Levonás helye: végső pontszámból.
+Kategória: D-zsűri által | Hiba: Tornász átfut vagy átmegy az alacsony karfa alatt a felugrás bemutatásához | Érintett: Tornász/Esemény | Közepes hiba: 0,30 pont | Levonás helye: végső pontszámból.
+
+=== D-ZSŰRI ÁLTAL (D1 ÉS D2) ÉRTESÍTVE A SZUPERIOR ZSŰRIT, VAGY A SZUPERIOR ZSŰRI ÁLTAL – SZEREK SZABÁLYTALANSÁGA (PDF 33. oldal) ===
+Kategória: Szerek szabálytalansága | Hiba: Rundel kezdetű ugrásoknál biztonsági gallér nem megfelelő használata (lásd 10.4.3) | Érintett: Tornász/Esemény | Következmény: érvénytelen ugrás, „0”.
+Kategória: Szerek szabálytalansága | Hiba: Kiegészítő szőnyeg használatának elmulasztása | Érintett: Tornász/Esemény | Nagy hiba: 0,50 pont | Levonás helye: végső pontszámból.
+Kategória: Szerek szabálytalansága | Hiba: Dobbantó nem megengedett felületre helyezése | Érintett: Tornász/Esemény | Nagy hiba: 0,50 pont | Levonás helye: végső pontszámból.
+Kategória: Szerek szabálytalansága | Hiba: Nem megengedett kiegészítő szőnyegek használata | Érintett: Tornász/Esemény | Nagy hiba: 0,50 pont | Levonás helye: végső pontszámból.
+Kategória: Szerek szabálytalansága | Hiba: A kiegészítő szőnyeg mozgatása gyakorlat közben, vagy a gerenda nem megengedett végén való elhelyezése | Érintett: Tornász/Esemény | Nagy hiba: 0,50 pont | Levonás helye: végső pontszámból.
+
+=== SZUPERIOR ZSŰRI ELNÖKE ÁLTAL A D-ZSŰRI ÉRTESÍTÉSE ALAPJÁN (PDF 33. oldal) ===
+Kategória: Szerek szabálytalansága | Hiba: Magnézia nem megfelelő használata és/vagy szer rongálása | Érintett: Tornász/Esemény | Nagy hiba: 0,50 pont | Levonás helye: végső pontszámból.
+Kategória: Szerek szabálytalansága | Hiba: Dobbantórugók helyzetének, számának megváltoztatása | Érintett: Tornász/Esemény | Nagy hiba: 0,50 pont | Levonás helye: végső pontszámból.
+Kategória: Szerek szabálytalansága | Hiba: Szer magasságának megváltoztatása engedély nélkül | Érintett: Tornász/Esemény | Nagy hiba: 0,50 pont | Levonás helye: végső pontszámból.
+
+=== SZUPERIOR ZSŰRI ELNÖKE ÁLTAL A D-ZSŰRI ÉRTESÍTÉSE ALAPJÁN – TORNÁSZ MAGATARTÁSA (PDF 33–34. oldal) ===
+Kategória: Tornász magatartása | Hiba: Hibás vagy nem esztétikus párnázás, kötözés | Érintett: Tornász/Esemény | Közepes hiba: 0,30 pont | Levonás helye: végső pontszámból.
+Kategória: Tornász magatartása | Hiba: Nemzeti címer hiánya vagy nem megfelelő elhelyezése | Érintett: Tornász/Esemény | Közepes hiba: 0,30 pont | Levonás helye: kvalifikáció, egyéni összetett és csapatdöntő során egyszer a versenyszakaszban, azon a szeren, ahol először észrevették; szerenkénti döntőknél az adott esemény pontszámából.
+Kategória: Tornász magatartása | Hiba: Hiányzó rajtszám | Érintett: Tornász/Esemény | Közepes hiba: 0,30 pont | Levonás helye: kvalifikáció, egyéni összetett és csapatdöntő során egyszer a versenyszakaszban, azon a szeren, ahol először észrevették; szerenkénti döntőknél az adott esemény pontszámából.
+Kategória: Tornász magatartása | Hiba: Nem megfelelő öltözék – dressz, ékszer, kötés színe | Érintett: Tornász/Esemény | Közepes hiba: 0,30 pont | Levonás helye: kvalifikáció, egyéni összetett és csapatdöntő során egyszer a versenyszakaszban, azon a szeren, ahol először észrevették; szerenkénti döntőknél az adott esemény pontszámából.
+Kategória: Tornász magatartása | Hiba: Nem megfelelő reklámozás | Érintett: Csapat vagy tornász/esemény | Közepes hiba: 0,30 pont | Levonás helye: az érintett szeren elért végső pontszámból, a felelős szervezet kérése alapján.
+Kategória: Tornász magatartása | Hiba: Sportszerűtlen viselkedés | Érintett: Tornász/Esemény | Közepes hiba: 0,30 pont | Levonás helye: végső pontszámból.
+Kategória: Tornász magatartása | Hiba: Jogosulatlan pódiumon maradás | Érintett: Tornász/Esemény | Közepes hiba: 0,30 pont | Levonás helye: végső pontszámból.
+Kategória: Tornász magatartása | Hiba: Visszatérés a pódiumra a gyakorlat befejezése után | Érintett: Tornász/Esemény | Közepes hiba: 0,30 pont | Levonás helye: végső pontszámból.
+Kategória: Tornász magatartása | Hiba: Beszélgetés aktív bíróval a verseny alatt | Érintett: Tornász/Esemény | Közepes hiba: 0,30 pont | Levonás helye: végső pontszámból.
+Kategória: Tornász magatartása | Hiba: Csapattagok nem megfelelő sorrendben indulnak | Érintett: Csapat | Levonás: 1,00 pont | Levonás helye: kvalifikáció és csapatdöntő során a csapat összpontszámából azon a szeren, ahol megtörtént.
+Kategória: Tornász magatartása | Hiba: Nem egyforma tornadressz (azonos csapat tornászai esetében) | Érintett: Csapat | Levonás: 1,00 pont | Levonás helye: kvalifikáció és csapatdöntő során egyszer a versenyszakaszban, azon a szeren, ahol először észrevették.
+Kategória: Tornász magatartása | Hiba: A versenyző nem fejezi be a versenyt, mert nincs a versenycsarnokban | Következmény: diszkvalifikáció.
+Kategória: Tornász magatartása | Hiba: A verseny meg nem engedett késleltetése vagy félbeszakítása | Következmény: diszkvalifikáció.
+
+=== AZ IDŐMÉRŐ BÍRÓ ÍRÁSOS ÉRTESÍTÉSE ALAPJÁN A D-ZSŰRI ÁLTAL (PDF 34. oldal) ===
+Kategória: Időmérési hibák | Általános megjegyzés: A levonást akkor alkalmazzák, ha az időtúllépés meghaladja az egy másodpercet.
+Kategória: Időmérési hibák | Hiba: Bemelegítési idő kirívó túllépése (figyelmeztetés után) | Érintett: Csapat/Esemény | Közepes hiba: 0,30 pont | Levonás helye: végső pontszámból.
+Kategória: Időmérési hibák | Hiba: Bemelegítési idő kirívó túllépése egyéni versenyzőknél | Érintett: Tornász/Esemény | Közepes hiba: 0,30 pont | Levonás helye: végső pontszámból.
+Kategória: Időmérési hibák | Hiba: A tornász nem kezdi meg a gyakorlatot 30 másodpercen belül a megadott jelzéstől számítva | Érintett: Tornász/Esemény | Közepes hiba: 0,30 pont | Levonás helye: végső pontszámból.
+Kategória: Időmérési hibák | Hiba: A tornász nem kezdi meg a gyakorlatot 60 másodpercen belül a megadott jelzéstől számítva | Érintett: Tornász/Esemény | Következmény: a gyakorlat megkezdésének joga véget ér.
+Kategória: Időmérési hibák | Hiba: Időtúllépés | Érintett szer: BB, FX | Érintett: Tornász/Esemény | Kis hiba: 0,10 pont | Levonás helye: végső pontszámból.
+Kategória: Időmérési hibák | Hiba: A gyakorlat elkezdése a jelzés előtt vagy amikor a piros fény világít | Érintett: Tornász/Esemény | Következmény: „0” pont.
+Kategória: Időmérési hibák; korlát és gerenda | Hiba: Megengedett leesési idő túllépése | Érintett: Tornász/Esemény | Közepes hiba: 0,30 pont | Levonás helye: végső pontszámból.
+Kategória: Időmérési hibák; korlát és gerenda | Hiba: Megengedett leesési idő túllépése (több mint 60 mp) | Érintett: Tornász/Esemény | Következmény: a gyakorlat véget ér.
