@@ -29,7 +29,12 @@ class AnswerGenerator:
         self.client = Groq(api_key=api_key)
         self.model = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
 
-    def generate(self, question: str, documents: list[dict]) -> dict:
+    def generate(
+        self,
+        question: str,
+        documents: list[dict],
+        history: list[dict] | None = None
+    ) -> dict:
 
         if not documents:
             return {
@@ -66,6 +71,7 @@ Válaszolj a kérdésre a források alapján, hivatkozásokkal.
             model=self.model,
             messages=[
                 {"role": "system", "content": SYSTEM_PROMPT},
+                *(history or []),
                 {"role": "user", "content": user_prompt}
             ],
             temperature=0,

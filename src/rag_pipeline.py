@@ -7,15 +7,45 @@ class RAGPipeline:
         self.retriever = Retriever(top_k=top_k)
         self.generator = AnswerGenerator()
 
-    def ask(self, question: str) -> dict:
+    def ask(
+        self,
+        question: str,
+        history: list[dict] | None = None
+    ) -> dict:
+
         if not question.strip():
             raise ValueError("A kérdés nem lehet üres.")
 
-        #keresés
-        documents = self.retriever.retrieve(question)
+        history = history or []
 
-        #LLM válasz generálás
-        generation = self.generator.generate(question, documents)
+        #legutóbbi felhasználói kérdés megkeresése
+        previous_question = next(
+            (
+                msg["content"]
+                for msg in reversed(history)
+                if msg["role"] == "user"
+            ),
+            None
+        )
+
+        #követőkérdés esetén a keresés kontextust kap
+        search_query = question
+
+        if previous_question:
+            search_query = (
+                f"Előző kérdés: {previous_question}\n"
+                f"Jelenlegi kérdés: {question}"
+            )
+
+        #pinecone keresés
+        documents = self.retriever.retrieve(search_query)
+
+        #LLM válasz előzményekkel
+        generation = self.generator.generate(
+            question,
+            documents,
+            history=history
+        )
 
         return {
             "question": question,
