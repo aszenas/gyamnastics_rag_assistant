@@ -748,9 +748,7 @@ def render_dashboard():
 
         st.markdown(
             '<div class="evaluation-note">'
-            'A Recall@k és a standard nDCG@k csak ellenőrzött gold '
-            'chunkhalmazzal számítható korrektül. A következő lépésben '
-            'a gold_questions.csv alapján ezeket is bevezetjük. '
+            'A válaszok helyességét, chunk-ok relevanciáját torna bírói végzettségű felhasználó értékelte. '
             'Az MRR és a Precision a jelenleg manuálisan jelölt top-k találatokból készül.'
             '</div>',
             unsafe_allow_html=True
