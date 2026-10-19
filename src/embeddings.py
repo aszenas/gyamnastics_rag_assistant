@@ -7,8 +7,7 @@ class EmbeddingModel:
     def __init__(self):
         print(f"Embedding modell betöltése: {MODEL_NAME}")
         self.model = SentenceTransformer(
-            MODEL_NAME,
-            local_files_only=True
+            MODEL_NAME
         )
 
     def embed_documents(self, texts: list[str]):
