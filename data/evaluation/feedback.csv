@@ -1,0 +1,1367 @@
+﻿response_id,session_id,timestamp,mode,question,answer,rating,prompt_tokens,completion_tokens,total_tokens,model,source_ids,relevant_chunk_ids,top_k,groundedness,citation_accuracy,answer_relevance,evaluation_run_id
+7f172dd5-e33f-43f9-95ed-a05297a1b5ee,ba57f5d6-a3d1-40d9-a7b5-c78fd0cd19eb,2026-10-15T12:37:00.688572+00:00,rag,Milyen általános követelmények vonatkoznak a női tornászok versenydresszére?,"**Általános követelmények a női tornászok versenydresszére**
+
+| Követelmény | Leírás |
+|-------------|--------|
+| **Anyag és megjelenés** | A dressznek **sportos, nem‑átlátszó, elegáns** megjelenésűnek kell lennie. A mez (egyrészes, nadrággal egybevarrott dressz, amely a bokáig ér) szintén ebbe a kategóriába tartozik. A színnek egységesnek kell lennie a nadrággal, ha azt a dressz alatt vagy fölött viselik. | [1] |
+| **Fejfedő** | Fejfedő viselése megengedett, de a **FIG Versenyöltözet és Reklámozási Szabályzat**‑nak kell megfelelnie. | [1][2] |
+| **Nyakvonal** | A nyakvonal **elöl** nem lehet mélyebb, mint a **szegycsont felezőpontja**, **hátul** pedig nem lehet mélyebb, mint a **lapocka alsó vonala**. | [1][2] |
+| **Ujj** | A dressz/mez lehet **ujjas** vagy **ujj nélküli**. | [2] |
+| **Vállpánt** | A vállpánt **minimum 2 cm** széles kell legyen. | [2] |
+| **Lábkivágás és hossz** | A dressz lábkivágása **nem nyúlhat a csípőcsont fölé** (maximum). A láb hossza **nem haladhat túl a láb körüli vízszintes vonalon**, legfeljebb **2 cm‑rel a fenék alatt**. | [2] |
+| **Lábbeli** | Tornapapucs és/vagy zokni viselése megengedett. | [2] |
+| **Rajtszám** | A szervezőbizottság által adott **rajtszámot kötelező viselni** (kivéve speciális eset, amikor írásos engedéllyel a rajtszámot el lehet távolítani). | [2] |
+| **Nemzeti jelvény** | A versenyöltözeten **kell viselni a nemzeti jelvényt** a FIG szabályzatnak megfelelően. | [2] |
+| **Logók, reklámok** | Csak olyan logók, reklám‑ és szponzorazonosítók megengedettek, amelyek **megfelelnek a hatályos FIG Versenyöltözet és Reklámozási Szabálynak**. | [2][3] |
+| **Közös dressz csapatversenyen** | Kvalifikációs és csapatdöntő versenyeken **azonos nemzetből érkező csapattagoknak azonos dresszt/mezt** kell viselniük. Egyéni versenyzők esetén ez nem kötelező. | [3] |
+| **Kiegészítők** | Kézvédők, testkötések, csuklószorítók viselése megengedett, ha **biztonságosan rögzítettek, jó állapotúak és nem rontják a megjelenés esztétikáját**; színük bézs vagy testszínű kell legyen (ha a gyártónál ilyen szín elérhető). | [3] |
+| **Tiltott kiegészítők** | **Kompressziós kötések (karkötők, zoknik), ékszerek (karkötő, nyaklánc) – kivéve kicsi, bedugós fülbevaló –, csípő‑ vagy egyéb kipárnázás** viselése tilos. | [3] |
+| **Make‑up** | Az arcfestés **nem engedélyezett**; a smink legyen **visszafogott**, nem színházi karakterábrázolás. | [3] |
+
+Ezek a pontok alkotják a női tornászok versenydresszére vonatkozó általános követelményrendszert a 2025‑2028‑as pontozási szabálykönyvben. (Források: [1], [2], [3])",5,2488,1025,3513,openai/gpt-oss-120b,"[""pdf_p008_002"", ""pdf_p008_003"", ""pdf_p008_004"", ""pdf_p010_003"", ""pdf_p008_001""]","[""pdf_p008_002"", ""pdf_p008_003"", ""pdf_p008_004""]",5,yes,yes,yes,
+44ebf911-0a82-487e-9145-c6fb545de488,ba57f5d6-a3d1-40d9-a7b5-c78fd0cd19eb,2026-10-15T12:41:01.788445+00:00,baseline,Milyen általános követelmények vonatkoznak a női tornászok versenydresszére?,"A női tornászok versenydresszéről a FIG 2025–2028‑as pontozási szabálykönyve a következő általános követelményeket határozza meg:
+
+| Terület | Követelmény |
+|---|---|
+| **Anyag** | A ruhadarabnak könnyű, rugalmas, légáteresztő anyagból (pl. lycra, spandex) kell készülnie, amely nem korlátozza a mozgást és nem szabadul fel szál vagy szövetdarab a verseny során. |
+| **Szín és díszítés** | A színválasztás szabad, de a díszítések (csíkok, logók, flitterek, csillámok stb.) csak a ruhadarab felületén, a testet fedő részeken (felső, szoknya) megengedettek. A díszítéseknek nem lehet fényvisszaverő vagy „blikk” hatásuk, amely zavarhatja a bírókat vagy a közönséget. |
+| **Méretezés** | A ruha szigorúan a testhez illeszkedő, de nem szorító kell, hogy a mozgás minden fázisában (ugrás, forgás, hajlítás) ne legyen akadályozva. A ruha nem lehet túl laza, mert az „szabálytalan” mozgásnak minősülhet a pontozás során. |
+| **Felső rész** | A felsőnek teljesen fednie kell a mellkast, a vállakat és a hát felső részét. Nem megengedett a dekoltázs, a nyílás vagy a nyitott hát. A ruha hátul is teljesen fedett kell legyen, kivéve a versenyszabályokban engedélyezett „hátsó szelvény” (maximum 5 cm széles, középen elhelyezkedő nyílás). |
+| **Alsó rész (szoknya/shorts)** | A szoknya vagy a shorts legalább 10 cm‑es fedettséget kell biztosítson a combok felső részén. A szoknya hossza a térd fölött, de a lábszár középső részénél nem lehet rövidebb, mint 5 cm a térd vonalától. |
+| **Fejfedő, ékszerek, kiegészítők** | Fejfedő (pl. hajpánt, fejpánt) csak egyszerű, nem díszített anyagból lehet, és nem lehet fényvisszaverő. Ékszerek (fülbevaló, nyaklánc, karkötő) tilosak. A hajtartásnak stabilnak kell lennie, hogy a verseny során ne essen le. |
+| **Cipő** | A lábbelit a szabályzat külön pontban szabályozza (pontosabban a „tánc- és gimnasztikai cipő” fejezetben), de a ruhához illeszkedő, szintén rugalmas anyagú, nem csúszó talpú cipő viselése kötelező. |
+| **Logók és szponzorok** | A ruhán megjelenő logók mérete legfeljebb 5 × 5 cm lehet, és csak a ruhadarab szélén (oldal, hát) helyezhetők el. A logók színe nem lehet kontrasztos a ruha alapszínével, hogy ne vonja el a figyelmet a mozdulatokról. |
+| **Általános megjelenés** | A ruha legyen tiszta, hibátlan állapotú, nem lehet rajta folt, szakadás vagy bármilyen olyan jel, amely a versenyző megjelenését zavarja. |
+
+**Megjegyzés:** A fenti pontok a szabálykönyv „Általános ruházati követelmények” (3.1‑3.5) szakaszában találhatók. Ha a verseny szervezője vagy a nemzeti szövetség további, helyi specifikációkat határoz meg (pl. színpaletta, logók elhelyezése), azokat szintén be kell tartani. 
+
+Amennyiben konkrétabb részletekre vagy egy adott versenyre vonatkozó kiegészítő előírásokra van szükséged, kérlek jelezd!",4,262,1050,1312,openai/gpt-oss-120b,[],,0,,,yes,
+30fbae54-6d6e-4fc5-817e-3dc4537bdc79,ba57f5d6-a3d1-40d9-a7b5-c78fd0cd19eb,2026-10-15T12:42:24.652823+00:00,rag,Milyen szabályok vonatkoznak a tornadressz nyakkivágására és vállpántjára?,"**Nyakkivágás (nyakvonal) és vállpánt szabályai a női tornadresszre**
+
+| Szabály | Részletek | Forrás |
+|---------|-----------|--------|
+| **Nyakkivágás – elülső rész** | A nyakvonal **elöl** nem lehet mélyebb, mint a **szegycsont felezőpontja**. | [1] |
+| **Nyakkivágás – hátsó rész** | A nyakvonal **hátul** nem lehet mélyebb, mint a **lapocka alsó vonala**. | [1] |
+| **Vállpánt szélessége** | A vállpánt **minimum 2 cm** szélesnek kell lennie. | [1] |
+| **Megengedett változatok** | A dressz/mez lehet **ujjas** vagy **ujj nélküli**; ez a nyakkivágásra és vállpánt szélességre vonatkozó követelményeket nem módosítja. | [1] |
+
+**Összefoglalás**
+
+- A versenydressz nyakvonalának mélysége szigorúan korlátozott: elöl a szegycsont felezőpontja, hátul a lapocka alsó vonala a határ.  
+- A vállpántnak legalább 2 cm szélesnek kell lennie, függetlenül attól, hogy a dressz ujjas vagy ujj nélküli.  
+
+Ezek a szabályok a 2025‑2028‑as női torna pontozási szabálykönyvében a „Verseny öltözet” (2.3.2.) szakaszban találhatók. (Forrás: [1])",5,3493,436,3929,openai/gpt-oss-120b,"[""pdf_p008_003"", ""pdf_p008_004"", ""pdf_p008_002"", ""pdf_p013_002"", ""pdf_p010_003""]","[""pdf_p008_003"", ""pdf_p008_002""]",5,yes,yes,yes,
+b5d94536-61c4-409a-8c3b-99991a61460c,ba57f5d6-a3d1-40d9-a7b5-c78fd0cd19eb,2026-10-15T12:44:09.489031+00:00,baseline,Milyen szabályok vonatkoznak a tornadressz nyakkivágására és vállpántjára?,"**Nyakkivágás és vállpánt a FIG 2025‑2028‑as női torna szabálykönyve szerint**
+
+| Szempont | Szabály | Magyarázat |
+|---|---|---|
+| **Nyakkivágás (dékoltázs)** | **Tiltott**. A versenydressznek teljesen fednie kell a mellkast és a nyakat. | A nyakkivágás bármilyen mélysége (pl. V‑vonal, U‑vonal, mély V‑vonal) a pontozás során „nem megfelelő megjelenésnek” minősül, és a versenyzőt figyelmeztetés vagy diszkvalifikáció fenyegeti, ha a nyak nyílt marad. |
+| **Vállpánt (vállkötés)** | **Kötelező, de egyszerű**. A ruhának rendelkeznie kell legalább egy (de legfeljebb két) vállpánttal, amely a vállak felső részét (acélos, kulcscsont környékét) teljesen lefedi. | A vállpántnak szilárdan kell tartania a felső részt, hogy a ruha ne csússzon le a mozgás közben. A pánt szélessége legalább 2 cm, de nem haladhatja meg a 5 cm‑et. |
+| **Vállpánt elhelyezése** | A pánt(ok)nak a vállízület középvonalában kell elhelyezkedniük, és a ruha anyagától függetlenül nem lehetnek elcsúszva a vállról. | Ha a pánt a vállról lecsúszik, vagy a ruha „szabadon függ” a válltól, a bírók a ruhát „nem megfelelően rögzítettnek” tekintik, ami a végső pontszámba beépülő levonást vonhat maga után. |
+| **Vállpánt anyaga és díszítése** | Engedélyezett a sima, rugalmas anyag (lycra, spandex) vagy egy vékony szövet, de a pánton nem lehet fényvisszaverő, csillogó vagy nagy méretű díszítés (pl. flitter, csillám). | A díszítés csak a ruha felületén, a pánton kívül lehet, és legfeljebb 5 × 5 cm‑es logó vagy szöveg megengedett. |
+| **Vállpánt színkövetése** | A pánt színe **kötelezően** egyezzen a ruha alapszínével, vagy legyen olyan árnyalatú, hogy ne legyen kontrasztos. | A kontrasztos színű pánt (pl. fehér ruha fekete pánttal) a „vizuális zavar” kategóriába esik, és a bírók figyelmeztetést adhatnak. |
+| **Kettős vállpánt** | Két vállpánt használata megengedett, de mindkettőnek ugyanazoknak a fenti követelményeknek kell megfelelnie. | A kettős pánt gyakran a „tánc‑ és gimnasztikai” stílusú ruhákban jelenik meg; a szabályok ugyanúgy alkalmazandók. |
+| **Vállpánt hiánya** | **Tiltott**. Ha a ruha nem rendelkezik vállpánttal, a versenyzőt a bírók a ruhát „nem megfelelően felöltöttnek” minősítik, és a versenyen való részvételét megtagadják. | A szabályt a 3.2.1‑es pontban („Váll- és nyakfedés”) rögzítik. |
+
+### Gyakorlati tanácsok
+
+1. **Próba a verseny előtt** – A ruhát legalább egy héttel a verseny előtt próbáld fel, és ellenőrizd, hogy a vállpántok nem csúsznak le a mozgás közben.
+2. **Rögzítőelemek** – Ha a pánt anyaga hajlamos a csúszásra, használhatsz belső, nem látható szilikon‑ vagy ragasztó‑pántot (ez a szabályzatban engedélyezett, amennyiben nem látható kívülről).
+3. **Képzelt ellenőrzés** – A versenyzőknek a felvétel előtt a bírók által végzett „ruha‑ellenőrzésen” (dress‑check) kell átesniük; itt a nyakkivágás és a vállpántok ellenőrzése is megtörténik.
+
+**Összegzés:** A női tornadressznek **teljesen fednie kell a nyakat**, **kötelező a vállpánt(ok) használata**, a pántoknak **egységes színűnek, egyszerűnek és megfelelő szélességűnek** kell lenniük, és **nem lehetnek díszítve** olyan módon, hogy a bírók vizuális zavarra okot adjanak. A szabályok megszegése figyelmeztetést vagy pontlevonást vonhat maga után.  
+
+Ha konkrét ruhadarabról vagy egy adott versenyről (pl. nemzeti bajnokság) van szó, és további részletekre van szükséged, jelezd!",2,1324,1276,2600,openai/gpt-oss-120b,[],,0,,,yes,
+e94208bc-9f1f-4793-b3c1-e4620d4869d4,ba57f5d6-a3d1-40d9-a7b5-c78fd0cd19eb,2026-10-15T12:45:23.557633+00:00,rag,Milyen ékszerek viselése megengedett a női torna versenyeken?,"**Megengedett ékszerek a női torna versenyeken**
+
+| Ékszer típusa | Engedélyezettség | Megjegyzés |
+|---------------|------------------|-----------|
+| **Karkötő** | **Tiltott** | A versenyzőknek tartózkodniuk kell a karkötő viselésétől. |
+| **Nyaklánc** | **Tiltott** | A versenyzőknek tartózkodniuk kell a nyaklánc viselésétől. |
+| **Fülbevaló** | **Megengedett, de csak kicsi, bedugós (stud) típusú** | A „kicsi, bedugós fülbevaló” kivételt tesz a fülbevalókra; egyéb, függöny‑ vagy nagyobb fülbevalók nem megengedettek. |
+| **Egyéb ékszerek (pl. gyűrű, medál, lánc, nagyobb fülbevaló, stb.)** | **Tiltott** | A szabályzat csak a fülbevaló kivételét említi; minden egyéb ékszer viselése nem engedélyezett. |
+
+**Forrás:**  
+A szabályok egyértelműen kimondják, hogy „a tornászoknak tartózkodni kell az ékszerviseléstől (karkötő és nyaklánc), **kivéve kicsi, bedugós fülbevaló**” [1].  
+
+Ez alapján a versenyeken csak a fent megnevezett kicsi, bedugós fülbevaló viselése megengedett; minden más ékszer tiltott.",5,3737,477,4214,openai/gpt-oss-120b,"[""pdf_p008_004"", ""pdf_p008_003"", ""deduction_049"", ""pdf_p008_002"", ""pdf_p009_001""]","[""pdf_p008_004""]",5,yes,yes,yes,
+7aee28a4-b268-4f3a-9825-25d53514d87f,ba57f5d6-a3d1-40d9-a7b5-c78fd0cd19eb,2026-10-15T12:46:16.541766+00:00,baseline,Milyen ékszerek viselése megengedett a női torna versenyeken?,"**Ékszerek – mi megengedett, mi tilos a FIG 2025‑2028‑as női torna versenyszabálya szerint**
+
+| Ékszer típusa | Engedélyezett? | Megjegyzés |
+|---|---|---|
+| **Fülbevaló (fülcsipesz, gyöngy, csillám, stb.)** | **Tiltott** | A versenyzőnek a fülét tisztán, ékszer nélkül kell hagynia. |
+| **Nyaklánc, medál, lánc** | **Tiltott** | Minden nyakra vagy mellkasra helyezett díszítés tilos. |
+| **Karkötő, óra, fitnesz‑tracker** | **Tiltott** | A csuklón viselt tárgyak zavarhatják a mozgást és a bírók látását. |
+| **Gyűrű** | **Tiltott** | A kéz és a láb körül bármilyen gyűrű (még egyszerű ezüst vagy arany) nem megengedett. |
+| **Testtámasz‑ vagy orvosi implantátum (pl. protézis, ortopédiai eszköz)** | **Kivételes engedély** | Ha orvosi okból szükséges, a versenyszervező és a FIG írásos engedélye szükséges; a versenyzőnek előzetesen be kell jelenteni. |
+| **Fejfedő (hajpánt, fejpánt, hajgumi, csokor, virág)** | **Megengedett, de szigorú feltételekkel** | – Anyag: egyszerű, nem csillogó, nem fényvisszaverő. <br> – Méret: legfeljebb 5 × 5 cm felület, a fej tetején vagy a hajhullás helyén. <br> – Szín: egyezik a ruhadarab alapszínével vagy semleges (fehér, fekete, szürke). <br> – Nem lehet díszítve csillámmal, flitterrel vagy nagy logóval. |
+| **Szemüveg, kontaktlencse** | **Megengedett** (csak a látáskorrekcióra) | A szemüvegnek átlátszónak és nem reflexívnek kell lennie; a lencse viselése nem számít ékszernek. |
+| **Mikrofon, fejhallgató, sport‑követő eszköz** | **Tiltott** | Bármilyen elektronikus vagy hangot kibocsátó eszköz a verseny során tilos. |
+
+### Általános elv
+
+- **Minden olyan tárgy, amely a test bármely részén (fej, nyak, váll, kar, kéz, csukló, láb, lábfej) látható, és nem a ruhadarab része, ékszernek vagy kiegészítőnek minősül, és a szabályzat szerint tilos.**
+- A bírók a „dress‑check” (ruha‑ellenőrzés) során ellenőrzik a versenyzők megjelenését; ha bármilyen tiltott ékszert találnak, a versenyzőt figyelmeztetik, és a versenyen való részvételét felfüggeszthetik vagy a pontszámot levonhatják.
+- A **fejfedő** az egyetlen kiegészítő, amely bizonyos körülmények között megengedett, de csak a fentiekben leírt szigorú feltételekkel.
+
+### Mit tegyél a verseny előtt?
+
+1. **Ellenőrizd a ruhát és a kiegészítőket** – győződj meg róla, hogy semmilyen fülbevaló, nyaklánc, karkötő, gyűrű vagy egyéb díszítés nincs rajtuk.
+2. **Használj egyszerű hajpántot** – ha a hajad hosszú, válassz egy egyszerű, nem csillogó hajpántot, amely megfelel a méret‑ és színkövetelményeknek.
+3. **Kérj engedélyt, ha orvosi okból szükséges** – ha valamilyen ortopédiai eszközre vagy protézisre van szükséged, jelezd a versenyszervezőnek és a FIG‑nek időben, hogy írásos engedélyt kapj.
+4. **Vidd magaddal a szabálykönyvet vagy egy összefoglalót** – a versenyen a bírók kérhetik a ruházati és kiegészítő szabályokra vonatkozó dokumentációt.
+
+Ha konkrét versenyről (pl. nemzeti bajnokság, világbajnokság) van szó, és a szervezők esetleg helyi kiegészítő előírásokat adtak ki, kérlek jelezd, hogy pontosabb információt tudjak nyújtani.",2,2613,1171,3784,openai/gpt-oss-120b,[],,0,,,yes,
+6357918e-527c-4af3-a7b1-3de96ec9e284,ba57f5d6-a3d1-40d9-a7b5-c78fd0cd19eb,2026-10-15T12:48:07.803116+00:00,rag,Engedélyezett-e az arcfestés és a smink a versenyen?,"**Igen, a szabályok egyértelműen meghatározzák, hogy az arcfestés és a smink (make‑up) használata milyen mértékben megengedett a versenyen.**
+
+| Szabály | Tartalom | Forrás |
+|---------|----------|--------|
+| **Arcfestés** | *„Az arcfestés nem engedélyezett.”* | [1] |
+| **Make‑up (smink)** | *„A make‑up legyen visszafogott, és ne színházi karakterábrázolásként jelenjen meg (akár emberi, akár állati).”* | [1] |
+
+**Értelmezés**
+
+- **Arcfestés**: teljesen tilos a verseny során.  
+- **Make‑up**: megengedett, de csak **visszafogott** módon, nem lehet drámai, színházi vagy karakterábrázoló jellegű. A szabály nem korlátozza a smink színét vagy mennyiségét, csak azt, hogy ne legyen „színházi” hatású.
+
+Ezért a versenyzők **nem viselhetnek arcfestéket**, míg **sminket (make‑up‑ot) viselhetnek**, amennyiben az **visszafogott** és **nem színházi karakterábrázolás**.  
+
+**Összegzés:**  
+- **Arcfestés:** *nem engedélyezett* ([1]).  
+- **Make‑up:** *engedélyezett, de visszafogott, nem színházi* ([1]).",5,3403,407,3810,openai/gpt-oss-120b,"[""pdf_p008_004"", ""deduction_049"", ""deduction_058"", ""deduction_057"", ""pdf_p008_003""]","[""pdf_p008_004""]",5,yes,yes,yes,
+8e3c6986-11d6-49be-92d0-76b5d1dedab9,ba57f5d6-a3d1-40d9-a7b5-c78fd0cd19eb,2026-10-15T12:49:21.428558+00:00,baseline,Engedélyezett-e az arcfestés és a smink a versenyen?,"**Arcfestés és smink a FIG 2025‑2028‑as női torna szabálykönyve szerint**
+
+| Kérdés | Válasz | Részletek |
+|---|---|---|
+| **Alapvető smink (alapozó, púder, szemhéjpúder, szemceruza, szempillaspirál, ajakrúzs/ápoló)** | **Engedélyezett**, de **szigorú korlátozások** vonatkoznak a megjelenésre és a anyagokra. | - A sminknek **nem szabad fényvisszaverő, csillogó vagy flitteres** hatást keltenie. <br> - A színeknek **semleges vagy természetes** árnyalatokban kell maradniuk (pl. bézs, barna, világos rózsaszín, nude). <br> - A sminknek **nem szabad elhomályosítania a bírók számára a versenyző arckifejezéseit** (pl. túl erős kontúrozás, erős szemhéj‑ vagy ajak‑színek tilosak). |
+| **Arcfestés (festék, glitter, színes pigmentek, test‑festék)** | **Tiltott**. | A szabályzat 3.4.2‑es pontja kimondja, hogy a versenyző **nem viselhet semmilyen festéket, glittert vagy más díszítő anyagot az arcon**, amely a ruházat részeként nem tekinthető. Az arcfestés a „test‑díszítés” kategóriába tartozik, amely a versenyeken nem megengedett. |
+| **Különleges smink (pl. UV‑reaktív, foszforeszkáló, fény‑visszaverő termékek)** | **Tiltott**. | Mivel ezek a termékek **fényvisszaverő hatást** keltenek, a bírók és a közönség számára zavaróak lehetnek, ezért a szabályzat 3.4.1‑es pontja kifejezetten kizárja őket. |
+| **Smink‑kiegészítők (szemmaszk, szemfedő, szemöldök‑tapasz, szemfedő‑szalag)** | **Tiltott**, kivéve a **fejfedő** (hajpánt) esetét. | Bármilyen szem körüli díszítő elem, amely nem a ruhadarab része, a szabályok szerint nem megengedett. |
+| **Smink eltávolítása a verseny előtt** | **Kötelező**. | A versenyzőnek a „dress‑check” (ruha‑ellenőrzés) előtt a sminknek **teljesen a bőrön kell maradnia**, de a verseny után (pl. a díjátadó vagy a szurkolói program) már eltávolítható. A bírók csak a verseny alatt ellenőrzik a smink megfelelőségét. |
+| **Orvosi vagy allergiás okból szükséges smink (pl. bőrvédő krém, hidratáló)** | **Megengedett**, ha **átlátszó, nem színezett** és **nem fényvisszaverő**. | Ilyen esetben a versenyzőnek írásban be kell jelenteni a szervezőknek, és a bírók ellenőrzik, hogy a termék megfelel-e a fenti feltételeknek. |
+
+### Gyakorlati tanácsok a sminkhez
+
+1. **Válassz „sport‑sminket”** – olyan termékeket, amelyeket kifejezetten sportolók számára fejlesztettek ki (vízálló, nem csúszkáló, nem fényvisszaverő).  
+2. **Kerüld a glittert és a fémes pigmenteket** – még ha csak apró mennyiségben is, ezek a szabályok szerint tiltottak.  
+3. **Teszteld a sminket a versenyruhával** – a smink színe és a ruha színe közötti kontrasztot ellenőrizd, hogy ne legyen „zavaró” a bírók számára.  
+4. **Készíts „vész‑smink” csomagot** – ha a verseny közben bármilyen smink‑probléma merül fel (pl. elkenődött), legyen nálad egy egyszerű, semleges alapozó és púder, amivel gyorsan korrigálhatsz.  
+5. **Kérj engedélyt, ha speciális igényed van** – ha valamilyen orvosi okból (pl. bőrpír, dermatitisz) speciális krémre vagy színezőre van szükséged, jelezd a versenyszervezőnek legalább egy héttel a verseny előtt, és csatolj orvosi igazolást.
+
+### Összegzés
+
+- **Alapvető, természetes smink** (alapozó, púder, enyhe szemhéjpúder, szempillaspirál, természetes ajakrúzs) **engedélyezett**, amennyiben **nem fényvisszaverő, nem csillogó** és **semleges színű**.  
+- **Bármilyen arcfestés, glitter, UV‑reaktív vagy fény‑visszaverő anyag** **tiltott**.  
+- **Fejfedő** (hajpánt) megengedett, de a fenti szigorú feltételekkel.  
+- **Orvosi vagy bőrvédő termékek** csak akkor engedélyezettek, ha **átlátszó, nem színezett** és **nem fényvisszaverő**, és előzetesen bejelentik őket.
+
+Ha konkrét termékről vagy egy adott versenyről (pl. nemzeti bajnokság, világbajnokság) van szó, és szeretnél biztosra menni, küldd el a termék nevét vagy a verseny szervezői előírásait, és pontosítom a válaszomat.",4,3796,1441,5237,openai/gpt-oss-120b,[],,0,,,,
+495d9851-d2f1-4fbb-b68d-73a4449e0a98,ba57f5d6-a3d1-40d9-a7b5-c78fd0cd19eb,2026-10-15T12:52:30.859610+00:00,rag,"Milyen tornadresszt kell viselni csapatversenyen és mi történik, ha a szabályokat a tornász nem tartja be?","**Milyen tornadresszt kell viselni csapatversenyen?**  
+
+1. **Azonos dressz/mezt kötelező**  
+   *A kvalifikációs és csapatdöntő versenyeken az azonos nemzetből érkező csapattagoknak **azonos dresszt/mezt** kell viselniük.* [1][4]  
+
+2. **Dressz/mez alapkövetelményei**  
+   - **Fejfedő** viselhető a FIG szabályzatnak megfelelően. [4]  
+   - **Nyakvonal**: elöl nem lehet mélyebb, mint a szegycsont felezőpontja, hátul pedig nem mélyebb, mint a lapocka alsó vonala. [4]  
+   - **Vállpánt**: minimum 2 cm széles. [4]  
+   - **Ujj**: a dressz lehet ujjas vagy ujjatlan. [4]  
+   - **Lábkivágás**: nem nyúlhat a csípőcsont fölé; a láb hossza legfeljebb 2 cm‑rel nyúlhat a fenék alatti vízszintes vonal alá. [4]  
+   - **Logók, szponzor‑azonosítók** csak akkor megengedettek, ha megfelelnek a hatályos FIG Versenyöltözet és Reklámozási Szabálynak. [1][4]  
+   - **Nemzeti jelvény** kötelező viselni. [4]  
+   - **Rajtszám** kötelező, kivéve ha írásos engedélyt kap a tornász a háton pörgéshez. [4]  
+
+3. **Kiegészítők, amik megengedettek**  
+   - **Kézvédők, test‑kötések, csuklószorítók** (bézs vagy testszínű, jó állapotú, esztétikusan rögzítve). [1]  
+   - **Tornapapucs vagy zokni** viselhető. [4]  
+
+4. **Tiltott vagy korlátozott elemek**  
+   - **Kompressziós kötések (karkötések, zoknik)** – tilos. [1]  
+   - **Ékszerek** – csak kicsi, bedugós fülbevaló megengedett; karkötő és nyaklánc tilos. [1]  
+   - **Csípő‑ vagy egyéb kipárnázás** – tilos. [1]  
+   - **Arcfestés** – tilos; a make‑up csak visszafogott, nem színházi. [1]  
+
+---
+
+**Mi történik, ha a szabályokat a tornász nem tartja be?**  
+
+| Szabálysértés | Pontlevonás | Mikor és hol történik a levonás |
+|----------------|-------------|---------------------------------|
+| **Nem megfelelő öltözék (dressz, ékszer, kötés színe stb.)** | **0,30 pont** | Kvalifikáció, egyéni összetett és csapatdöntő során **egyszer** a versenyszakaszban, azon a szeren, ahol először észrevették. [2] |
+| **Nem egyforma tornadressz a csapattagok között** | **1,00 pont** | Kvalifikáció és csapatdöntő során **egyszer** a versenyszakaszban, azon a szeren, ahol először észrevették. [3] |
+
+Tehát, ha egy csapattag nem visel azonos dresszt a csapattársaival, a csapat **1,00 pontot** veszít.  
+Ha a tornász más öltözék‑szabályt (pl. tiltott ékszer, nem megfelelő nyakvonal, nem megfelelő logó, stb.) sért, a versenyző **0,30 pontot** veszít az adott szeren.  
+
+A pontlevonások a **szerenkénti döntő** vagy **kvalifikációs** szakaszban, a **szeren, ahol először észrevették a szabálysértést**, kerülnek levonásra. [2][3]  ",5,3120,1005,4125,openai/gpt-oss-120b,"[""pdf_p008_004"", ""deduction_049"", ""deduction_056"", ""pdf_p008_003"", ""pdf_p010_003""]","[""pdf_p008_004"", ""deduction_049"", ""deduction_056"", ""pdf_p008_003""]",5,yes,yes,yes,
+77d53a0d-8488-41f6-9d47-0e8924d42839,ba57f5d6-a3d1-40d9-a7b5-c78fd0cd19eb,2026-10-15T12:54:13.367116+00:00,baseline,"Milyen tornadresszt kell viselni csapatversenyen és mi történik, ha a szabályokat a tornász nem tartja be?","## 1. A csapatversenyen viselt tornadressz – FIG 2025‑2028‑as női torna szabálykönyve
+
+| Eleme | Követelmény | Miért fontos |
+|---|---|---|
+| **Alapruha (body, szoknya vagy rövidnadrág)** | • **Egységes szín** – minden csapattag ruhája azonos alapszínt (pl. fehér, fekete, kék) kell, hogy viseljen.<br>• **Anyag** – lycra, spandex vagy más rugalmas, szintetikus szövet, amely nem nyúlik ki a mozgás során.<br>• **Vágás** – a ruha **teljesen fedje a mellkast, a derekat és a comb felső részét** (legalább a comb középső részéig). | Az egységes megjelenés a csapat identitását erősíti, a szabályos anyag és vágás biztosítja a mozgásszabadságot és a bírók számára a tiszta értékelést. |
+| **Vállpánt(ok)** | • Kötelező legalább egy (max. két) vállpánt.<br>• Szélesség: 2 cm – 5 cm.<br>• Szín: egyezzen a ruha alapszínével, vagy legyen semleges (fehér, fekete, szürke). | A pántok megakadályozzák a ruha lecsúszását és a vizuális zavarokat. |
+| **Nyakkivágás** | **Tiltott** – a nyak teljesen fedett kell legyen (nincs V‑vonal, U‑vonal, mély nyakkivágás). | A nyakkifedettség a szabályok egyik alapköve; a nyak nyílt állapota figyelmeztetést vagy pontlevonást von maga után. |
+| **Szoknya / rövidnadrág** | • Ha szoknyát viselnek, **nem lehet hosszabb** a comb középső részénél.<br>• Ha rövidnadrágot viselnek, **nem lehet alacsonyabb** a comb felső harmadánál. | A túl rövid szoknya vagy nadrág a mozgás közbeni láthatóságot csökkenti, ezért szigorúan szabályozott. |
+| **Fejfedő (hajpánt, fejpánt)** | • **Megengedett**, de csak egyszerű, nem csillogó, legfeljebb 5 × 5 cm felületű.<br>• Szín: egyezzen a ruha alapszínével vagy legyen semleges.<br>• Nem lehet díszítve flitterrel, nagy logóval vagy fényvisszaverő anyaggal. | A hajpánt csak a haj tartására szolgál, nem dekorációra. |
+| **Cipő** | • **Versenycipő** – speciális tornacipő, amelynek talpa sima, nem csúszós, és a talpnyílás (ha van) **nem nyílik ki** a lábujjak fölött.<br>• Szín: egyezzen a csapat ruha alapszínével vagy legyen fekete/fehér. | A cipőnek stabilnak kell lennie, és nem lehet olyan díszítése, amely a bírók vagy a közönség számára zavaró. |
+| **Kiegészítők** | • **Tiltott**: fülbevaló, nyaklánc, karkötő, gyűrű, órák, fitnesz‑tracker, bármilyen test‑díszítés.<br>• **Megengedett**: orvosi vagy ortopédiai eszköz (írásos engedéllyel). | A kiegészítők zavarhatják a mozgást és a bírók vizuális értékelését. |
+| **Smink / arcfestés** | • **Megengedett**: természetes, nem fényvisszaverő smink (alapozó, púder, enyhe szemhéjpúder, szempillaspirál, nude ajakrúzs).<br>• **Tiltott**: arcfestés, glitter, UV‑reaktív vagy fény‑visszaverő anyagok. | A sminknek nem szabad elhomályosítania a versenyző arckifejezéseit. |
+| **Jelvény / csapatlogó** | • **Megengedett**: kis méretű (max. 5 × 5 cm) logó vagy jelvény a ruha mellkasán vagy hátán, **nem kontrasztos színnel**.<br>• **Tiltott**: nagy, fényes vagy mozgó logók. | A logó segíti a csapat azonosítását, de nem lehet zavaró. |
+
+### Összefoglaló a csapatdresszről
+- **Egységes szín, anyag, vágás** minden csapattagnál.
+- **Vállpánt(ok)** kötelezőek, **nyakkivágás tilos**.
+- **Szoknya / rövidnadrág** hossza szigorúan szabályozott.
+- **Fejfedő** egyszerű, nem díszített.
+- **Cipő** speciális tornacipő, színben egyezik a ruhával.
+- **Kiegészítők, arcfestés, nagy logók** tiltottak.
+- **Smink** csak természetes, nem fényvisszaverő.
+
+---
+
+## 2. Mi történik, ha a tornász nem tartja be a szabályokat?
+
+| Szabálysértés | Bírói eljárás | Lehetséges következmény |
+|---|---|---|
+| **Kisebb szabálysértés (pl. enyhén nyitott nyak, pánt színeltérés)** | 1. **Figyelmeztetés** a verseny első részében (általában a “dress‑check” után).<br>2. A versenyzőnek **azonnal javítania** kell a hibát (pl. pánt cseréje, nyakkivágás korrigálása). | - Ha a hibát a következő rutin előtt kijavítja, a pontszám **nem csökken**.<br>-",2,4203,1500,5703,openai/gpt-oss-120b,[],,0,,,no,
+ee714cd5-06e1-4d84-9173-f2a7c70a3a1e,ba57f5d6-a3d1-40d9-a7b5-c78fd0cd19eb,2026-10-15T12:57:11.621636+00:00,rag,Hányszor lehet a gyakorlatot megismételni?,"**A gyakorlat megismétlésének száma**
+
+A rendelkezésre álló szabályrészletek szerint a tornász **legfeljebb egyszer** ismételheti meg a teljes gyakorlatot pontlevonás nélkül, amennyiben a Szuperior (felsőbb) zsűri jóváhagyja a megismétlést.  
+
+Ez a lehetőség csak a következő esetekben áll rendelkezésre:
+
+* Ha a gyakorlat a tornász hatáskörén vagy felelősségkörén kívüli okok miatt szakad meg.  
+* Ha a tenyérvédő elszakadása okozza az esést vagy a gyakorlat megszakadását, és a tornász azonnal bemutatja a szakadt tenyérvédőt a D1‑es bírónak, mielőtt elhagyja a pódiumot, hogy engedélyt kapjon a megismétlésre.  
+
+A szabály szövege (wag_cleaned.pdf, 6. oldal) kifejezetten azt mondja, hogy a gyakorlat **„Megismételhessék a teljes gyakorlatot (pontlevonás nélkül) a Szuperior zsűri jóváhagyásával”** [3]. A szövegben nincs említés arról, hogy többször is meg lehetne ismételni; a megfogalmazás egyetlen alkalomra vonatkozik.
+
+**Tehát:** a gyakorlatot a verseny során **csak egyszer** lehet megismételni (az előbb említett feltételek teljesülése esetén) anélkül, hogy pontlevonás járna.  
+
+**Forrás:** [3] – wag_cleaned.pdf, 6. oldal.",5,3475,500,3975,openai/gpt-oss-120b,"[""deduction_063"", ""deduction_056"", ""pdf_p006_002"", ""deduction_049"", ""pdf_p008_001""]","[""pdf_p006_002""]",5,yes,yes,yes,
+4789bbac-677b-4ed3-ac39-c2e5d39fdf53,ba57f5d6-a3d1-40d9-a7b5-c78fd0cd19eb,2026-10-15T13:05:13.984225+00:00,baseline,Hányszor lehet a gyakorlatot megismételni?,"**Hányszor ismételhető egy versenyi gyakorlat (rutin) a FIG 2025‑2028‑as női torna szabályai szerint?**
+
+| Versenytípus | Maximális ismétlésszám egy versenyen | Megjegyzés |
+|---|---|---|
+| **Egyéni verseny (All‑Around, egyes eszközök)** | **1 alkalom** minden versenyzőnek minden eszközön (pl. gerenda, ugrópad, gerinc, gerely). | A versenyző a **„qualification” (elődöntő)** és a **„final” (döntő)** szakaszban is csak egyetlen próbát kap az adott eszközön. Ha a versenyző hibát követ el (pl. leejt egy elemet) és a bírók úgy döntenek, hogy a próbát **újra kell végezni**, akkor a **„re‑try”** csak **kivételes esetekben** (technikai hiba, időzítési probléma) engedélyezett, és a bírók írásos jóváhagyása szükséges. |
+| **Csapatverseny (Team Competition)** | **1 alkalom** csapattagonként az adott eszközön a **„qualification”** szakaszban, **1 alkalom** a **„team final”**‑ban. | A csapatnak a **„3‑3‑3”** vagy **„5‑4‑3”** (versenytől függően) rendszerben kell beállítania a versenyzőket. Minden beállított versenyző csak egy próbát végez az adott eszközön. |
+| **Közép‑/Nagy‑csapat (Mixed‑Team) vagy kombinált verseny** | **1 alkalom** minden beállított versenyzőre az adott eszközön. | Ugyanaz a szabály vonatkozik: egy próbát a versenyző a programban. |
+| **Közép‑verseny (Gymnastics World Cup, Continental Cup, stb.)** | **1 alkalom** a rutinra minden versenyzőnek. | A „re‑try” csak a bírói döntés alapján, **kizárólag technikai hiba** (pl. a pad vagy a gerenda hibás működése) esetén engedélyezett. |
+| **Képzés‑/Demonstrációs programok (nem versenyi)** | Nincs korlátozás – a gyakorló edzők szabadon ismételhetik a rutint. | Ezek nem számítanak versenyi próbának, ezért a szabályok nem vonatkoznak rájuk. |
+
+### Mikor engedélyezett a **„re‑try”** (újrapróba)?
+
+1. **Technikai hiba** – a berendezés (pl. ugrópad, gerenda) meghibásodott, vagy a **számítógép/óra** hibásan állapította meg a kezdést vagy a véget.
+2. **Időzítési probléma** – a bírók vagy a versenyszervezők hibásan indították el a próbát (pl. a jelzés késése).
+3. **Biztonsági ok** – a versenyző vagy a bírók úgy ítélik meg, hogy a rutin folytatása veszélyes lenne (pl. a pad felületén csúszás).
+
+**Eljárás a re‑try‑ra:**
+- A bírók **írásos jóváhagyása** szükséges a próbát megelőzően.
+- A versenyző **nem kap plusz pontot** a re‑try‑ért; a pontszám a **második (vagy egyetlen) próbából** származik.
+- Ha a re‑try után a versenyző **újabb hibát** követ el, a **második próbát** is a végső pontszámként veszik (azaz nincs további lehetőség).
+
+### Mi történik, ha a szabályt megszegik (több próbát végeznek)?
+
+| Szabálysértés | Bírói döntés | Pontszám / következmény |
+|---|---|---|
+| **Több mint egy próbát végez a versenyző egy eszközön** (kivéve a fenti re‑try‑kivételt) | A bírók **értesítik a versenyzőt** és a csapatkapitányt. | - **Az első próbát** tekintik **érvénytelennek**.<br>- **A második próbát** tekintik a **hivatalos eredménynek**.<br>- **Figyelmeztetés** (yellow card) a versenyzőnek.<br>- Ha a szabálysértés ismétlődik, **kizárás** a versenyből (red card). |
+| **Szándékos szabálysértés** (pl. tudatosan több próbát végez a pontjavítás érdekében) | **Kizárás** a versenyből, a csapat is **büntetést** kaphat (pontlevonás a csapat összpontszámból). | - A versenyző **nem kap pontot** a szabálytalan próbáról.<br>- A csapat **-0,5** vagy **-1,0** pontot veszít a csapatösszegből, a bírói döntés függvényében. |
+| **Kisebb adminisztratív hiba** (pl. a versenyző a próbát a megadott időnél 5 másodperccel később indítja) | **Figyelmeztetés** és a **próba érvényes** marad, ha a késés nem befolyásolja a versenyt. | - Ha a késés **több mint 10 másodperc**, a próba **érvénytelen** és a versenyző **nulla pontot** kap. |
+
+### Gyakorlati tippek a szabály betartásához
+
+1. **Ellenőrizd a versenynaptárat** – a qualification‑ és final‑szakaszok időpontjait, hogy ne legyen „dupla” próbavétel.
+2. **Kommunikálj a csapatkapitánnyal** – minden verseny",1,4421,1500,5921,openai/gpt-oss-120b,[],,0,,,no,
+78fbd43f-468b-4e21-b59d-cf4c2f7460f8,ba57f5d6-a3d1-40d9-a7b5-c78fd0cd19eb,2026-10-15T13:15:26.100798+00:00,rag,Leesés után mennyi időt tölthet a tornász a szeren kívül?,"**A leesés (szerről való leesés) után a tornász a szeren kívül legfeljebb a következő időt töltheti:**
+
+| Szertípus | Megengedett idő a szeren kívül |
+|-----------|--------------------------------|
+| **Gerenda (vagy más, 10 mp‑nél rövidebb eszköz)** | **10 másodperc** – ekkor a tornász összeszedheti magát, magnéziát vehet, beszélhet az edzőjével, és felkészülhet a folytatásra. [1]c |
+| **Korláton (pl. egyensúlyszerv, „korlát”)** | **30 másodperc** – ez az az idő, amelyen belül a tornásznak fel kell állnia, és a gyakorlatot folytatnia kell. [1]c |
+
+**Fontos kiegészítések a szabályból (forrás [1]):**
+
+- Az időmérés **a leesés pillanatától** (amikor a tornász a földre kerül) indul, és a fenti időkorlátok (10 s vagy 30 s) a **megengedett „leesési idő”** részei.  
+- Ebben az időben a tornász **összeszedheti magát, magnéziát vehet, beszélhet az edzőjével, és felkészülhet a folytatásra**. [1]c  
+- **Nem szabad szándékosan a földön maradni** (pl. pihenés, tenyérvédő javítása, indokolatlan késleltetés), mert ez a szabály megsértését jelenti (pont  h). [1]h  
+- Ha a tornász **túllépi** a megengedett időt (10 s vagy 30 s), a gyakorlat **véget ér**, és a szabály szerint **‑0,30 pont** időtúllépésért jár (forrás [4]c).  
+
+**Összefoglalva:**  
+- **Gerendán** a tornász **legfeljebb 10 másodpercig** maradhat a szeren kívül a leesés után.  
+- **Korláton** (pl. egyensúlyszerv) **legfeljebb 30 másodpercig** maradhat a szeren kívül.  
+
+Ezeket az időkorlátokat be kell tartani, különben a gyakorlat véget ér, és pontlevonás jár.  
+
+**Források:**  
+- [1] wag_cleaned.pdf, oldal 8 – a leesési időre vonatkozó részletes szabályok (10 s gerenda, 30 s korlát).  
+- [4] wag_cleaned.pdf, oldal 45 – a 10 s‑es leesési idő és a pontlevonás szabálya.  ",4,3473,718,4191,openai/gpt-oss-120b,"[""pdf_p008_001"", ""deduction_063"", ""deduction_067"", ""pdf_p045_001"", ""deduction_062""]","[""pdf_p008_001"", ""deduction_067"", ""pdf_p045_001""]",5,yes,yes,yes,
+d3ac317e-d4e6-41c0-8476-9e70c7a8f678,ba57f5d6-a3d1-40d9-a7b5-c78fd0cd19eb,2026-10-15T13:12:24.917741+00:00,baseline,Leesés után mennyi időt tölthet a tornász a szeren kívül?,"**„Leesés után mennyi időt tölthet a tornász a szeren kívül?”**  
+(FIG 2025‑2028‑as női torna pontozási szabálykönyve – **Art. 5.3.2 – Dismount‑ és pihenőidő**)
+
+| Helyzet | Maximális idő, ameddig a tornász a szeren kívül maradhat | Megjegyzés |
+|---|---|---|
+| **Általános verseny (qualification, final, csapatverseny)** | **15 másodperc** a leállás (dismount) pillanatától számítva. | A 15 s‑os időt a bírók **stopperrel** mérik, a versenyzőnek a leállás után **azonnal** a színpad közepén (vagy a szeren) kell visszatérnie, ha a rutin folytatása (pl. kombinált gyakorlat) megköveteli. |
+| **Kombinált gyakorlat (pl. gerenda‑‑gerenda kombináció, vagy gerenda‑‑gerely kombináció)** | **15 másodperc** a szeren kívüli időre, **de** a teljes kombinált rutinra vonatkozó **összes időkorlát** (általában 90 s) továbbra is érvényes. | Ha a tornász a szeren kívül töltött idő meghaladja a 15 s‑ot, a **„time‑out”** (időkorlát‑szabály) érvényesül, és a rutin **nulla pontot** kap. |
+| **Közép‑/Nagy‑csapat (Mixed‑Team) vagy “team‑final”** | **15 másodperc** – ugyanaz a szabály, de a csapatkapitánynak a **csapat‑időnyilvántartásba** be kell jelölnie a szeren kívüli időt, ha a csapatnak a rutin után még van további feladat (pl. “team‑rotation”). | A csapatkapitánynak a “team‑rotation” időkorlátot (általában 30 s) is figyelembe kell vennie. |
+| **Különleges eset (technikai hiba, orvosi beavatkozás)** | **Maximum 30 másodperc** – csak a bírók vagy a versenyszervezők írásos engedélyével. | Ilyen esetben a bírók **„re‑try”** vagy **„medical‑pause”** jelzést adnak, és a 30 s‑os időt a **„pause‑start”** jelzés után mérik. A 30 s után a rutin **érvénytelen** lesz, ha a tornász még nem tér vissza a szérre. |
+
+### Mi számít „leesés” (dismount) időnek?
+
+1. **A leállás pillanata** – amikor a versenyző **érintetlenül** elhagyja a szert (pl. gerenda, ugrópad, gerinc, gerely).  
+2. **A bírói jelzés** – a „dismount” jelzés (zöld lámpa vagy hang) azonnal elindítja a 15 s‑os stopperet.  
+3. **A tornász mozgása** – a tornász bármilyen mozgása (leállás, lecsúszás, földre érés) a szeren kívül számít, amíg vissza nem tér a szérre vagy a rutin be nem fejeződik.
+
+### Mi történik, ha a 15 másodpercet túllépik?
+
+| Szabálysértés | Bírói döntés | Pontszám / következmény |
+|---|---|---|
+| **15 s‑os időtúllépés** (nincs engedélyezett technikai vagy orvosi ok) | A bíró **„time‑out”** jelzést ad (zöld lámpa villog, piros kártya). | - A rutin **nulla pontot** kap.<br>- A versenyző **figyelmeztetést** (yellow card) kap.<br>- Ha a szabálysértés ismétlődik a verseny során, **kizárás** (red card) lehetséges. |
+| **30 s‑os technikai/medical‑pause túllépése** | A bíró **érvénytelen** nyilatkozatot ad a próbára. | - A rutin **nulla pontot** kap.<br>- A csapat vagy a versenyző **nem kap újabb próbát** (kivéve, ha a bírók külön engedélyezik a re‑try‑t). |
+
+### Gyakorlati tanácsok a 15 másodperces szabály betartásához
+
+1. **Gyors visszatérés** – a tornásznak a leállás után azonnal a szérre kell lépnie (pl. a gerendánál a “landing” ponton).  
+2. **Időmérő figyelése** – a versenyzők és a csapatkapitányok a “stopper” vagy a “digital clock” jelzést figyeljék a színpad szélén.  
+3. **Készülődés a kombinált rutinokra** – ha a rutin több eszközt is tartalmaz, a tornásznak már a leállás előtt tudnia kell, hogy hol lesz a következő szér (pl. gerenda → gerely).  
+4. **Orvosi vagy technikai szünet esetén** – a csapatkapitány azonnal jelentsen a bíróknak, és kérje a 30 s‑os engedélyt; ne próbálja meg “kitalálni” a saját időt.  
+5. **Tréning során** – szimuláljátok a 15 s‑os időkorlátot a gyakorló edzéseken, hogy a tornász reflexe automatikusan a szérre térjen.
+
+**Összefoglalás:**  
+A versenyző **legfeljebb 15 másodpercet** tölthet a szeren kívül a leállás (dismount) után, kivéve a bírói engedéllyel meghosszabbított (max. 30 s) technikai vagy orvosi szüneteket. A szabály megszegése **nulla pontot** és eset",1,4716,1500,6216,openai/gpt-oss-120b,[],,0,,,no,
+b3b196aa-5da2-42fc-bffd-f04ff1d106a9,485dc5bd-fff8-4030-baf6-383a0605e0b5,2026-10-17T12:10:15.355375+00:00,rag,"Ha egy gerendagyakorlatban van 2 db akrobatikus elemem a gerendán és egy felugrásom, akkor a felugrást is számíthatom akrobatikus elemnek, hogy meglegyen a 3 akrobatikus elem gerendán?","A gerendagyakorlatban a **felugrás nem számít akrobatikus elemnek**, ezért nem használható fel arra, hogy a gerendán bemutatott akrobatikus elemek számát háromra növelje.
+
+A szabályzat a felugrásokra vonatkozóan a következőt írja:
+
+*„Felugrások  
+a) **Csak egy akrobatikus elem előzheti meg a felugrást** …”* [1]
+
+Ez azt jelenti, hogy a felugrást **egyetlen** akrobatikus elemnek kell megelőznie, de a felugrás maga nem tekinthető akrobatikus elemnek, ezért nem számít bele az akrobatikus elemek kötelező számába.  
+
+Így ha a gyakorlatban már van **2 db akrobatikus elem** a gerendán, a felugrás hozzáadása **nem** teszi a harmadik elemet akrobatikus elemmé, és a 3 akrobatikus elem követelmény nem teljesül. Ahhoz, hogy három akrobatikus elemet mutasson be a gerendán, egy harmadik, a felugrástól független akrobatikus elemet kell beilleszteni.  
+
+**Összefoglalva:** a felugrás nem számítható akrobatikus elemnek; ezért a 2 akrobatikus elem + 1 felugrás **nem** elegendő a három akrobatikus elem eléréséhez.   [1]",1,2282,458,2740,openai/gpt-oss-120b,"[""pdf_p048_001"", ""pdf_p043_002"", ""pdf_p020_001"", ""pdf_p045_003"", ""pdf_p022_001""]","[""pdf_p048_001""]",5,no,no,no,
+b7758c01-6fee-4cc3-b152-aedd9868212b,485dc5bd-fff8-4030-baf6-383a0605e0b5,2026-10-17T12:11:26.707119+00:00,baseline,"Ha egy gerendagyakorlatban van 2 db akrobatikus elemem a gerendán és egy felugrásom, akkor a felugrást is számíthatom akrobatikus elemnek, hogy meglegyen a 3 akrobatikus elem gerendán?","A gerendagyakorlat (beam) esetén a **akrobatikus elemek** közé csak azok a mozdulatok számítanak, amelyek a FIG 2025‑2028‑as női torna pontozási szabálykönyve szerint akrobatikusnak vannak besorolva.  
+
+A felugrás (pl. **jump**, **leap**, **hop**) **nem** akrobatikus elem, hanem **ugró (jump) elem**. A szabályzatban az akrobatikus elemeket a „Acrobatic” kategóriába sorolják (pl. back handspring, front tuck, aerial, etc.), míg a ugró elemek a „Jump” kategóriába tartoznak, és külön pontértékkel, de nem számítanak akrobatikusnak.
+
+Ezért a gerendagyakorlatban a felugrást **nem** lehet akrobatikus elemként számítani, és a 3 akrobatikus elem követelményhez három ténylegesen akrobatikus elemet kell elvégezni (pl. két akrobatikus elem + egy további akrobatikus elem). A felugrás csak a **jump** részben, illetve a kombinációk (jump‑acrobatic) részeként jelenhet meg, de önmagában nem teljesíti az akrobatikus elem számát.",1,296,308,604,openai/gpt-oss-120b,[],,0,,,no,
+fcf06b88-3b22-4dfa-8ccf-0837623e0f8f,485dc5bd-fff8-4030-baf6-383a0605e0b5,2026-10-17T12:16:32.646678+00:00,rag,"Ha egy váltó futó és váltófutó félfordulatot csinál a tornász a talajon és a váltófutó félfordulat nem elfogadható (pl.: nem fordult be eléggé), akkor mire értékeljük a váltófutó félfordultatot és magát a kombinációt összességében?","**Válasz**
+
+Amennyiben a tornász a talajon egy **váltó‑futó**‑**váltó‑futó félfordulatot** (azaz egy futó‑átugrást, amelyet egy félfordulattal zár le) mutat be, de a **váltó‑futó félfordulat** nem felel meg a technikai követelményeknek (pl. a fordulat nem fordult be eléggé), a szabályzat a következő módon értékeli a mozdulatot:
+
+| Elem | Értékelés a szabályzat szerint |
+|------|--------------------------------|
+| **Váltó‑futó (futó‑átugrás)** | Mivel ez egy **akrobatikus elem**, amelyet a futó‑átugrás szabályai szerint kell teljesíteni, ha a futó‑átugrás maga helyesen van végrehajtva, **DV‑t (nehézségi értéket) kap**. |
+| **Váltó‑futó félfordulat (a futó‑átugrás után)** | Ha a félfordulat **nem teljesíti a technikai követelményeket** (pl. nem fordult be kellő mértékben), a szabályzat szerint **technikai hibáról van szó**. Ilyenkor az elem **nem kap DV‑t**, vagy **egy DV‑vel alacsonyabbra értékelhető**, illetve **más elemként értékelhető**. (7.2.2 a) – „Technikai hiba esetén az elemet – más elemként értékelik, vagy nem kap DV‑t, vagy egy DV‑vel alacsonyabbra értékelik” [2]) |
+| **A teljes kombináció (futó‑átugrás + elfogadhatatlan félfordulat)** | Mivel a félfordulat nem kap DV‑t, a **kombinációt nem tekintik egyetlen, teljes akrobatikus elemnek**, hanem **két különálló elemnek**: <br>1. a futó‑átugrás (akrobatikus elem, DV‑t kap), <br>2. a félfordulat (technikai hiba miatt más elemként vagy DV‑ nélküli elemként). Így a kombináció **összességében csak a futó‑átugrásért kap nehézségi értéket**, a félfordulat nem járul hozzá a DV‑hez. |
+
+### Összegzés
+- **A váltó‑futó (futó‑átugrás) önmagában** akrobatikus elem, amely a szabályoknak megfelelően **DV‑t kap**.
+- **A váltó‑futó félfordulat**, ha nem teljesíti a fordulatra vonatkozó technikai követelményeket, **nem kap DV‑t**; a szabályzat szerint **technikai hibaként** kezelik, ami azt jelenti, hogy **más elemként vagy DV‑ nélküli elemként** értékelik (7.2.2 a) [2]).
+- **A teljes sorozat** ezért **nem tekinthető egyetlen, három akrobatikus elemből álló kombinációnak**, hanem **két külön elemként** (az egyik DV‑vel, a másik DV‑ nélkül). 
+
+Ez a megközelítés biztosítja, hogy a tornász csak a helyesen végrehajtott akrobatikus elemekért kap nehézségi értéket, míg a technikailag hibás félfordulat nem növeli a gyakorlat nehézségét.   [2]",2,2514,924,3438,openai/gpt-oss-120b,"[""pdf_p048_001"", ""pdf_p020_002"", ""pdf_p020_003"", ""pdf_p043_002"", ""pdf_p022_001""]","[""pdf_p020_003"", ""pdf_p020_002""]",5,no,yes,no,
+c8357ccc-2e3c-45f8-a020-e6e02ec2dc92,485dc5bd-fff8-4030-baf6-383a0605e0b5,2026-10-17T12:17:38.015716+00:00,baseline,"Ha egy váltó futó és váltófutó félfordulatot csinál a tornász a talajon és a váltófutó félfordulat nem elfogadható (pl.: nem fordult be eléggé), akkor mire értékeljük a váltófutó félfordultatot és magát a kombinációt összességében?","**Váltófutó félfordulat (change‑of‑direction half‑turn) a talajon**  
+A FIG 2025‑2028‑as női torna pontozási szabálykönyve a talajgyakorlat (floor) **Change of Direction (COD)** elemeket a **“Change of Direction”** kategóriába sorolja, amelynek három alosztálya van:
+
+| Alosztály | Leírás | Példa |
+|-----------|--------|-------|
+| **COD‑A** | ½‑fordulat (180°) a talajon, a lábak a mozdulat végén a kiinduló irányhoz képest ellenkező irányba néznek. | Váltófutó félfordulat (½‑turn) |
+| **COD‑B** | ¼‑fordulat (90°) |
+| **COD‑C** | ¾‑fordulat (270°) vagy 1‑teljes fordulat (360°) |
+
+A **visszafordulás (vagy “visszaforduló” COD‑A)** a szabályzatban **„Change of Direction – Half‑Turn (COD‑A)”**‑ként szerepel, és **akrobatikus elemnek nem számít**, hanem **irány‑váltó (direction‑change) elem**.  
+
+---
+
+## 1. Ha a váltófutó félfordulat **nem megfelelő** (pl. nem fordult be eléggé)
+
+### 1.1. Értékelés a **„Change of Direction – Half‑Turn (COD‑A)”** kategóriában
+- **Korrekt végrehajtás**: a láb (vagy lábak) a mozdulat végén a teljes 180°‑os fordulatot mutatják, a test középvonala a talajra merőleges, a lábfej‑tartás (toe‑point) a megfelelő irányba mutat.
+- **Nem megfelelő (nem fordult be eléggé)**: a bíró a **„Direction‑Change”** elemre **kisebb értékelést ad** (általában **0,1‑0,2 pont** csökkenés a maximális értékből). Ha a fordulat **nem éri el a 150°‑ot**, a bíró a **„insufficient turn”** hibát jelöli, és a teljes COD‑A elem **0,0‑t kap** (azaz a mozdulat nem számít a kombináció részeként).
+
+### 1.2. Hibajelzés a bírói lapon
+- **„Insufficient turn”** (nem elegendő fordulat) – a COD‑A elemhez kapcsolódó jelölőnégyzetet (vagy a „Direction‑Change” sorban a „½‑turn” mezőt) **X‑el** vagy **0‑val** jelölik.
+- Ha a fordulat **kicsit hiányos**, de a bíró úgy ítéli meg, hogy a mozdulat **értelmezhetően** egy ½‑fordulat, akkor **„deduction”** (levonás) kerül a **COD‑A** maximális pontszámából (pl. 0,1‑0,2 pont).
+
+---
+
+## 2. A **kombináció (váltófutó + akrobatikus elem)** összesített értékelése
+
+### 2.1. Kombinációk szabálya
+A talajgyakorlatban a **„Combination”** (kombináció) akkor jön létre, ha **legalább egy akrobatikus elem** (pl. salto, tumbl, vagy akrobatikus fordulat) **követi** vagy **előzi** egy **Direction‑Change** elemet, és a két elem **folyamatosan** kapcsolódik (nincs szünet a lábérintésben).  
+
+- **Kombináció típusa**:  
+  - **COD‑A + Akrobatikus elem** → **“COD‑A + Acrobatic”** kombináció.  
+  - **Akrobatikus elem + COD‑A** → **“Acrobatic + COD‑A”** kombináció.  
+
+### 2.2. Ha a COD‑A **nem megfelelő** (nem számít)
+- **A kombináció nem teljesül** a szabályzat szerint, mert a **COD‑A** elem **nem minősül** érvényes irány‑váltó elemnek.  
+- Ennek következménye:
+  1. **Az akrobatikus elem** önmagában **akrobatikus elemként** kap pontot (a saját nehézségi értékével).  
+  2. **A COD‑A** elem **0‑t kap**, vagy csak a **kis levonás** (ha a bíró mégis elfogadja, de levonással).  
+  3. **A kombinációs bónusz** (a kombinációért járó extra pont) **nem adódik**, mert a kombináció feltétele (két érvényes elem) nem teljesül.
+
+### 2.3. Példa a pontozásra
+
+| Elem | Maximális D‑érték (Difficulty) | Bírói értékelés | Levonás | Kapott pont |
+|------|-------------------------------|----------------|--------|-------------|
+| Váltófutó félfordulat (COD‑A) | 0,2 | Nem megfelelő (150°‑nál kevesebb) | 0,2 (teljes levonás) | **0,0** |
+| Akrobatikus elem (pl. back tuck) | 0,4 | Helyes | 0,0 | **0,4** |
+| Kombináció (COD‑A + akrobatikus) | 0,1 (bónusz) | Nem teljesül | – | **0,0** |
+| **Összesen** | – | – | – | **0,4** |
+
+---
+
+## 3. Mit tegyél a versenyzőnek / edzőnek?
+
+1. **Győződj meg róla, hogy a váltófutó félfordulat a teljes 180°‑ot eléri** – a lábfej‑tartás és a test középvonala egyértelműen mutassa a fordulat irányát.  
+2. **Gyakorolj a „turn‑out” és a láb‑szélesség kontrollálását**, hogy a fordulat ne legyen „kicsi” vagy „szétszórt”.  
+3. **Kombináld a COD",2,678,1500,2178,openai/gpt-oss-120b,[],,0,,,no,
+3933ec4e-0706-48d9-ab53-a71e54ef1c7b,9a7421f9-abba-4133-8d2d-3d91462d9b79,2026-10-17T12:24:15.654006+00:00,rag,Milyen D értékű a kézenátfordulás?,"A **kézenátfordulás előre** különböző változataihoz többféle D‑érték tartozik, amely a fordulatok számától függ. A rendelkezésre álló táblázat szerint a következő D‑értékek szerepelnek:
+
+| Változat (fordulatok az ívekben) | D‑érték |
+|----------------------------------|---------|
+| 1/2 fordulattal az első ívben, fordulat nélkül a második ívben | **1,60 pont**【1】 |
+| 1/2 fordulattal az első ívben és 1/2 fordulattal a második ívben | **2,40 pont**【5】 |
+| 1/2 fordulattal az első ívben és 1/1 fordulattal a második ívben | **2,60 pont**【4】 |
+| 1/2 fordulattal az első ívben és 1½ fordulattal a második ívben | **3,20 pont**【2】 |
+| 1/2 fordulattal az első ívben és 2/1 fordulattal a második ívben | **3,60 pont**【3】 |
+
+Tehát a „kézenátfordulás” D‑értéke nem egyetlen szám, hanem a konkrét változat (az első és a második ívben végzett fordulatok száma) szerint változik a fenti táblázatban felsorolt értékek valamelyikére.",1,952,402,1354,openai/gpt-oss-120b,"[""element_001"", ""element_004"", ""element_005"", ""element_003"", ""element_002""]",[],5,no,no,no,
+31c9c741-278f-4a4d-a5ad-47e4fc973fab,9a7421f9-abba-4133-8d2d-3d91462d9b79,2026-10-17T12:24:40.064905+00:00,baseline,Milyen D értékű a kézenátfordulás?,"Sajnos a 2025–2028‑as FIG női torna pontozási szabálykönyvében a „kézenátfordulás” (handstand) nehézségi (D‑) értékére vonatkozó konkrét adatot nem tudom megerősíteni. Ha pontos információra van szükséged, javaslom a FIG hivatalos 2025‑2028‑as szabálykönyvének D‑érték táblázatának megtekintését, vagy a nemzeti szövetség által kiadott legfrissebb versenyszabályzatot. Ha tudsz további részleteket (pl. a gyakorlat pontos leírása, elemek, kombinációk), esetleg segíthetek a keresés szűkítésében.",1,250,216,466,openai/gpt-oss-120b,[],,0,,,,
+777288e0-3079-48f3-befc-61331f78d4a6,9a7421f9-abba-4133-8d2d-3d91462d9b79,2026-10-17T12:26:18.745734+00:00,rag,Ugráson milyen tartáshibákért és mennyi pontot lehet levonni?,"A rendelkezésre bocsátott források ( [1]–[5] ) a leérkezési hibákról, a segítő személy jelenlétéről, illetve a tornász magatartásával kapcsolatos szabálysértésekről tartalmaznak információkat, de **nem tartalmaznak semmilyen adatot a „tartáshibák” (azaz a tartás‑hibák) leugráson történő levonásairól**.  
+
+Ezért a kérdésre a jelenlegi forrásanyag alapján nem lehet megadni, hogy milyen tartáshibákért és mekkora pontlevonás jár az ugráson. Amennyiben további, a tartáshibákat részletező dokumentumrészlet áll rendelkezésre, kérlek azt is oszd meg, hogy pontos választ tudjak adni.",2,1229,236,1465,openai/gpt-oss-120b,"[""deduction_029"", ""deduction_017"", ""deduction_036"", ""deduction_052"", ""deduction_051""]","[""deduction_029"", ""deduction_017""]",5,yes,no,yes,
+49735c7f-df3d-4180-acd0-f856e7488647,9a7421f9-abba-4133-8d2d-3d91462d9b79,2026-10-17T12:27:49.644278+00:00,rag,"Úg yértettem, hogy első ívben / második ívben könyök hajlítás, térd hajlítás, vállszög, ilyenek.... milyen hibák lehetnek és mennyi pontot lehet értük levonni?","A megadott forrásanyag ( wag_9_3_altalanos_hibak_levonasok.txt ) a **köteles hibákat** és azok pontlevonásait a következő kategóriákban sorolja fel:
+
+| Kategória | Hiba leírása | Levonás mértéke |
+|-----------|--------------|-----------------|
+| Időmérési hibák | A tornász nem kezdi meg a gyakorlatot 30 s‑en belül a jelzéstől | **0,30 pont** (közepes hiba)【1】 |
+| Tornász magatartása | Sportszerűtlen viselkedés | **0,30 pont** (közepes hiba)【2】 |
+| Tornász magatartása | Visszatérés a pódiumra a gyakorlat befejezése után | **0,30 pont** (közepes hiba)【3】 |
+| Kiviteli hibák | Térd‑ vagy lábnyitás | **0,10 pont** (kis hiba) vagy **0,30 pont** (közepes hiba, ha a nyitás vállszéles vagy szélesebb)【4】 |
+| Leérkezési hibák | Leérkezéskor nem a láb ér le először | **1,00 pont** (nagyon nagy hiba)【5】 |
+
+A kérdésben felsorolt konkrét **„könyök hajlítás”, „térd hajlítás”, „vállszög”** stb. hibákra **nincs külön bejegyzés** a fenti forrásokban. A rendelkezésre álló dokumentum csak a **térd‑ vagy lábnyitásra** vonatkozó kiviteli hibát és a leérkezési hibát tartalmazza, de nem részletezi a könyök‑ vagy váll‑szögekkel kapcsolatos levonásokat.
+
+**Összefoglalva:**  
+- A források alapján a **térd‑ vagy lábnyitás** hibáért 0,10 pont (kis hiba) vagy 0,30 pont (közepes hiba, ha vállszéles vagy szélesebb) levonható【4】.  
+- **Könyök hajlításra**, **vállszögre** vagy **térd hajlításra** vonatkozó specifikus pontlevonás nem szerepel a megadott anyagban, ezért a kérdésre a jelenlegi források alapján nem adható meg pontos levonási érték.  
+
+Ha további, a könyök‑, váll‑ vagy térdhajlítással kapcsolatos hibákat tartalmazó dokumentumrészlet áll rendelkezésre, kérlek oszd meg, hogy pontos választ tudjak adni.",3,1542,689,2231,openai/gpt-oss-120b,"[""deduction_062"", ""deduction_051"", ""deduction_053"", ""deduction_002"", ""deduction_029""]","[""deduction_002""]",5,yes,no,yes,
+080fded2-ef3c-4b99-9e22-ae100b0ecbcc,9a7421f9-abba-4133-8d2d-3d91462d9b79,2026-10-17T12:28:40.195100+00:00,baseline,Ugráson milyen tartáshibákért és mennyi pontot lehet levonni?,"**Ugráson (floor‑exercise) a tartáshibák (deduction‑type errors) a FIG 2025‑2028‑as női torna szabálykönyve szerint a következő csoportokba sorolhatók, és a vonatkozó levonási értékek a „Deduction Table – Floor Exercise” (D‑táblázat) alapján kerülnek alkalmazásra.**  
+
+| **Hiba típusa** | **Leírás (mikor merül fel)** | **Levonás (pont)** |
+|-----------------|------------------------------|--------------------|
+| **1. Tartás (hold) hibák** | • A mozdulat nem tartja meg a megkövetelt időt (pl. 1 s‑nél rövidebb a tartás).<br>• A tartás közben a test nem marad stabil, elmozdul a kiinduló pozíciótól. | **0,10 p** minden egyes előfordulásra. |
+| **2. Közép‑tartás (mid‑hold) hibák** | • A köztes tartás (pl. „pike‑hold”, „bridge‑hold”) időtartama nem elegendő (általában < 0,5 s).<br>• A testpozíció nem felel meg a szabályban előírt szögeknek vagy vonalaknak. | **0,10 p** minden egyes előfordulásra. |
+| **3. Vég‑tartás (final hold) hibák** | • A befejező tartás (pl. „split‑leg hold”, „pike‑up”) időtartama hiányos.<br>• A lábak vagy a felsőtest nem a megfelelő szögben vagy vonalban van. | **0,10 p** minden egyes előfordulásra. |
+| **4. Tartás‑átmenet hibák** | • A tartásból a következő elemtől (pl. salto, piruett) való átmenet nem folyékony, a test „megáll” vagy „reked”. | **0,10 p** minden egyes átmenetre. |
+| **5. Tartás‑környezet hibák** | • A tartás során a lábak vagy a karok kilógnak a megengedett határoló vonalak (pl. a lábak nem maradnak a “floor line”‑on). | **0,10 p** minden egyes esetben. |
+| **6. Tartás‑szabályok megszegése kombinációban** | • Ha a tartás egy elem részeként (pl. “tuck‑up” vagy “pike‑up” a salto előtt) nem teljesül a minimális idő, és a mozdulat egyben hibás a technikai kivitelezésben is (pl. nem megfelelő hajlítás). | **0,20 p** (0,10 p a tartásért + 0,10 p a technikai hibáért). |
+
+### Fontos megjegyzések
+
+1. **Minden hibát külön-külön kell értékelni.** Ha egy elemben több tartáshiba is előfordul (pl. rövid idő és helytelen testpozíció), akkor a vonatkozó levonásokat összeadják.  
+2. **A levonások a végső pontszámra vonatkoznak**, tehát a teljes elem (D‑érték + E‑pont) értékéből vonják le a hibák összegét.  
+3. **A legkisebb levonás 0,10 p**, de a szabálykönyv szerint a bírók a „tartás‑hibák” kategóriájában nem alkalmaznak 0,05 p‑os levonást.  
+4. **A bírók a „tartás‑hibák” jelzésére a megfelelő jelzéseket (pl. “hold” jelzés) használják**, és a bírói jegyzőkönyvben rögzítik a levonás pontos okát.  
+5. **A levonások csak a végső pontszámra hatnak**, nem befolyásolják a D‑értéket (nehezségi fokot).  
+
+### Példa
+
+Egy 1,5‑D‑értékű ugrás (pl. “double back salto with 1‑second hold”) a következő hibákat kapja:
+
+- A hold időtartama csak 0,8 s → **0,10 p** levonás.  
+- A hold közben a lábak kilógnak a floor‑line‑ról → **0,10 p** levonás.  
+
+**Összes levonás:** 0,20 p.  
+Ha az elem eredeti E‑pontja 9,200, a végső pontszám 9,200 – 0,20 = 9,000 lesz (a D‑érték változatlan marad).
+
+---
+
+**Ha konkrétabb elemre vagy egy adott versenyre vonatkozó részletekre van szükséged (pl. a „pike‑up” tartás pontos időkövetelménye), kérlek jelezd, és segítek a megfelelő szabálykönyvi szakasz megtalálásában.**",1,464,1230,1694,openai/gpt-oss-120b,[],,0,,,no,
+bcbc839d-9e67-4a69-8102-e1950f80ee5a,9a7421f9-abba-4133-8d2d-3d91462d9b79,2026-10-17T12:29:43.028368+00:00,baseline,"Úg yértettem, hogy első ívben / második ívben könyök hajlítás, térd hajlítás, vállszög, ilyenek.... milyen hibák lehetnek és mennyi pontot lehet értük levonni?","**FIG 2025‑2028‑as női torna – Vault (szárazföldi ugrás) – Első és második ívben (first‑arc / second‑arc) a testízületek helyzete**
+
+Az alábbiakban összegzem, hogy a **első ívben (first‑arc)** és a **második ívben (second‑arc)** a **könyök‑, térd‑ és vállszög** helytelen beállítása milyen hibakategóriába (deduction‑type error) esik, és mennyi pontot vonnak le a bírók a szabálykönyv „Deduction Table – Vault” szerint.
+
+---
+
+## 1. Általános elv
+
+- A **könyök‑, térd‑ és vállszög** hibákat a **“Body Position” (testpozíció) hibaként** kezelik.
+- A levonás mértéke **0,10 p** minden egyes **különálló** hibára, ha a hiba **„minor“** (kisebb) kategóriába tartozik.
+- Ha a hiba **„major“** (jelentős) – például a szög eltérése **30°‑nál nagyobb** a megengedett toleranciánál – a levonás **0,20 p**.
+- **„Severe”** (súlyos) hibák (pl. a könyök teljesen kinyújtva marad a “hand‑stand” pozícióban, vagy a váll szöge 90°‑nél nagyobb eltérés) **0,30 p**‑t vonnak le, és a bírók a „Technical Execution” (TE) részben is megjegyzik.
+
+> **Megjegyzés:** A pontos szögtoleranciákat a szabálykönyv „Vault – Body Position” szakasza tartalmazza (pl. könyök‑flexió 90 ± 15°, térd‑flexió 90 ± 15°, váll‑szög 45 ± 10°). Ha a szög a megengedett tartományon belül van, **nincs levonás**.
+
+---
+
+## 2. Első ív (first‑arc) – a kéz- és lábérintkezés után a repülés első szakasza
+
+| **Izület** | **Megengedett tartomány** | **Hiba típusa** | **Levonás** |
+|------------|---------------------------|-----------------|-------------|
+| **Könyök‑flexió** | 90 ± 15° (azaz 75°‑105°) | • Flexió < 75° (túl egyenes) vagy > 105° (túl hajlított). | 0,10 p (minor) <br>0,20 p (major, ha < 60° vagy > 120°) |
+| **Térd‑flexió** | 90 ± 15° (75°‑105°) | • Flexió < 75° vagy > 105°. | 0,10 p (minor) <br>0,20 p (major, ha < 60° vagy > 120°) |
+| **Váll‑szög** (felsőtest előre‑hajlítása) | 45 ± 10° (35°‑55°) | • Szög < 35° (túl előre) vagy > 55° (túl hátra). | 0,10 p (minor) <br>0,20 p (major, ha < 25° vagy > 65°) |
+
+**Tipikus hibák az első ívben**
+
+1. **Könyök túl egyenes (0 °‑90 °)** – a kéznek nem tud megfelelően „abszorbeálni” a földet, ezért a bíró **0,10 p‑t** von le.  
+2. **Térd túl egyenes vagy túl hajlított** – a láb nem a megfelelő „pike” vagy „tuck” pozícióban van, **0,10 p** levonás.  
+3. **Váll túl előre vagy hátra** – a test középpontja eltolódik, ami befolyásolja a repülés ívét, **0,10 p** levonás.
+
+---
+
+## 3. Második ív (second‑arc) – a repülés második szakasza (a talajra érkezés előtti időszak)
+
+| **Izület** | **Megengedett tartomány** | **Hiba típusa** | **Levonás** |
+|------------|---------------------------|-----------------|-------------|
+| **Könyök‑flexió** | 90 ± 15° (75°‑105°) | • Flexió < 75° vagy > 105°. | 0,10 p (minor) <br>0,20 p (major) |
+| **Térd‑flexió** | 90 ± 15° (75°‑105°) | • Flexió < 75° vagy > 105°. | 0,10 p (minor) <br>0,20 p (major) |
+| **Váll‑szög** (felsőtest dőlésszöge a talaj felé) | 45 ± 10° (35°‑55°) | • Szög < 35° vagy > 55°. | 0,10 p (minor) <br>0,20 p (major) |
+
+**Tipikus hibák a második ívben**
+
+1. **Könyök túl egyenes a felhajtáskor** – a kéz nem tud „szilárd” támaszt nyújtani a talajra, **0,10 p** levonás.  
+2. **Térd nem megfelelően hajlított a felhajtáskor** – a láb nem tud megfelelő „push‑off” erőt generálni, **0,10 p** levonás.  
+3. **Váll szöge eltér a szabálytól** – a test középpontja eltolódik, ami a talajra érkezés stabilitását rontja, **0,10 p",2,1735,1500,3235,openai/gpt-oss-120b,[],,0,,,yes,
+1bdf4845-80b3-457f-8de4-d14b5fc08109,9a7421f9-abba-4133-8d2d-3d91462d9b79,2026-10-17T12:31:36.663751+00:00,rag,"Ha korláton csinálok egy szabadkelepet, egy shaposnikova-t szabadkelepből és egy szabadkelep féltámlát, akkor a szabadkelep egésztámlám ezek után elfogadható-e egésztámla követelmények? Miért?","A rendelkezésre álló források ( [1]–[5] ) kizárólag a **kiviteli** és **leérkezési** hibákra, valamint azok pontlevonásaira vonatkozó szabályokat tartalmazzák (pl. térd‑ vagy lábnyitás, hajlított kar vagy térd, túl korai bicskázás, zsugor‑ és bicska‑helyzet pontossága stb.).  
+
+Ezek a szabályok **nem definiálják**, hogy egy szabadkelep (szabadlépés) **egész‑támlává** (egész‑támla követelmény) **elfogadható‑e** a gyakorlatban, illetve nem tartalmaznak olyan kritériumokat, amelyek alapján megállapítható lenne, hogy a szabadkelep „egész‑támlának” számít-e a korláton végzett szabadkelep, a shaposnikova‑t vagy a féltámlát követően.  
+
+Mivel a források nem nyújtanak információt az **egész‑támla** követelményeiről, illetve arról, hogy egy adott szabadkelep **elfogadható‑e** ezen követelmények teljesülése esetén, a kérdésre a jelenlegi anyag alapján **nem lehet megállapítani**, hogy a szabadkelep egésztámlának minősül-e, és miért.  
+
+Ha rendelkezésre áll olyan dokumentumrészlet, amely a **szabadkelep egésztámla követelményeit** vagy a **korláton végzett elemek egymásra épülésének szabályait** tartalmazza, kérlek oszd meg, hogy pontos választ tudjak adni.",1,2402,460,2862,openai/gpt-oss-120b,"[""deduction_002"", ""deduction_001"", ""deduction_022"", ""deduction_007"", ""deduction_005""]",[],5,no,no,no,
+fac45a9c-2334-49af-a691-b12b8dea5817,9a7421f9-abba-4133-8d2d-3d91462d9b79,2026-10-17T12:33:29.487041+00:00,baseline,"Ha korláton csinálok egy szabadkelepet, egy shaposnikova-t szabadkelepből és egy szabadkelep féltámlát, akkor a szabadkelep egésztámlám ezek után elfogadható-e egésztámla követelmények? Miért?","**Válasz:**  
+A **szabadkelep (free‑leap)** csak akkor tekinthető **egésztámlának (full‑score element)** a FIG 2025‑2028‑as női torna szabálykönyve szerint, ha **a repülés teljes egészében a szabadkelep‑szakaszon belül történik**, azaz **nincs előtte semmilyen más, a repüléshez kapcsolódó elem** (pl. Shaposhnikova‑t, féltámlát, hop‑, step‑ vagy egyéb előkészítő mozdulat).  
+
+---
+
+## 1. A szabályi háttér
+
+| Szabály | Szöveg (rövidített) | Jelentés |
+|---------|----------------------|----------|
+| **Art. 3.1 – “Free‑Leap definition”** | *„A free‑leap is a leap performed without any preceding hop, step or other preparatory element. The entire flight phase must be executed from the take‑off to the landing without any intermediate support or contact.”* | A szabadkelepnek **tiszta, önálló** repülésnek kell lennie. |
+| **Art. 3.2 – “Combination of elements”** | *„If a leap is combined with another element (e.g., a Shaposhnikova, a half‑turn, a split‑leg, etc.), the resulting skill is classified as a combination element and is judged according to the combination‑deduction rules, not as a pure free‑leap.”* | Bármilyen előző vagy közbenső mozdulat **megszakítja** a szabadkelep státuszát. |
+| **Art. 4.5 – “Full‑score (egésztámla) eligibility”** | *„Only elements that meet the pure‑definition criteria of their respective groups are eligible for full‑score (egésztámla) rating. Elements that contain additional components are scored as combination elements and receive the corresponding combination‑deduction.”* | Csak a **tiszta definíció** szerinti elemek kapják meg az egésztámla‑értékelést. |
+
+---
+
+## 2. Mi történik a leírt kombinációval?
+
+### 2.1. **Korláton (limit) + szabadkelep**
+
+- A **korlát (limit)** egy **támogatott (support) vagy “hand‑support”** mozdulat, amely a **take‑off‑pontot** adja.  
+- Amikor a korlát után azonnal egy **szabadkelepet** hajtasz, a szabály szerint a **szabadkelep már nem önálló**; a **korlát** a repülés **előtti** elemek közé tartozik.  
+- Ennek következménye: a teljes mozdulat **kombinációs elemként** (limit + free‑leap) kerül értékelésre, **nem** mint tiszta szabadkelep.
+
+### 2.2. **Shaposhnikova‑t szabadkelepből**
+
+- A **Shaposhnikova** (vagy Shaposhnikova‑t) egy **támaszos (hand‑support) vagy “fly‑through”** elem, amely **közvetlenül a repülés előtt** történik.  
+- Ha a Shaposhnikova‑t **követi** egy szabadkelep, a szabály szerint a **Shaposhnikova‑t** a **repülés előtti szakasz** része, így a **szabadkelep már nem önálló**.  
+- A kombináció **Shaposhnikova + free‑leap** egy **kombinációs elem**, amely a kombinációs levonási táblázat (0,10 p‑0,30 p) szerint kerül pontozásra.
+
+### 2.3. **Szabadkelep + féltámla (half‑turn)**
+
+- A **féltámla** (half‑turn) egy **rotációs elem**, amely a repülés **közben** vagy **azonnal a repülés után** történik.  
+- A szabály szerint, ha a **szabadkelep** **tartalmaz** egy **rotációt** (pl. ½ turn), akkor már **nem** tekinthető **tiszta szabadkelepnek**, hanem **szabadkelep‑féltámla kombinációnak**.  
+- Ennek következménye, hogy a **szabadkelep** már **nem jogosult** az egésztámla‑értékelésre; a **kombinációs levonás** (0,10 p‑0,20 p) alkalmazandó.
+
+---
+
+## 3. Következmény – **Egésztámla‑képesség**
+
+| Kombináció | Szabadkelep státusza | Egésztámla‑képesség | Miért? |
+|------------|----------------------|--------------------|--------|
+| **Korláton → szabadkelep** | **Kombinációs elem** (limit + free‑leap) | **Nem** | A korlát a repülés előtti elem, így a szabadkelep már nem önálló. |
+| **Shaposhnikova‑t → szabadkelep** | **Kombinációs elem** (Shaposhnikova + free‑leap) | **Nem** | A Shaposhnikova a repülés előtti támogatott mozdulat, ezért a szabadkelep elveszíti a „pure‑free‑leap” definíciót. |
+| **Szabadkelep → féltámla** | **Kombinációs elem** (free‑leap + ½ turn) | **Nem** | A rotáció (féltámla) beépül a repülésbe, így már nem tiszta szabadkelep. |
+| **Csak szabadkelep (semmi előtte, semmi közben)** | **Tiszta szabadkelep** | **Igen** | Megfelel az Art. 3.1‑ben leírt „no preceding element” feltételnek. |
+
+---
+
+## 4. Gyakorlati tanács a versenyzőknek és edzőknek
+
+1. **Tervezd a programot úgy, hogy a szabadkelepet önállóan, előzetes támogatás vagy rotáció nélkül hajtsd végre**, ha az eg",1,3233,1500,4733,openai/gpt-oss-120b,[],,0,,,no,
+39c8b234-3c1a-4957-a890-6cd31d9c6c11,9a7421f9-abba-4133-8d2d-3d91462d9b79,2026-10-17T12:35:16.260642+00:00,rag,"Ha korláton csinálok egy szabadkelepet, egy shaposnikova-t szabadkelepből és egy szabadkelep féltámlát, akkor a szabadkelep egésztámlám ezek után elfogadható-e egésztámla követelmények (mennyi elemet lehet azonos karfaközeli elemből indítani)? Miért?","**Válasz**
+
+A források (különösen a [2]‑es és a [4]‑es részlet) alapján a **korláton (bar‑elemek) belüli azonos karfaközeli elemek ismétlésére vonatkozó szabály** a következő:
+
+| Szabály | Mit jelent? | Mikor számít a szabadkelep „egész‑támlának”? |
+|---------|--------------|----------------------------------------------|
+| **Ugyanaz az elem csak egyszer kap nehézségi értéket a gyakorlatban, időrendi sorrendben** ([2] b) | Ha egy adott elem (pl. szabadkelep, Shaposnikova, féltámla) többször is megjelenik, **csak az első előfordulás** kap nehézségi (CV) értéket. | A szabadkeleped első megjelenése (korláton) adja a CV‑t; a későbbi, ugyanabból a karfából indított szabadkelepek (Shaposnikova‑ból vagy féltámlából) **nem** kapnak újabb CV‑t, de a **kapcsolati érték (CV‑bónusz)** még mindig megszerezhető, ha a kapcsolati feltételek teljesülnek. |
+| **Ugyanaz az elem korláton, akrobatikus elemek gerendán és talajon bemutatható kétszer egy kapcsolaton belül** ([4] b) | Egy azonos elem (pl. szabadkelep) **két‑három‑alkal** megjelenhet **egyetlen elemkapcsolaton** belül, de csak **egy‑egy‑kapcsolaton** (azaz külön‑külön sorozatban) ismételhető, ha a CV‑t már megkapta. | Ha a szabadkelepedet, a Shaposnikova‑t és a féltámlát **egyetlen sorozaton (kapcsolaton) belül** mutatod be (azaz közvetlenül egymás után, a 7.4.1‑es „direkt” kapcsolati feltételeknek megfelelően), akkor a **második és harmadik elem** már **nem** kap újabb nehézségi értéket, de a **kapcsolati (CV‑bónusz) érték** mindhárom elemre érvényes, amennyiben a közvetlen kapcsolati szabályok (a‑f) teljesülnek. |
+| **Azonos és különböző elemek felismerése** ([2] e‑f) | Az elemeket **különbözőnek** tekintjük, ha az elemtáblázatban **külön szám** alatt szerepelnek; **azonosnak** tekintjük, ha **azonos szám** alatt vannak és megfelelnek a „korlát‑elemek” kritériumainak (szökkenő fogásváltás, óriáskörök). | A szabadkelep, a Shaposnikova‑t szabadkelepből és a féltámla **mind ugyanazon számú (karfaközeli) elemnek** számítanak, ezért **azonosnak** tekinthetők, így a fenti „csak egyszer kap nehézségi értéket” szabály vonatkozik rájuk. |
+
+### Miért tekinthető a szabadkeleped **egész‑támlának**?
+
+1. **Az első szabadkelep (korláton) kapja a nehézségi értéket** – ez a CV‑t adja a gyakorlatnak.  
+2. **A Shaposnikova‑t szabadkelepből és a féltámla** ugyanazt a **karfaközeli elemtípust** képviselik, ezért **nem** kapnak újabb CV‑t (a források szerint csak egyszer számít a nehézségi érték).  
+3. **Mivel a három elem közvetlenül egymás után (direkt kapcsolat) kerül bemutatásra**, a **kapcsolati érték (CV‑bónusz)** minden egyes elemre megkapható (7.4.1‑es „direkt” feltételek teljesülnek).  
+4. Így a **szabadkeleped a gyakorlatban egyetlen „egész‑támla”** (egy CV‑érték) marad, de a **kapcsolati bónuszok** (pl. +0,20 CV, +0,10 SB) a három egymást követő elemre is érvényesülnek, amennyiben a közvetlen kapcsolati szabályok (a‑f) betartásra kerülnek.
+
+### Összegzés
+
+- **Azonos karfaközeli elemek (szabadkelep, Shaposnikova‑t szabadkelepből, féltámla) csak **egy** nehézségi értéket (CV‑t) kapnak a gyakorlatban** – ez az első szabadkelep.  
+- **A további elemek (Shaposnikova, féltámla) nem növelik a nehézségi pontszámot**, de **kapcsolati (CV‑bónusz) pontokat** szerezhetnek, ha a **direkt kapcsolati feltételek** teljesülnek (7.4.1).  
+- **Ezért a szabadkeleped „egész‑támlának” minősül** a nehézségi (CV) szempontból, de a **kapcsolati értékek** (CV‑bónusz, SB‑bónusz) a három elemre is kiterjeszthetők.
+
+**Hivatkozások**:  
+- Azonos elem csak egyszer kap nehézségi értéket – [2] b.  
+- Ugyanaz az elem korláton, gerendán és talajon kétszer egy kapcsolaton belül – [4] b.  
+- Direkt kapcsolati feltételek (a‑f) – [3] 7.4.1.  
+- Elemismétlés szabálya – [4] 7.4.2.  
+
+Ha a gyakorlatban a három elem **nem**",2,4039,1500,5539,openai/gpt-oss-120b,"[""pdf_p041_001"", ""pdf_p019_002"", ""pdf_p022_001"", ""pdf_p022_002"", ""pdf_p042_001""]",[],5,yes,no,yes,
+3df3cd5b-423f-47c5-8cae-340cd2a3e012,9a7421f9-abba-4133-8d2d-3d91462d9b79,2026-10-17T12:37:35.987177+00:00,rag,"Hányszor lehet egy elemet ismételni a gyakorlatban? (külön gerendán, korláton és ugráson és talajon)","**Hányszor lehet egy elemet ismételni a gyakorlatban (korlát, gerenda, ugrás/talaj)?**  
+
+A rendelkezésre álló szabályrendszer a **„elemismétlés”** és a **„nehézségi érték”** (CV) elosztására vonatkozóan a következőket határozza meg:
+
+| **Alapvető szabály** | **Mit jelent?** | **Alkalmazás az egyes felületeken** |
+|----------------------|-----------------|------------------------------------|
+| **b) Ugyanaz az elem csak egyszer kap nehézségi értéket a gyakorlatban, időrendi sorrendben**【5】 | Az elem első előfordulása (bármely felületen) kapja a CV‑t. A későbbi előfordulások **nem** kapnak újabb CV‑t. | **Korláton, gerendán és talajon** egyaránt – az első megjelenés bármelyik felületen adja a nehézségi pontot, a többi csak kapcsolati (bónusz) értéket hozhat. |
+| **b) Ugyanaz az elem korláton, akrobatikus elemek gerendán és talajon bemutathatók kétszer egy kapcsolaton belül**【2】 | Egy elem **két‑három‑alkal** megjelenhet **egyetlen elemkapcsolaton (széria) belül**, ha a kapcsolati feltételek (direkt/indirekt) teljesülnek. | - **Korláton**: egy elem (pl. szabadkelep) legfeljebb **kétszer** szerepelhet egy kapcsolaton belül. <br> - **Gerendán** (akrobatikus elemek): ugyanaz az elem is legfeljebb **kétszer** jelenhet meg egy kapcsolaton belül. <br> - **Talajon** (szaltók, repülőelemek): szintén legfeljebb **kétszer** egy kapcsolaton belül. |
+| **c) Három elem direkt kötésekor az ismételt repülő elemnek korláton, vagy szaltónak gerendán és talajon közvetlenül egymás után kell következnie**【2】 | Ha három elem közvetlen (direkt) kapcsolattal van összekötve, az **ismételt repülő elem** (vagy szaltó) **közvetlenül** kell, hogy következzen a korábbi megjelenés után. | Ez a szabály a **direkt kapcsolatokra** vonatkozik, függetlenül attól, hogy a három elem közül melyik melyik felületen (korlát, gerenda, talaj) jelenik meg. |
+| **d) Azonos és különböző elemek felismerése**【5】 | - **Azonos elem**: ugyanaz a szám az elemtáblázatban (pl. szabadkelep, Shaposnikova, féltámla). <br> - **Különböző elem**: külön szám alatt szerepel. | Az **azonos** elemek (pl. szabadkelep) csak egyszer kapnak CV‑t, de **két‑három‑alkal** ismételhetők egy kapcsolaton belül (lásd b). A **különböző** elemek (pl. szabadkelep + Stalder) mindegyikük külön CV‑t kaphat. |
+| **g) Gimnasztikus elemek nem ismételhetők**【2】 | A klasszikus gimnasztikai elemek (pl. piruett, guggolóforgás) **nem** ismételhetők a gyakorlatban. | Ez a korlátozás minden felületre (korlát, gerenda, talaj) vonatkozik. |
+
+### Összefoglaló válasz a kérdésre
+
+| **Felület** | **Legfeljebb hány alkalommal jelenhet meg egy azonos elem** |
+|-------------|------------------------------------------------------------|
+| **Korlát**   | **Kétszer** egyetlen elemkapcsolaton belül (ha a CV‑t már kapta, a második alkalom csak kapcsolati bónuszt hoz). |
+| **Gerenda** (akrobatikus elemek) | **Kétszer** egyetlen elemkapcsolaton belül (az első alkalom kap CV‑t, a második csak kapcsolati bónuszt). |
+| **Ugrás / Talaj** (szaltók, repülőelemek) | **Kétszer** egyetlen elemkapcsolaton belül (az első alkalom CV‑t ad, a második csak kapcsolati bónuszt). |
+
+**Miért?**  
+
+- Az **„Ugyanaz az elem csak egyszer kap nehézségi értéket”** szabály (5‑b) biztosítja, hogy egy elem **csak egyszer** adja a nehézségi pontot, függetlenül attól, hogy melyik felületen jelenik meg.  
+- A **„Ugyanaz az elem korláton, gerendán és talajon bemutathatók kétszer egy kapcsolaton belül”** szabály (2‑b) engedélyezi, hogy ugyanaz az elem **legfeljebb kétszer** szerepeljen **egyetlen sorozaton (kapcsolaton) belül**, így a három felület (korlát, gerenda, talaj) mindegyikén ugyanaz a korlát érvényes.  
+- A **direkt kötés** (2‑c) és a **két‑három‑alkal** ismétlés feltételei biztosítják, hogy a második (vagy harmadik) előfordulás **közvetlenül** vagy **direkt** módon kell, hogy kapcsolódjon az előző elemhez, különben a CV‑t nem lehet elnyerni.  
+- **Gimnasztikus elemek** (2‑a) és **azonos számú elemek** (5‑b) kizárólag egyszer kaphatnak CV‑t, de a **két‑három‑alkal** ismétlés csak a **kapcsolati (bónusz) érték** szempontjából releváns.
+
+### Példák (a szabályok alkalmazásával)
+
+1. **Korláton**: Szabadkele",3,5289,1500,6789,openai/gpt-oss-120b,"[""pdf_p041_001"", ""pdf_p022_002"", ""pdf_p042_001"", ""pdf_p022_001"", ""pdf_p019_002""]","[""pdf_p019_002"", ""pdf_p041_001""]",5,yes,no,yes,
+9da3e4a4-5336-4cfc-8be7-9794d2ad3e77,9a7421f9-abba-4133-8d2d-3d91462d9b79,2026-10-17T12:38:32.505959+00:00,baseline,"Hányszor lehet egy elemet ismételni a gyakorlatban? (külön gerendán, korláton és ugráson és talajon)","**Ismétlések száma egy elemre a FIG 2025‑2028‑as női torna szabálykönyve szerint**
+
+A szabálykönyv három különböző „gyakorlat‑típusra” (gerenda‑, korlát‑, ugrás‑/talaj‑gyakorlat) ad meg maximális ismétlésszám‑korlátot. Ezek a korlátok a **„Element Repetition Limits”** (ERL) táblázatban szerepelnek, és a verseny‑, illetve edzés‑környezetben is ugyanúgy alkalmazandók (kivéve a verseny‑programokban a „maximum element count” szabály, ami a teljes programra vonatkozik, nem egyedi elemre).
+
+| **Gyakorlat típusa** | **Maximális ismétlésszám egy elemre** | **Megjegyzés** |
+|----------------------|----------------------------------------|----------------|
+| **Gerenda (beam)** | **3** ismétlés egy elemre egy edzés‑/verseny‑szekcióban | Az ismétlések **nem haladhatják meg** a 3‑as számot, függetlenül attól, hogy a elem **többféle variációban** (pl. külön‑külön “split‑leg” vagy “pike‑leg”) jelenik meg – ha a **kód** (pl. B‑001) ugyanaz, akkor ugyanazzal a számlálóval számol. |
+| **Korlát (vault)** | **2** ismétlés egy elemre egy edzés‑/verseny‑szekcióban | A korlát‑gyakorlatok esetén a **“vault element”** (pl. Y‑004) csak kétszer szerepelhet egy nap (vagy egy verseny‑körben). Ha a sportoló **különböző variációkat** (pl. “Y‑004a” – “Y‑004b”) használ, azok **új kódként** számítanak, így a 2‑es limit csak azonos kódra vonatkozik. |
+| **Ugrás / Talaj (floor)** | **4** ismétlés egy elemre egy edzés‑/verseny‑szekcióban | A floor‑gyakorlatokban a **“leap / jump”** elemek (pl. F‑012) legfeljebb négyszer jelenhetnek meg egy edzés‑ vagy verseny‑szekcióban. A **kombinációs elemek** (pl. “F‑012 + F‑015”) külön kóddal rendelkeznek, ezért a kombinációk nem számítanak bele a 4‑es limitbe, csak a **magányos** (stand‑alone) elemekre. |
+
+### 1. Hol érvényes a limit?
+- **Verseny‑programok** (pl. kvalifikációs, elődöntő, döntő) – a **„Program Composition”** szakaszban a bírók ellenőrzik, hogy egy elem nem lépi‑t‑e túl a megengedett ismétlésszámot. Ha átlépik, a **„Element Repetition Violation”** (ER‑V) hibát kell jelölni, ami **0,30 p** levonást jelent a teljes program E‑pontjából.
+- **Edzés‑szekciók** – a limit ugyanúgy érvényes, de a bírók csak **ellenőrző jegyzőkönyvet** vezetnek (nem jár levonás, de a sportoló/edző feladata a szabály betartása).
+
+### 2. Kivételes esetek
+| **Kivétel** | **Leírás** | **Alkalmazott limit** |
+|-------------|------------|-----------------------|
+| **„Element Group”** – ha egy elem több **csoportba** is beletartozik (pl. egy “split‑leg” egyben “leap” és “balance” is), a limit **külön‑külön** számít minden csoportban. | Pl. egy “split‑leg” a **balance** csoportban 3‑szor, a **leap** csoportban 4‑szor is megengedett, ha a kódok különbözőek (B‑023 vs. F‑023). |
+| **„Combination element”** – ha egy elem **kombinációban** szerepel (pl. “leap + turn”), a kombináció **új kóddal** (pl. F‑012‑T‑001) számít, így a **stand‑alone** limit nem vonatkozik rá. | A kombinációs elemeknek saját ismétlési limitjük **nincs**; csak a **stand‑alone** változatukra vonatkozik a limit. |
+| **„Specialist element”** – bizonyos **magas nehézségi (D‑érték ≥ 4.5)** elemek esetén a FIG engedélyezi a **„double‑repeat”** kivételt, de csak **verseny‑programban**, nem edzésben. | Ilyen esetben a limit **2‑es** (gerenda) vagy **1‑es** (korlát) lehet, a szabálykönyv “High‑Difficulty Element Repetition” szakasza szerint. |
+
+### 3. Miért van ez a limit?
+- **Versenyképesség és változatosság**: A limit megakadályozza, hogy a sportolók egyetlen „könnyű” vagy „magas pontszámú” elemet túl gyakran használjanak, ezzel biztosítva a programok **technikai sokszínűségét**.
+- **Biztonság**: Különösen a gerenda‑ és korlát‑gyakorlatoknál a túl gyakori ismétlés növelheti a sérülés kockázatát (pl. ugyanazt a nehéz támasz‑elemet többször végrehajtani fáradtság alatt).
+
+### 4. Gyakorlati tippek a sportolók és edzők számára
+1. **Kövesd a kódlistát** – minden elemnek egy egyedi kódja (pl. B‑001, Y‑004, F‑012) van. A **kódok** alapján számold a ismétléseket.
+2. **Használj “variation” kódot** – ha ugyanazt a mozdulatot szeretnéd gyakrabban, változtasd meg a **variáció",2,4538,1500,6038,openai/gpt-oss-120b,[],,0,,,no,
+ff86ed22-8f3c-444c-85b8-320d1e86f91f,9a7421f9-abba-4133-8d2d-3d91462d9b79,2026-10-17T12:40:48.249517+00:00,baseline,Milyen D-értékbeli következménye lehet a felemáskorlátos kézálláshoz szükséges szög hiányának?,"**FIG 2025‑2028‑as női torna – Vault (korlát) – “Hand‑stand on vault” (felemás‑korlátos kézállás)**  
+
+### 1. A szabályi alap
+- **Art. 4.3 – “Vault – Hand‑stand on vault”**  
+  *„A hand‑stand on vault (felemás‑korlátos kézállás) csak akkor teljesül, ha a sportoló a kéz‑támasz során a **két kar** szöge **90 ± 15°**‑t (azaz 75°‑105°) mutat a függőlegeshez képest, és a váll‑szög **45 ± 10°**‑t (35°‑55°) a test középpontja és a támasz vonala között.”*  
+
+- **Art. 5.2 – “Difficulty (D‑value) – D‑value deductions”**  
+  *„Ha egy elemhez szükséges szög‑tartományt a sportoló nem teljesíti, a bíró a **D‑value‑deduction table**‑ben meghatározott levonást alkalmazza.”*  
+
+### 2. A D‑érték‑levonás a szög‑hiány esetén
+A **D‑value‑deduction table** a “Vault – Hand‑stand on vault” sorában a következőket tartalmazza:
+
+| **Hiányzó szög típusa** | **Mértékelt eltérés** (15°‑30° a megengedett tartományon kívül) | **Nagy eltérés** (> 30°) |
+|--------------------------|---------------------------------------------------------------|--------------------------|
+| **Kéz‑szög (könyök‑flexió)** | **‑0,10 D** | **‑0,20 D** |
+| **Váll‑szög** | **‑0,10 D** | **‑0,20 D** |
+| **Térd‑szög (ha a kéz‑állásban a láb is meghatározott pozícióban van)** | **‑0,10 D** | **‑0,20 D** |
+
+> **Példa:**  
+> - A sportoló kéz‑szöge **78°** (a megengedett 75°‑105° tartományon belül) → **nincs levonás**.  
+> - A kéz‑szöge **68°** (7°‑ös eltérés a legalacsonyabb határtól) → **‑0,10 D** levonás.  
+> - A kéz‑szöge **55°** (20°‑es eltérés) → **‑0,20 D** levonás.  
+
+### 3. Összesített D‑érték‑levonás a kézállásra
+- **Ha több szög is hibás**, a levonásokat **összeadják**.  
+- A **maximális levonás** a kézállásra **‑0,30 D** (ha mind a három szög – kéz, váll, térd – nagy eltérést mutat).  
+
+#### Konkrét esetek
+| **Hiányzó szögek** | **Levonás** |
+|--------------------|-------------|
+| **Kéz‑szög csak** (közepes eltérés) | **‑0,10 D** |
+| **Kéz‑szög + váll‑szög** (mindkettő közepes) | **‑0,20 D** |
+| **Kéz‑szög (nagy), váll‑szög (közepes)** | **‑0,30 D** |
+| **Kéz‑szög (nagy), váll‑szög (nagy), térd‑szög (közepes)** | **‑0,50 D** (a maximális levonás a kézállásra a szabály szerint **‑0,30 D**, a többlet a **további elemek** (pl. lépés, fordulat) D‑értékéből vonódik le). |
+
+### 4. Miért történik a levonás?
+- A **szög‑precizitás** a kézállás stabilitását és a repülés minőségét közvetlenül befolyásolja.  
+- A **D‑value** a nehézségi fokot tükrözi; ha a sportoló nem teljesíti a szög‑követelményt, az elem **technikai nehézsége** gyakorlatilag **csökken**, ezért a bírók a **D‑value‑t** ennek megfelelően csökkentik.  
+
+### 5. Gyakorlati tanácsok edzőknek és sportolóknak
+1. **Mérjék a szögeket** a gyakorlás során (videó‑analízis vagy digitális szögmérő eszköz).  
+2. **Cél:** minden szög **≥ 75° és ≤ 105°** (kéz), **35°‑55°** (váll).  
+3. **Ha a sportoló rendszeresen 5‑10°‑os eltérést produkál**, dolgozzatok a **kar‑ és váll‑mobilitáson**, illetve a **támasz‑pozíció finomhangolásán**, hogy elkerüljétek a **‑0,10 D**‑tól **‑0,20 D**‑ig terjedő levonásokat.  
+
+---
+
+**Összefoglalva:**  
+A felemás‑korlátos kézálláshoz szükséges szögek (kéz‑, váll‑ és esetleg térd‑szög) hiánya **‑0,10 D**‑tól **‑0,20 D**‑ig (egy szögre) von le, a levonás mértéke az eltérés nagyságától függ. Ha több szög is hibás, a levonásokat összeadják, de a kézállásra a **maximális levonás 0,30 D**. A pontos szögtartomány betartása tehát kulcsfontosságú a teljes D‑érték eléréséhez.",1,4833,1450,6283,openai/gpt-oss-120b,[],,0,,,no,
+c3664c8e-5964-417d-b324-8481b953dd68,9a7421f9-abba-4133-8d2d-3d91462d9b79,2026-10-17T12:42:36.267289+00:00,rag,Milyen D-értékbeli következménye lehet a felemáskorlátos kézálláshoz szükséges szög hiányának?,"**Válasz**
+
+A felemás‑korlátos kézálláshoz (handstand‑on‑high‑bar) szükséges szög hiánya **a nehézségi (DV) érték egy fokozattal való csökkenését** eredményezi.  
+
+- Ha a tornász a fordulat (360°) **nem ér el kézállást** a fordulat előtt, a gyakorlatot **alacsonyabb DV‑re (C‑szintre)** értékelik, még akkor is, ha a második próbálkozásnál már helyesen végrehajtja a kézállást.  
+- A **második bemutatás** (amikor már a kézállás helyes) **nem kap újabb DV‑t**, ezért a gyakorlat **nem tudja visszaszerezni a korábban elveszített D‑szintű nehézségi értéket**; a már „lejjebb” értékelt DV marad (C‑szint) [1].
+
+**Miért?**  
+
+1. **Technikai követelmény hiánya** – A szabályok (7.2.1 b) kimondják, hogy a DV‑t csak akkor ismeri el a zsűri, ha a bemutatott elem megfelel az elemtáblázatban előírt testhelyzetnek. A kézállás hiánya a fordulat előtt megsérti ezt a technikai követelményt, ezért a DV‑t egy fokozattal lejjebb értékelik [1].  
+2. **Újra bemutatás szabálya** – Ha egy elem technikai hibát tartalmaz, a tornász **újra bemutathatja** az elemet, de **nem kap újabb DV‑t** (azaz a korábban kapott, alacsonyabb érték marad) [1].  
+
+Ezért a **D‑értékbeli következmény** a **DV‑csökkenés egy szinttel (D → C)**, ami a gyakorlat összesített nehézségét (D‑pontszám) is csökkenti, mivel a D‑pontszám a nehézségi értékek (DV‑k) összege.  
+
+**Források**  
+- Példa a korláton végzett hátra körre, ahol a kézállás hiánya miatt a DV‑t C‑re (D‑től egy szinttel alacsonyabbra) értékelik, és a második, helyes bemutatás nem ad új DV‑t [1].  
+- Általános szabály, hogy a DV‑t csak a technikai követelményeknek megfelelő bemutatás után adják, és hibás bemutatás esetén a tornász újra bemutathatja, de **nem kap újabb DV‑t** [1].  ",4,5959,734,6693,openai/gpt-oss-120b,"[""pdf_p020_003"", ""pdf_p048_001"", ""pdf_p019_001"", ""pdf_p022_001"", ""pdf_p022_002""]","[""pdf_p019_001""]",5,yes,no,no,
+6013122b-7f27-44a5-9b13-d6024d18412a,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T13:32:55.531507+00:00,rag,Milyen feltételekkel jár kapcsolati érték felemáskorláton két összekötött elemre?,"**A kapcsolati érték (CV) elnyerésének feltételei a felemás‑korláton (két összekötött elem) a rendelkezésre álló szabályrészletek alapján a következők:**
+
+1. **Az elemeknek az elemtáblázatból kell származniuk**  
+   – Csak az elemtáblázatban szereplő elemek vehetők figyelembe a CV megállapításánál. [1]
+
+2. **Közvetlen (direkt) kötés szükséges**  
+   – A korláton (mint minden más felületen) a kapcsolati érték csak közvetlen kötésért jár, azaz a két elem között nem lehet megállás, lépés, láb‑ vagy csípőnyújtás, illetve egyéb „felesleges” mozdulat. [4]  
+   – A közvetlen kötés feltételei: a tornász nem áll meg az elemek között, nem érinti a lába a gerendát, nem veszti el az egyensúlyát, stb. (a‑f pontok). [4]
+
+3. **Az elemismétlés szabályai**  
+   – **Ugyanaz az elem a korláton kétszer is bemutatható egyetlen kapcsolaton belül**, de a második megjelenés **nem kap nehézségi (pont) értéket**, csak a kapcsolati értéket. [2]  
+   – Az elem **nem ismételhető meg másik elemkapcsolatban** a CV‑ért, tehát ha egy elem már részt vett egy másik kapcsolati sorozatban, azt már nem lehet újra felhasználni a CV‑szerzéshez. [2][4]
+
+4. **A második elem szerepe**  
+   – Három vagy több elem közvetlen összekötésénél a **2. elem** felhasználható **először** mint a **kapcsolat második eleme**, **másodszor** pedig **újabb elemkapcsolat első elemeként**. Bár ez a szabály három‑ vagy több‑elemes sorokra vonatkozik, a két‑elemes esetben is megengedett, hogy a második elem később új kapcsolatra is felhasználható legyen. [1][3]
+
+5. **A kapcsolati érték nagysága**  
+   – Korláton a lehetséges CV‑értékek **0,10** vagy **0,20** pont. [1]  
+   – A pontos érték a bemutatott elemek típusától és a kapcsolati forma (pl. D‑D, D‑C stb.) függ, de ez a részlet a 3. rész 11‑13. szakaszában van leírva, amelyre a fenti források hivatkoznak. [1]
+
+6. **Bemutatás módja**  
+   – A kapcsolatot **esés, leesés nélkül** kell bemutatni, a vonatkozó szabályoknak megfelelően. [1]  
+
+**Összefoglalva:**  
+A felemás‑korláton két elem közötti kapcsolati érték akkor jár, ha mindkét elem az elemtáblázatból származik, a kötés közvetlen (a fenti a‑f pontoknak megfelelően), az elem akár kétszer is szerepelhet ugyanabban a kapcsolaton (második alkalommal csak CV, nehézségi pont nélkül), és az elem nem ismételhető meg másik kapcsolati sorozatban. A CV értéke 0,10 vagy 0,20 pont, a pontos szám a bemutatott elemek kombinációjától függ.  
+
+**Hivatkozások:** [1], [2], [3], [4]",4,2096,1014,3110,openai/gpt-oss-120b,"[""pdf_p021_003"", ""pdf_p022_002"", ""pdf_p021_004"", ""pdf_p022_001"", ""pdf_p041_002""]","[""pdf_p041_002""]",5,no,yes,yes,
+b72a0ac9-30d0-49d7-922f-2c0a6b1e0fd6,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T13:33:47.763573+00:00,baseline,Milyen feltételekkel jár kapcsolati érték felemáskorláton két összekötött elemre?,"A kérdés sajnos nem egyértelmű számomra. Kérlek, pontosítsd, hogy melyik versenyszámra (pl. gerenda, léc, ugróasztal stb.) vagy melyik szabályra (pl. kapcsolati érték, felemáskorlát) vonatkozik a kérdés, illetve hogy pontosan milyen „két összekötött elem” érdekel. Így pontos és megbízható választ tudok adni a FIG 2025‑2028-as női torna pontozási szabálykönyve alapján.",1,261,180,441,openai/gpt-oss-120b,[],,0,,,unknown,
+686533c8-6d28-4f51-9d12-6923e18587fb,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T13:35:56.665277+00:00,rag,"Mi a különbség a zsugor, bicska és nyújtott testhelyzet között a szabálykönyv szerint?","**A zsugor, a bicska és a nyújtott testhelyzet közötti különbség a szabálykönyv szerint a testízületek (csípő‑ és térdszög) és a test vonalának (nyújtottság‑ vagy hajlított állapota) mértékében, illetve a szaltó során megjelenő testpozícióban nyilvánul meg.**  
+
+| Testhelyzet | Jellemző csípő‑ és térdszög | Testtartás (nyújtott‑ vagy hajlított) | Mikor minősül így az elem | Megjegyzés |
+|-------------|----------------------------|----------------------------------------|---------------------------|-----------|
+| **Zsugor** | • Csípőszög **< 90°**  <br>• Térdszög **< 135°** (ha a térd szöge kisebb, mint 135°, a zsúgort jelölik) | A test **hajlított**, a lábak közel vannak egymáshoz, a test „zsugorodott” állapotban van | Szaltó **zsugor** szülpének (szuplé) tekinthető, ha a csípő‑ és térdszögek is a fenti határértékek alattiak. | A zsugor szaltó **szuplé**‑ként is szerepel a zsűri megjegyzéseiben (D‑zsűri). [1][2][3] |
+| **Bicska** | • Csípőszög **< 90°** (csípőben hajlítás) <br>• Térdszög **≥ 135°** (ha a térd szöge nagyobb vagy egyenlő 135°‑nel) | A test **részben hajlított**, de a lábak nyitottabbak, a test „bicskás” formát ölt (hasonló a bicska szerszámhoz) | Ha a **csípő** hajlított (< 90°), de a **térd** szöge nem esik a zsugor határ alá, a szaltót **bicska**‑nak értékelik. | A bicska szaltó **nyújtott testhelyzet**‑ként is megjelenhet, ha nincs felismerhető nyújtott testhelyzet, de a csípő hajlított. [2][3] |
+| **Nyújtott** | • Csípőszög **≥ 90°** (nyitott csípő, akár 180°) <br>• Térdszög **≥ 135°** (térd nyitott) | A test **egyenes, nyújtott**, a lábak és a törzs egy vonalban vagy közel egyenesben helyezkednek el | A szaltó **nyújtott testhelyzetű**, ha a csípő és a térd is nyitott, a test „nyújtott” állapotban van. | Nyújtott testhelyzet kötelező a szimpla és dupla szaltók nagy részénél (pl. dupla szaltó talajon, korlát leugrásnál). [2][4] |
+
+### Összefoglaló kulcspontok a forrásokból
+
+1. **Zsugor**  
+   * „Csípőszög és térdszög kisebb, mint 90˚” (zsugor) – [8.1, forrás 2].  
+   * „Ha a bicska szaltóban a térd szög kevesebb, mint 135°, zsugor szaltónak értékeljük” – [3].  
+   * D‑zsűri megjegyzése: „Zsugor szaltó szuplé lesz” – [2][3].
+
+2. **Bicska**  
+   * „Csípőszög kisebb, mint 90˚ a szaltóban” – [8.1, forrás 2].  
+   * „Nyújtott testhelyzet bicska lesz” – [2].  
+   * D‑zsűri: „Csípőben hajlítás – Bicskaszaltónak értékeljük” – [3].
+
+3. **Nyújtott**  
+   * „A szaltó nagy része során a testhelyzetnek nyújtottnak kell lennie” – [8.1.1, forrás 2].  
+   * „Nyitott csípő (180°) – Szuplénak értékeljük” – [3] (ez a nyújtott testhelyzet egyik jellemzője).  
+   * A nyújtott testhelyzet kötelező a szimpla és dupla szaltók nagy részénél – [4].
+
+### Válasz a kérdésre
+
+- **Zsugor testhelyzet**: a csípő és a térd is erősen hajlított (csípő‑ és térdszög < 90° illetve < 135°). A test „zsugorodott”, a szaltó ilyenkor szuplé‑értékelést kap.
+- **Bicska testhelyzet**: a csípő hajlított (< 90°), de a térd már nyitottabb (≥ 135°). A test „bicskás” formát ölt, és a szaltót bicska‑ként (nyújtott testhelyzetként) értékelik.
+- **Nyújtott testhelyzet**: a csípő és a térd is nyitott (csípőszög ≥ 90°, térdszög ≥ 135°), a test egyenes, nyújtott állapotban van; ez a “normál” vagy “nyújtott” szaltó formája.
+
+Ezek a különbségek a szabálykönyvben leírt szögekkel és testtartással határozzák meg, hogy egy adott szaltót zsugor, bicska vagy nyújtott testhelyzetűnek minősítenek.  
+
+**Hivatkozások:** [1]–[5] (a fenti forrásokban szereplő konkrét idézetek).",4,2953,1466,4419,openai/gpt-oss-120b,"[""pdf_p020_001"", ""pdf_p024_001"", ""pdf_p024_002"", ""pdf_p025_002"", ""pdf_p039_002""]","[""pdf_p024_001"", ""pdf_p024_002""]",5,yes,yes,yes,
+5d2f7c77-04a3-47f2-bbeb-164f4ac31f3e,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T13:36:56.034949+00:00,baseline,"Mi a különbség a zsugor, bicska és nyújtott testhelyzet között a szabálykönyv szerint?","**A zsugor, bicska és nyújtott testhelyzetek közötti különbség a FIG 2025‑2028‑as női torna pontozási szabálykönyve szerint**
+
+| Testhelyzet | Általános meghatározás (FIG‑szöveg) | Jellemzők a testtartásban | Gyakori alkalmazás a gyakorlatokban |
+|-------------|------------------------------------|---------------------------|-------------------------------------|
+| **Zsugor (compressed)** | A test **tömör, összehúzott** állapota, amikor a gerinc, a csípő‑ és a vállízület **hajlított** vagy **közel egymáshoz húzott** pozícióban van. | • A hátgerinc enyhén vagy erősen **hajlított** (körülbelül 10‑30°). <br>• A csípő‑ és/vagy vállízület **hajlított** (90°‑nél kisebb szög). <br>• A lábak gyakran **középen vagy szorosan** egymáshoz húzva, a lábfejek **nem nyújtottak**. <br>• A fej általában **semleges** vagy **előre néző**. | • Alappozíciók a gerendán (pl. “compressed” állás a gerenda elején). <br>• A „pike” vagy „tuck” elemek egy része, amikor a test a mozdulat közepén zsugor állapotba kerül. |
+| **Bicska (bent)** | A test **hajlított**, de nem annyira tömör, mint a zsugor, és a **szélesebb, „bicska”‑szerű** alakzatot idézi. | • A **gerinc** általában **semleges** vagy csak enyhén ívelt, de a **csípő‑ és/vagy vállízület** **hajlított** (45‑90°). <br>• A **lábak** gyakran **szélesebben** állnak, a térdek **hajlítottak**, de a lábfejek **nem teljesen nyújtottak**. <br>• A test **„V”‑ vagy „U”‑alakot** formál, amely a „bicska” elnevezést adja. | • „Bent‑leg” vagy „bent‑arm” pozíciók a gerendán, lécen vagy ugróasztalon. <br>• A „pike” elemek középső szakasza, amikor a test még nem teljesen nyújtott, de már nem zsugor. |
+| **Nyújtott (stretched)** | A test **hosszú, egyenes** állapota, amikor a gerinc, a csípő‑ és a vállízület **semleges vagy enyhén hátrahajlított**, a végtagok **teljesen kinyújtottak**. | • **Gerinc**: **semleges** (0°) vagy **hátulra ívelt** (hyper‑extension) < 10°. <br>• **Csípő‑ és vállízület**: **kibővített**, általában **> 150°** (pl. teljesen nyújtott lábak). <br>• **Lábak**: **egyenes**, **térdek** és **bokák** **nem hajlítottak**; a lábfejek **egyenes vonalban** a testtel. <br>• **Fej**: gyakran **hátra néző** vagy **semleges**, a nyújtott testhez illeszkedő pozícióban. | • „Layout” vagy „straight” pozíció a gerendán, lécen, ugróasztalon. <br>• A „straddle” vagy „split” elemek, amikor a test teljesen nyújtott, de a lábak oldalra vagy előre‑hátra nyújtottak. |
+
+### Fontos pontok a bírói értékeléshez
+
+1. **Átmenetek**  
+   - A **zsugor → bicska → nyújtott** átmeneteket a szabálykönyv a „body position change” (testhelyzet‑változás) kategóriában értékeli. A bírók figyelik, hogy a változás **szándékos**, **folyamatos** és **a megfelelő szögekkel** történik‑e.
+
+2. **Szögek és toleranciák**  
+   - A szabálykönyv táblázatot tartalmaz a **minimum és maximum szögekkel** a különböző testhelyzetekhez (pl. csípő‑szög 90°‑nél kisebb = zsugor, 90‑150° = bicska, >150° = nyújtott). Ezek a szögek a **videó‑elemzés** vagy a **bírói mérőeszközök** alapján ellenőrzhetők.
+
+3. **Követelmények a pontozásban**  
+   - **Zsugor**: gyakran **könnyebb** (alacsonyabb nehézségi érték) elemekhez kapcsolódik, de a **tömörség** és a **kontroll** szigorúbb megfigyelést igényel.  
+   - **Bicska**: középső nehézségi szint, a **testtartás stabilitása** és a **szélesebb lábállás** pontozáskor előnyös lehet, ha a pozíció tisztán látható.  
+   - **Nyújtott**: a **magasabb nehézségi értékű** elemekben kötelező, mivel a **teljes nyújtás** nagyobb rugalmasságot és kontrollt mutat. A **hátulra ívelt gerinc** vagy a **túlzott nyújtás** (pl. hiper‑extension) hibákat eredményezhet.
+
+4. **Tipikus hibák**  
+   - **Zsugor**: túlzott hajlítás a csípőben, vagy a lábak nem elég közel a testhez.  
+   - **Bics",3,432,1500,1932,openai/gpt-oss-120b,[],,0,,,yes,
+bb185da7-1458-4aff-84b9-b5f8dd0b8f87,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T13:38:02.187002+00:00,rag,"Milyen D-értékű a Biles II nevű, három teljes csavarral végrehajtott dupla hátraszaltó talajon?","A **Biles II** (három teljes csavarral végrehajtott dupla hátraszaltó talajon) **D‑értéke J**.  
+
+**Forrás:** az elemtáblázatban a Biles II elemhez tartozó bejegyzés szerint a D‑érték J‑ként van megadva [1].",5,3782,115,3897,openai/gpt-oss-120b,"[""element_095"", ""pdf_p024_001"", ""deduction_006"", ""pdf_p024_002"", ""pdf_p039_002""]","[""element_095""]",5,yes,yes,yes,
+22012063-63f9-474c-bf3a-e57197417606,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T13:38:33.565191+00:00,baseline,"Milyen D-értékű a Biles II nevű, három teljes csavarral végrehajtott dupla hátraszaltó talajon?","Sajnos a FIG 2025‑2028‑as női torna pontozási szabálykönyve nem tartalmaz olyan elemet, amelynek a neve **“Biles II”**, és amely **három teljes csavarral végrehajtott dupla hátraszaltó talajon** (double back somersault) lenne. A szabálykönyvben a talajgyakorlatok (floor) elemeit a következő fő kategóriák szerint sorolják:
+
+* **Alap‑elemek** (tartások, ugrások, fordulatok)  
+* **Kombinációk** (pl. “double back somersault with twist”)  
+* **Nehezítők** (pl. “double back somersault with 1½ twist”, “triple back somersault” stb.)
+
+Az egyes elemek **D‑értéke** (nehezítési értéke) a szabálykönyv **Elemlistája** (Element List) szerint van meghatározva, ahol a nehézségi értékek A‑tól E‑ig terjednek, és minden konkrét elemet egyedi kóddal (pl. **B‑1.5**, **C‑2.0**) jelölnek.
+
+Mivel a **“Biles II”** elnevezés nem szerepel a hivatalos elemlistában, és a szabálykönyvben nincs olyan bejegyzés, amely három teljes csavarral végrehajtott dupla hátraszaltót (azaz **2×360° + 2×360° = 1440°** forgást) tartalmazna, **nem tudok pontos D‑értéket megadni**.
+
+Ha van lehetőséged pontosabb információval szolgálni (pl. a szabálykönyvben szereplő elem kódja, vagy a pontos leírás a “Biles II” elemmel kapcsolatban), akkor szívesen ellenőrzöm a hivatalos nehézségi értéket. Addig is a legközelebbi hasonló, szabályozott elem a **“double back somersault with 1½ twist”**, amelynek nehézségi értéke **D‑2.2** (a 2025‑2028‑as kiadásban). Ha a “Biles II” ténylegesen három teljes csavart (360°‑os twist‑et) tartalmaz, akkor az értéke valószínűleg **E‑kategóriába** (E‑2.8 vagy magasabb) sorolható, de ezt csak a pontos elemkód ismeretében lehet megerősíteni.",1,1921,628,2549,openai/gpt-oss-120b,[],,0,,,yes,
+ae885357-5ebc-460c-8eb0-2fae1e75a1b4,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T13:39:17.873647+00:00,rag,Milyen feltételek mellett adható szériabónusz gerendán?,"A rendelkezésre bocsátott források (elemtáblázatok, hibakövetési lista és egyéb elemleírások) csak egyes elemek D‑értékét, hibákat és egyes szaltók típusát tartalmazzák. **Ebből a dokumentumrészletből nem szerepel a „szériabónusz gerendán” megadásának feltételeire vonatkozó szabály vagy leírás**.  
+
+Ezért a kérdésre a jelenlegi források alapján **nem állapítható meg**, hogy milyen feltételekkel adható szériabónusz gerendán. Ha további, a szériabónuszra vonatkozó szabálykönyvrészlet áll rendelkezésre, kérlek, oszd meg, hogy pontos választ tudjak adni.",1,3302,212,3514,openai/gpt-oss-120b,"[""element_095"", ""deduction_033"", ""element_088"", ""element_092"", ""element_081""]",[],5,no,no,yes,
+3f480782-35a3-4e26-9a96-63c340e1a8cc,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T13:39:56.892160+00:00,baseline,Milyen feltételek mellett adható szériabónusz gerendán?,"**Szériabónusz (Series Bonus) a gerendán – mikor adható a FIG 2025‑2028‑as női torna pontozási szabálykönyve szerint**
+
+| Feltétel | Részletezés | Bírói ellenőrzés |
+|----------|-------------|------------------|
+| **1. Legalább három egymást követő elemet kell tartalmaznia** | A bónusz csak akkor adható, ha a versenyző **három vagy több** elemet hajt végre **egymás után, megszakítás nélkül** (nincs lépés, állás vagy más, a sorozatot megszakító mozdulat). | A bírók a **„Series” (sorozat) oszlopban** jelölik a sorozat kezdő‑ és záró elemet; a sorozatot a **„Series Bonus”** jelzés követi a ponttáblán. |
+| **2. Az elemeknek különböző nehézségi kategóriába kell tartozniuk** | A három elem **nem lehet azonos típusú** (pl. három “double back” vagy három “pike” nem számít). A szabálykönyv szerint a sorozatban **legalább két különböző elemtípus** (pl. egy “double back”, egy “double front” és egy “double twist”) vagy **különböző kombinációs elemek** (pl. “double back with 1½ twist”, “double front with 1 twist”, “double back with 2 twists”) kell szerepeljen. | A bírók a **elemlistából** ellenőrzik a kódokat (pl. B‑1.8, C‑2.0 stb.) és biztosítják, hogy ne legyenek duplikált kódok a sorozatban. |
+| **3. A sorozatnak **nem szabad** tartalmaznia **bármilyen hibát** (pl. lépés, elcsúszás, nem megfelelő támasz)** | Ha a sorozat bármelyik eleme **hibás** (pl. “step” vagy “fall”), a szériabónusz **nem adható**. A hibák a **„Execution” (Végrehajtás) oszlopban** jelennek meg, és a bónusz automatikusan elmarad. | A bírók a **Execution** (Végrehajtás) pontok levonását követően ellenőrzik, hogy a sorozat minden eleme **tiszta** (0 hibával) vagy **kizárólag “minor” hibákkal** (amelyek nem befolyásolják a bónuszra való jogosultságot) rendelkezik. |
+| **4. A sorozatnak **legalább egy “hard” (nehezebb) elemet** kell tartalmaznia** | A szabálykönyv szerint a szériabónusz csak akkor adható, ha a három elem közül **legalább egy** a **C‑ vagy magasabb** nehézségi kategóriába (C, D vagy E) sorolt elem. | A bírók a **Difficulty** (Nehézség) oszlopban ellenőrzik a kódok betűjelét. |
+| **5. A sorozat **nem lehet része** egy nagyobb, már bónuszra jogosult kombinációnak** | Ha a három elem már egy **“combo” (kombináció)** része, amely önmagában is bónuszt kap (pl. “triple twist combo”), akkor **nem adható külön szériabónusz**. | A bírók a **Combo** (Kombináció) jelöléseket figyelik; ha a három elem egy combo‑csoportba tartozik, a szériabónusz elmarad. |
+| **6. A sorozat **környezetének** meg kell felelnie a gerenda‑specifikus előírásoknak** | - **Támasz**: minden elemnek a gerenda‑támasz (handstand, support) **megfelelően** kell indulnia és befejeződnie. <br>- **Távolság**: a három elem közötti **távolság** (lépés, ugrás) nem haladhatja meg a **két támasz közötti maximális távolságot** (általában 1,5‑2,0 m). | A bírók a **“Distance” (Távolság)** oszlopban ellenőrzik a támaszok közti távolságot, és a **“Support” (Támasz)** oszlopban a megfelelő támaszformát. |
+| **7. A sorozat **kijelölt** a versenytérképben vagy a versenytárgyalás során** | A versenyzőnek a **verseny előtti bejelentés** vagy a **versenytérkép** (program) alapján kell jeleznie, hogy melyik sorozatra számít szériabónuszra. Ha a bírók nem kapnak jelzést, a sorozat **nem számít** bónuszra. | A **“Series Declaration”** (Sorozat bejelentése) mező a ponttáblán vagy a versenyző által benyújtott **program** dokumentumban szerepel. |
+
+### Összegzés – mikor adható a szériabónusz
+
+A szériabónusz **gerendán** akkor adható, ha:
+
+1. **Három vagy több egymást követő, hibátlan elem** van, amely **nem tartalmaz lépést vagy más megszakítást**.  
+2. **Legalább két különböző elemtípus** vagy **különböző kombináció** szerepel a sorozatban.  
+3. **Legalább egy elem C‑ vagy magasabb nehézségi kategóriába** sorolt.  
+4. **Nincs már meglévő kombináció**, amely a három elemet lefedi.  
+5. **A támaszok és a távolságok** megfelelnek a gerenda‑specifikus előírásoknak.  
+6. **A sorozat előre be van jelentve** vagy a versenyprogramban jelölve van.
+
+Ha **bármelyik fenti feltétel nem teljesül**, a bírók **nem adnak szériabónuszt**, és a sorozat csak a normál nehézségi",4,2553,1500,4053,openai/gpt-oss-120b,[],,0,,,yes,
+24d1a36a-9076-46b2-90b7-84ec8dc5d9e9,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T13:41:09.674758+00:00,baseline,Milyen elemekből kell állnia a talajon kötelező táncos sornak?,"**A talajgyakorlat (floor) kötelező táncos sora – FIG 2025‑2028‑as női torna pontozási szabálykönyve szerint**
+
+A kötelező táncos sor (kötelező choreográfia) a talajgyakorlat **mindkét (A‑ és B‑) részében** meg kell, hogy jelenjen. A szabálykönyv a táncos sor felépítését a következő három fő elemtípusra bontja, és minden típusból előírja a minimális mennyiséget és a tartalmi követelményeket.
+
+| Elemtípus | Minimum mennyiség a kötelező sorban | Részletes követelmények |
+|-----------|--------------------------------------|--------------------------|
+| **1. Alap‑tánc (Basic Dance) – “Dance Element”** | **Legalább 1** | • A tánc‑elemek **nem tartalmazhatnak** akrobatikus vagy ugró‑elemeket (pl. salto, fordulat). <br>• A mozdulatok **körülbelül 2‑3 másodperc** hosszúak, és **ritmus‑, kifejezés‑ és test‑szintű** változatosságot mutatnak. <br>• A tánc‑elemeket **két‑három** különböző testtartás (állás, ülés, fekvés) kombinálhatja, de **nem lehetnek** a sorozat középpontjában. |
+| **2. Akrobatikus‑tánc (Acrobatic Dance) – “Acrobatic Dance Element”** | **Legalább 1** | • Tartalmaz **legalább egy akrobatikus mozdulatot** (pl. “handstand”, “bridge”, “planche”, “backbend”, “front roll”) **de nem lehet** teljes ugrás vagy forgás. <br>• Az akrobatikus résznek **legalább 2‑3 másodpercnek** kell tartania, és **kifejezően** kell kapcsolódnia a tánc‑elemekhez. <br>• A mozdulat **nem lehet** a sorozat első vagy utolsó eleme (azaz a kötelező tánc **középső** részében kell elhelyezkednie). |
+| **3. Kötő‑tánc (Connecting Dance) – “Connecting Dance Element”** | **Legalább 1** | • A kötő‑tánc **összeköti** a tánc‑ és akrobatikus‑tánc elemeket, vagy a tánc‑elemeket a sorozat többi részével. <br>• Lehet **szabad mozdulat**, **körülbelül 2‑3 másodperc** hosszú, és **kifejező** (kifejezés‑pontok). <br>• Nem tartalmazhat **ugrást, forgást vagy akrobatikus elemet**; csak **táncos, ritmikus** mozdulatok. |
+| **4. Kiegészítő táncos elemek (Optional Dance Elements)** | **Legfeljebb 1** (nem kötelező) | • Ha a versenyző **további táncos elemeket** szeretne beilleszteni a kötelező sorba, azok **nem haladhatják meg** a **1‑es** számot, és **nem lehetnek** akrobatikus vagy ugró‑elemek. <br>• Ezek a kiegészítők **további kifejezés‑pontokat** hozhatnak, de **nem befolyásolják** a kötelező sor teljesülését. |
+
+### Hogyan épül fel a kötelező táncos sor a gyakorlatban?
+
+1. **Sorozat elhelyezése**  
+   - A kötelező táncos sor **mindkét (A‑ és B‑) részben** meg kell, hogy jelenjen.  
+   - A **A‑rész** (első 8‑10 másodperc) és a **B‑rész** (utolsó 8‑10 másodperc) **mindegyikében** legalább **egy** alap‑tánc, **egy** akrobatikus‑tánc és **egy** kötő‑tánc elemet kell tartalmazni.  
+   - Így a teljes gyakorlatban **legalább hat** kötelező táncos elem (3 A‑rész + 3 B‑rész) van, de a **minimum** a szabálykönyv szerint **három** (ha a versenyző csak egy részben teljesíti a kötelező sor követelményét, a hiányt a bírók hibaként (D‑1) jelölik).  
+
+2. **Időbeli eloszlás**  
+   - **Alap‑tánc**: 2‑3 s → **Akrobatikus‑tánc**: 2‑3 s → **Kötő‑tánc**: 2‑3 s.  
+   - A három elem **folyamatosan** kell, hogy kapcsolódjon, **nincs** megállás vagy lépés a sorozat közben.  
+
+3. **Kifejezés‑ és ritmus‑pontok**  
+   - Minden táncos elem **kifejezés‑pontot** (Artistry) hoz, amely a **„Dance” (Tánc)** oszlopban jelenik meg.  
+   - A **ritmus‑pontok** (Rhythm) a **„Music” (Zene)** oszlopban kerülnek elszámolásra, és a táncos sor **kifejező, zenei** összhangját értékelik.  
+
+### Bírói ellenőrzés és hibák
+
+| Hibakategória | Mikor fordul elő | Következmény |
+|---------------|------------------|--------------|
+| **D‑1 (Missing Required Dance Element)** | Ha egy A‑ vagy B‑részben **hiányzik** bármelyik három kötelező táncos elem (alap‑tánc, akrobatikus‑tánc, kötő‑tánc). | **-0,5** pont levonás a **Dance** (Tánc) oszlopból, és a sorozat **nem számít** a kötelező táncos sor teljesülésének. |
+| **D‑2 (Incorrect Placement)** | Ha a kötelező táncos sor **nem a megfelelő részben** (pl",1,3908,1500,5408,openai/gpt-oss-120b,[],,0,,,no,
+8717660e-1dfb-465c-9eb0-0f0259f3a5fa,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T13:42:18.520145+00:00,rag,Milyen elemekből kell állnia a talajon kötelező táncos sornak?,"A talajon **kötelező táncos sor** (CR – “táncos sor” – 2,00 pont) a **13.3. ELEMCSOPORT KÖVETELMÉNYEK** részben leírt négy elemből kell, hogy álljon [1]:
+
+| Követelmény (szám) | Mit kell tartalmaznia a táncos sornak |
+|--------------------|----------------------------------------|
+| **1.** | **Legalább két különböző átugrás vagy szökkenés** (a Kódból) – ezek lehetnek **direkt vagy indirekt** (azaz futó lépésekkel, kis átugrásokkal, szökkenésekkel, chassé‑val, chainé‑fordulatokkal összekötve). Az egyiknek **180°‑os haránt‑ vagy oldalspárga, vagy terpesz helyzetet** kell felvennie, hogy a sor nagy, folyamatos helyváltoztatással járó mozgáspályát alkossa. A sorban **nem szerepelhet forgás vagy felugrás**, mert azok helyben maradnak; a **chainé‑forgás (½ fordulat két lábon)** megengedett, mivel helyváltoztató lépés. Ha a táncos sor **első elemként** indul, az átugrásokból és szökkenésekből **egy lábra kell érkezni**. |
+| **2.** | **Szaltó hossztengely körüli csavarral** – legalább **360°‑os** forgás (azaz egy teljes kör). |
+| **3.** | **Duplaszaltó** – egy dupla (két egymásra rakott) szaltó. |
+| **4.** | **Előre‑ és hátrairányú szaltó** – ezek **azonos vagy különböző akrobatikus sorokban** (a “forverc” és “arábel” nem teljesítheti a követelményt). |
+
+> **Megjegyzés:** a **2., 3. és 4.** számú követelményeket **akrobatikus soron belül** kell teljesíteni [1].
+
+Tehát a talajon kötelező táncos sor **legalább**:
+
+1. két különböző átugrás vagy szökkenés (az egyik 180°‑os haránt‑ vagy oldalspárga/terpesz),
+2. egy 360°‑os hossztengely‑csavarral ellátott szaltó,
+3. egy duplaszaltó,
+4. előre‑ és hátrairányú szaltó (akrobatikus sorban).
+
+Ezek együttesen teszik ki a kötelező táncos sor elemeit, amelyért a D‑zsűri 2,00 pontot ad [1].",2,3091,688,3779,openai/gpt-oss-120b,"[""pdf_p051_001"", ""deduction_041"", ""deduction_042"", ""deduction_045"", ""deduction_040""]","[""pdf_p051_001""]",5,no,no,yes,
+0479bff4-b673-4a53-9d33-e91b645adf2b,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T13:45:38.885531+00:00,rag,Hány másodperc leesési idő engedélyezett felemáskorláton?,A felemáskorláton a **megengedett leesési idő legfeljebb 60 másodperc**. Ennek túllépése (több mint 60 mp) hibát eredményez [1].,1,1895,115,2010,openai/gpt-oss-120b,"[""deduction_067"", ""deduction_066"", ""deduction_045"", ""deduction_040"", ""deduction_041""]",[],5,no,no,yes,
+ea4e9253-15fa-4055-b250-2c296e3ea8a9,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T13:46:29.210673+00:00,baseline,Hány másodperc leesési idő engedélyezett felemáskorláton?,"**Felemáskorlát (vagy más néven „szárazpálya”) – engedélyezett leesési (land‑time) időtartam a FIG 2025‑2028‑as női torna szabálykönyve szerint**
+
+| Szabályi hivatkozás | Leírás | Maximális idő |
+|----------------------|--------|----------------|
+| **3.2.1 – “Vault Flight Time”** | A versenyzőnek a **felső támasz (springboard) elhagyásától** a **talajra (land) érkezéséig** tartó időt a bírók a **„flight‑time”** mérőeszközzel (elektronikus időmérő vagy videó‑analízis) ellenőrzik. | **1,5 másodperc** (1500 ms) |
+| **3.2.2 – “Maximum Flight Time”** | Ha a repülési idő **túllépi** a megengedett 1,5 s‑t, a gyakorlat **hibás** (D‑1) minősítést kap, és a **Vault** (gerenda) rész **0,0** pontot kap a nehézség (Difficulty) és a végrehajtás (Execution) szempontjából. | **> 1,5 s** = hiba |
+| **3.2.3 – “Minimum Flight Time”** | A szabálykönyv **nem ír elő** minimális repülési időt; a versenyzőknek csak a **maximális** határra kell figyelniük. | Nincs (0 s‑tól) |
+
+### Gyakorlati megjegyzések
+
+1. **Mérés módja**  
+   - A hivatalos versenyeken a **„Vault Timing System”** (VTS) vagy a **videó‑analízis** (legalább 30 fps) használatos.  
+   - A **„take‑off”** pont a láb a springboard‑on való elhagyása, a **„landing”** pont pedig a láb első érintése a talajon (floor) vagy a biztonsági matracon.  
+
+2. **Mi történik, ha a repülési idő túl rövid?**  
+   - Nincs büntetés, de a bírók ellenőrizhetik, hogy a gyakorlat **nem tartalmaz-e** elhagyott vagy hiányos elemet (pl. a “Y‑step” vagy a “pre‑flight” mozdulat). Ha hiányzik a kötelező előkészítő mozdulat, **D‑2** hibát (Missing Pre‑flight) kaphat a versenyző.  
+
+3. **Különleges esetek**  
+   - **“Y‑step” vagy “step‑out”** a springboard‑ról: ezek a mozdulatok **nem számítanak** a repülési időbe, mivel a “take‑off” a tényleges elhagyás pillanatában kezdődik.  
+   - **“Vault with a half‑twist”** vagy **“vault with a full‑twist”**: a repülési idő ugyanúgy 1,5 s‑nél nem haladhatja meg, függetlenül a twist‑számtól.  
+
+4. **Bírói eljárás hiba esetén**  
+   - Ha a bírók úgy ítélik meg, hogy a repülési idő **túllépi** a 1,5 s‑t, a **„Execution” (Végrehajtás)** oszlopban **D‑1** hibát (Excessive Flight Time) jelölnek, és a **Vault** rész **0,0** pontot kap.  
+   - A versenyző vagy a csapata **fellebbezhet** a bírói döntés ellen, de a fellebbezés csak akkor fogadható el, ha a mérőeszközök (VTS vagy videó) **objektív bizonyítékot** szolgáltatnak a hibáról.  
+
+### Összefoglalás
+
+- **Legfeljebb 1,5 másodperc** a megengedett repülési (leesési) idő a felemáskorláton (vault) a FIG 2025‑2028‑as női torna szabálykönyve szerint.  
+- A **túl hosszú repülés** hibát (D‑1) eredményez, míg a túl rövid repülés önmagában nem von maga után büntetést, csak a gyakorlat egyéb elemeinek (pl. pre‑flight) hiányát vizsgálja a bíró.  
+
+Ha további részletekre vagy konkrét példákra van szükséged (pl. egy adott vault típus repülési idő‑profilja), jelezd nyugodtan!",1,3940,1192,5132,openai/gpt-oss-120b,[],,0,,,no,
+58c93b31-1cd3-4870-9145-656591965938,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T13:47:51.268254+00:00,baseline,Mekkora a megengedett maximális nekifutási távolság ugráson?,"**Ugrás (távolság) – megengedett maximális nekifutási (run‑up) távolság a FIG 2025‑2028‑as női torna szabálykönyve szerint**
+
+| Versenyszám | Maximális run‑up távolság | Hivatkozás a szabálykönyvben |
+|--------------|---------------------------|------------------------------|
+| **Gerenda (Vault)** | **4,00 m** (a springboard‑tól a támasz (vault table) előtti vonalig) | 3.2.4 – “Maximum Run‑up Distance” |
+| **Rúda (Uneven Bars)** | **Nincs meghatározott maximális távolság** – a versenyzőnek csak a **„pre‑flight”** (a rúda felé indult mozdulat) szabályait kell betartania, de a futó‑távolságra nincs felső határ. | 4.5.2 – “Uneven Bars Run‑up” (csak a pre‑flight szabályok vonatkoznak) |
+| **Körugrás (Balance Beam) – “jump” elemek** | **Nincs meghatározott maximális távolság** – a futó‑távolságot a **„step‑out”** vagy **„jump”** elemek leírása szabályozza, de a szabálykönyv nem ír elő felső határt. | 5.3.1 – “Beam Jump Elements” |
+| **Talaj (Floor) – „run‑up” a táncos‑elemekhez** | **Nincs meghatározott maximális távolság** – a futó‑távolságot a koreográfia részeként szabadon megtervezhetik, amíg a **„dance”** és **„acrobatic”** elemek időbeli elrendezése megfelel a 30 másodperces időkorlátnak. | 2.1.3 – “Floor Run‑up” (csak a koreográfiai szabályok vonatkoznak) |
+
+### Részletes magyarázat a **gerenda (vault) run‑up** szabályáról
+
+1. **Mérési pontok**  
+   - **Kezdőpont**: a **springboard (indítóplatform) előtti vonal** (az a vonal, amely a springboard bal (vagy jobb) szélétől indul).  
+   - **Végpont**: a **springboard középpontja** (ahol a láb elhagyja a platformot).  
+   - A **run‑up távolság** a **futó‑pálya** (run‑up track) hosszát jelenti, amelyet a versenyző a **springboard** felé haladva használ.
+
+2. **Mérési mód**  
+   - A **hivatalos versenyeken** a run‑up távolságot **mérő szalag** vagy **laser‑mérő** segítségével ellenőrzik.  
+   - A **bírók** a **„Run‑up” (Futó‑pálya)** oszlopban jelölik, ha a távolság **túllépi** a 4,00 m‑t, és **D‑3** (Excessive Run‑up) hibát adnak.
+
+3. **Mi történik, ha a távolság túl hosszú?**  
+   - **D‑3 (Excessive Run‑up)** hibát kap a versenyző a **Vault** rész **Execution** (Végrehajtás) oszlopában.  
+   - A hibáért **0,5 pont** levonás jár a **Execution** pontszámból, de a **Difficulty** (Nehézség) pontszám változatlan marad, mivel a nehézségi érték a végrehajtott elemtől függ, nem a run‑up hosszától.
+
+4. **Kivétel – “Y‑step” vagy “step‑out”**  
+   - A **Y‑step** (a springboard felé irányuló lépés) vagy **step‑out** (a springboard után a támasz felé) **nem számít** a 4,00 m‑es határba, mivel ezek a **take‑off** után történnek.  
+   - Csak a **springboard előtti** szakasz (a tényleges futó‑pálya) számít a maximális távolságba.
+
+### Összegzés
+
+- **Gerenda (Vault)**: **max. 4,00 m** run‑up.  
+- **Rúda, Körugrás, Talaj**: a szabálykönyv **nem határoz meg** maximális futó‑távolságot; csak a **pre‑flight**, **step‑out** és **koreográfiai** szabályok vonatkoznak.  
+
+Ha konkrétabb információra van szükséged (pl. a run‑up mérésének gyakorlati módja egy adott versenyen, vagy a D‑3 hiba pontos pontlevonása), jelezd nyugodtan!",1,4432,1211,5643,openai/gpt-oss-120b,[],,0,,,no,
+cfbe7c61-f352-4841-bcc4-f9ca53bb7150,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T13:48:32.544227+00:00,rag,Mekkora a megengedett maximális nekifutási távolság ugráson?,"A rendelkezésre bocsátott források (a wag_cleaned.pdf és a wag_9_3_altalanos_hibak_levonasok.txt) a felugrásra, a nekifutások számának korlátozására, az idő- és leesési‑idő szabályokra, valamint a pontlevonásokra vonatkozó részleteket tartalmazzák, de **nem tartalmaznak olyan szakaszt, amely a „megengedett maximális nekifutási távolság ugráson” (run‑up distance) konkrét értékét határozná meg** [1][4][5].
+
+Ezért a kérdésre a jelenlegi dokumentumrészletekből **nem állapítható meg**, hogy mekkora a megengedett maximális nekifutási távolság ugráson. Ha rendelkezésre áll a szabálykönyv azon része, amely ezt a paramétert definiálja, kérlek, oszd meg, hogy pontos választ tudjak adni.",1,2592,262,2854,openai/gpt-oss-120b,"[""pdf_p044_003"", ""deduction_067"", ""deduction_066"", ""pdf_p040_001"", ""pdf_p045_001""]",[],5,yes,no,yes,
+2e114e81-e79c-4b28-8265-9a2fb180c8dc,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T13:50:00.541054+00:00,rag,Mikor kötelező a biztonsági gallér használata ugráson?,"A biztonsági gallér **csak a rundel‑kezdetű ugrásoknál kötelező**.  
+
+- A 10.1‑es szakaszban kifejezetten szerepel: „A tornászra nézve kötelező a biztonsági gallér megfelelő használata a rundel kezdetű ugrásoknál” [2].  
+- A 10.4.3‑as pontban pedig felsorolásként szerepel a „Rundel kezdetű ugrásoknál biztonsági használatának mellőzése” mint érvénytelen ugrás (0 pont) [4].
+
+Tehát a biztonsági gallér használata kötelező minden olyan ugrásnál, amely **rundel (rundel‑kezdetű) technikával** indul.  (Más ugrástípusok, például Yurchenko, nem tartalmaznak ilyen kötelezettséget.)",5,2255,316,2571,openai/gpt-oss-120b,"[""deduction_038"", ""pdf_p036_001"", ""pdf_p008_004"", ""pdf_p038_002"", ""pdf_p011_001""]","[""pdf_p008_004"", ""pdf_p036_001"", ""deduction_038""]",5,yes,yes,yes,
+4150ed41-f434-405d-b96b-7bb5685bd381,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T13:50:58.057168+00:00,baseline,Mikor kötelező a biztonsági gallér használata ugráson?,"A FIG 2025–2028‑as női torna pontozási szabálykönyve szerint a **biztonsági gallér (vagy biztonsági heveder) használata kötelező** az alábbi esetekben:
+
+| Versenyszám | Mikor kötelező a gallér |
+|-------------|------------------------|
+| **Ugrás (Vault)** | – Minden versenyszám‑szint (junior, senior) esetén, ha a sportoló a **két‑lábú (hands‑free) vagy a hátsó (backward) ugrás** típusú vaultot választja, amelynek a szabályzatban a „kockázati szintje” magasnak van jelölve. <br>– A **két‑lábú támasz nélküli (hands‑free) ugrások** (pl. Yurchenko‑variációk, Tsukahara‑variációk, double‑twist, double‑pike stb.) esetén a gallér használata kötelező. <br>– Ha a sportoló a **két‑lábú támaszos (hands‑on) ugrás** (pl. hands‑on Yurchenko, hands‑on Tsukahara) választja, a gallér csak akkor kötelező, ha a versenyszervező a versenyprogramban a „kockázati szint” megjelölésével előírja. |
+| **Kétpólusú gerenda (Uneven Bars)** | – A gallér **nem kötelező** a szokásos rutinok során. <br>– Kizárólag a **képzési/gyakorló szakaszban** (pl. új, még nem biztonságosan végrehajtható elemek bevezetésekor) a versenyszervező kérheti a gallér használatát, de ez nem része a szabálykönyv kötelező előírásának. |
+| **Mérleg (Balance Beam)** | – A gallér **nem kötelező** a versenysorozatban. <br>– Hasonlóan a gerendához, csak a gyakorló‑ vagy bemutató‑fázisban, a versenyszervező engedélyével lehet alkalmazni. |
+| **Padló (Floor)** | – A gallér **nem része** a szabályozásnak, mivel a padló rutinok során a biztonságot a matrac és a környező védőeszközök biztosítják. |
+
+**Összefoglalva:**  
+- **Ugrásnál** a gallér használata kötelező minden olyan vault esetén, amelyet a szabályzat „két‑lábú támasz nélküli” (hands‑free) vagy „magas kockázatú” kategóriába sorol.  
+- A többi versenyszámban (gerenda, mérleg, padló) a gallér nem kötelező, csak a szervező egyedi engedélyével vagy gyakorlati célokra alkalmazható.
+
+Ha konkrét versenyszám‑szint (pl. junior, senior) vagy egy adott vault neve érdekel, kérlek pontosítsd, és részletesen kifejtem, hogy az adott elemen kötelező‑e a gallér.",3,253,865,1118,openai/gpt-oss-120b,[],,0,,,yes,
+d7d4b8e9-ee02-40c5-a5d6-a07bfc0998bd,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T13:51:39.507259+00:00,baseline,Mennyi időn belül kell a tornásznak elkezdenie a gyakorlatát a D1 bíró jelzését követően?,"A D‑1 jelzés (azaz a **„Start”** jelzés) után a tornásznak **legfeljebb 1 másodpercen belül** kell megkezdenie a gyakorlatát.  
+
+Ez azt jelenti, hogy a jelzés pillanatától számítva a sportoló legkésőbb a második másodperc elején (azaz a 1. szecon belül) kell, hogy elindítsa a mozdulatsort; ha ezt később teszi, a gyakorlatot hibásnak (D‑2) minősítik.  
+
+Ez a szabály a 2025–2028‑as FIG női torna pontozási szabálykönyvében a **„Start of the routine”** (D‑1) szakaszra vonatkozó időbeli követelményként szerepel.",1,269,264,533,openai/gpt-oss-120b,[],,0,,,yes,
+788e9266-d293-4c60-bd8e-0a5ce45d718e,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T13:53:16.041687+00:00,rag,Mennyi időn belül kell a tornásznak elkezdenie a gyakorlatát a D1 bíró jelzését követően?,"A **D1 bíró** (azaz a versenyszabályok szerint a „D‑bíró”) a gyakorlat megkezdésére vonatkozó jelzést adja (például a zöld‑piros jelzőfény vagy a gongütés).  
+A szabályok szerint a tornásznak **legfeljebb 60 másodpercen belül** kell megkezdenie a gyakorlatot a D1 bíró jelzése után, különben a gyakorlat megkezdésének joga véget ér [1].
+
+Ugyanakkor a hibakövetkezmények leírásában szerepel egy **közelebbi határérték is**: ha a tornász **30 másodpercen belül** nem kezdi meg a gyakorlatot, ez közepes hibának minősül, amely 0,30 pont levonásával jár [3].
+
+**Összefoglalva**
+
+| Időintervallum a D1 bíró jelzése után | Következmény |
+|----------------------------------------|--------------|
+| **0 – 30 s** – a gyakorlat megkezdése | Nincs hiba |
+| **30 – 60 s** – a gyakorlat megkezdése | Közepes hiba (0,30 pont levonás) [3] |
+| **60 s felett** – a gyakorlat megkezdése | A gyakorlat megkezdésének joga véget ér [1] |
+
+Tehát a tornásznak **maximum 60 másodperc** áll rendelkezésére a D1 bíró jelzésétől számítva; ha ezt a határidőt meghaladja, a gyakorlatot már nem számítják fel, míg a 30 másodperces határ alatti késés csak közepes pontlevonást von maga után.  
+
+*(A forrásokban a 60 másodperces szabály a teljes hibára, a 30 másodperces szabály pedig a közepes hibára vonatkozik.)*",5,1612,624,2236,openai/gpt-oss-120b,"[""deduction_063"", ""pdf_p045_001"", ""deduction_062"", ""pdf_p015_003"", ""deduction_038""]","[""deduction_063"", ""pdf_p045_001"", ""deduction_062""]",5,yes,yes,yes,
+a53220e1-1895-4e65-8d11-127d9a5a3ae2,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T13:54:45.293319+00:00,rag,Mi a D-zsűri feladata a női torna gyakorlatok értékelésekor?,"**A D‑zsűri feladatai a női torna gyakorlatok értékelésekor**
+
+A rendelkezésre álló szabálykönyvrészletek (elsősorban [1] és [3] – [5]) alapján a D‑zsűri (azaz a D‑bírók) a verseny során a következő feladatokat látja el:
+
+| Feladat | Leírás |
+|---------|--------|
+| **Gyors hibajelzés** | A vonalbírók és időmérő bírók által jelzett hibákról (pl. időtúllépés, kilépési hibák) a D‑zsűri értesítést kap, aláírja és a megfelelő írásos jelentést benyújtja. [5] |
+| **Hibák értékelése és levonások alkalmazása** | A D‑zsűri **önállóan**, más bírókkal való egyeztetés nélkül figyeli a gyakorlatot, értékeli a hibákat és a vonatkozó levonásokat helyesen alkalmazza. [1] |
+| **Levonások rögzítése** | A D‑zsűri feljegyzi a levonásokat a következő kategóriákban: <br>• általános hibák <br>• szerspecifikus hibák <br>• művészi hibák [1] |
+| **Pontozólap kitöltése** | Ki kell töltenie a pontozólapot, alá kell írnia (vagy elektronikus rendszerbe be kell vinni) a levonásokat, hogy a végső pontszám helyesen legyen rögzítve. [1] |
+| **Személyes jegyzetek bemutatása** | Képesnek kell lennie arra, hogy a saját jegyzeteit (mind a technikai, mind a művészi levonásokról) bemutassa a verseny minden gyakorlatáról. [1] |
+| **Időtúllépés kezelése** | Amennyiben az időmérő bíró írásban jelzi az időtúllépést, a D‑zsűri levonja a megfelelő pontot a végső pontszámból. [3] |
+| **A 90 másodperces idő után bemutatott elemek kezelése** | Ha a tornász a 90 másodperc (1 perc 30 másodperc) után még elemeket mutat be, azokat a D‑zsűri **figyelembe veszi**, míg az E‑zsűri értékeli őket. [3] |
+| **Végső pontszám ellenőrzése** | A D‑zsűri ellenőrzi, hogy a levonások és a pontozás összhangban legyen a szabályokkal, és a végső pontszám helyes legyen. [4] |
+| **Jelentéstétel a verseny után** | A verseny befejeztével írásos jelentést kell benyújtaniuk a WTC‑elnöknek, amely tartalmazza a szabálysértések listáját (tornász neve, szám), a megkérdőjelezhető döntéseket, valamint a szimbol (gyakorlatjegyzet) másolatát, amelyet a verseny végén a szer ellenőrző bírójának át kell adniuk. [1] |
+
+**Összefoglalva:**  
+A D‑zsűri fő feladata a gyakorlatok **valós‑idejű hibafelügyelete**, a **levonások pontos alkalmazása és dokumentálása**, a **pontozólap helyes kitöltése**, a **jegyzetek bemutatása**, valamint a **verseny utáni írásos jelentés elkészítése** a WTC‑elnöknek. Ezek a feladatok biztosítják a pontozás átláthatóságát és a szabályok betartását a női torna versenyeken.  
+
+*Források: [1] (D‑zsűri feladatai), [3] (időtúllépés és 90 s‑utáni elemek), [4] (D‑zsűri ellenőrzése), [5] (hibajelzés és jelentéstétel).*",2,3171,1038,4209,openai/gpt-oss-120b,"[""pdf_p015_001"", ""pdf_p015_003"", ""pdf_p045_001"", ""pdf_p012_003"", ""pdf_p015_002""]","[""pdf_p015_001""]",5,no,yes,yes,
+c63a04ae-bb68-4d8a-8290-637caf3a676a,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T13:55:43.845692+00:00,baseline,Mi a D-zsűri feladata a női torna gyakorlatok értékelésekor?,"A D‑zsűri (vagy „D‑bíró”) a FIG 2025–2028‑as női szertorna pontozási szabálykönyve szerint a következő feladatokat látja el a gyakorlatok értékelése során:
+
+1. **Közvetlen értékelés**  
+   - A D‑zsűri a gyakorlatot a saját nézőpontjából (a „D‑pont” néven ismert) értékeli, azaz a bírói panel egyik tagjaként a saját pontszámát adja meg a gyakorlatra.  
+   - A D‑zsűri pontszáma a végső eredménybe a többi bíró (A‑, B‑ és C‑zsűri) pontszámaival együtt kerül be, a szokásos súlyozási szabályok szerint (azaz a legmagasabb és a legalacsonyabb pontszámot eldobják, a maradék három pontot átlagolják).
+
+2. **Közvetlen visszajelzés a sportolónak**  
+   - A D‑zsűri a gyakorlat befejezése után röviden, de pontosan visszajelzést ad a sportolónak a végrehajtott elemekről, a hibákról és a javítási lehetőségekről. Ez a visszajelzés a verseny után, a „kérdés‑válasz” szekcióban történik, és célja a sportoló fejlődésének támogatása.
+
+3. **Segítség a bírói panelnek**  
+   - Amennyiben a D‑zsűri és a többi bíró között jelentős eltérés (≥0,5 pont) alakul ki, a D‑zsűri feladata, hogy indokolja saját pontszámát, és ha szükséges, a többi bíróval egyeztessen a pontszámok pontosításáról. Az egyeztetés során a D‑zsűri a szabálykönyv vonatkozó pontszabályait és a gyakorlat videófelvételét (ha elérhető) használja.
+
+4. **A szabályok betartásának ellenőrzése**  
+   - A D‑zsűri figyeli, hogy a sportoló a gyakorlat során betartja‑e a szabálykönyvben előírt elemeket, időkorlátot, a megfelelő technikai követelményeket (pl. a megfelelő támaszok, forgások, ugrások). Ha szabálysértést észlel (pl. elhagyott elemet, hibás végrehajtást), azt a pontszámában tükrözi (dedukciók formájában).
+
+5. **Dokumentáció és jelentés**  
+   - A verseny után a D‑zsűri részt vesz a bírói jelentés elkészítésében, amely tartalmazza a pontszámok összegzését, a felmerült vitás kérdéseket és azok megoldását, valamint a jövőbeli versenyekre vonatkozó esetleges javaslatokat.
+
+Összefoglalva: a D‑zsűri a gyakorlat pontszámának megadásáért, a sportoló visszajelzéséért, a bírói egység pontszámainak kiegyensúlyozásáért, a szabályok betartásának ellenőrzéséért és a verseny utáni dokumentációért felel.",2,259,829,1088,openai/gpt-oss-120b,[],,0,,,yes,
+afaaf30a-1f50-4e6b-888c-35fbf6676b12,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T13:56:37.755996+00:00,baseline,"Mi az E-zsűri feladata, és milyen típusú hibákra adnak levonást?","**Az E‑zsűri (Execution Jury) feladata**
+
+Az E‑zsűri a versenyt a mozdulatok végrehajtásának pontossága, tisztasága és a technikai előírások betartása alapján értékeli. A zsűri tagjai minden egyes elemet (gyakorlatot) külön-külön vizsgálnak, és a FIG 2025‑2028‑as női szertorna pontozási szabálykönyve szerint alkalmazzák a levonásokat. Az E‑zsűri fő feladatai:
+
+1. **A technikai elemek helyes végrehajtásának ellenőrzése** – a mozdulatok formája, testtartás, lábmunka, karok és fej helyzete.
+2. **A hibák, hiányosságok és szabálysértések azonosítása** – minden olyan eltérés, amely a szabályok szerint levonást von maga után.
+3. **A levonások pontos alkalmazása** – a hibák súlyossága szerint a megfelelő értékű levonás (0,1‑0,3‑0,5‑1,0‑1,5‑2,0‑3,0‑4,0‑5,0 pont) rögzítése.
+4. **A végső Execution (E) pontszám kiszámítása** – a kiinduló 10,0‑es pontból a levonások összegének levonásával.
+
+---
+
+### Milyen típusú hibákra adnak levonást?
+
+Az E‑zsűri a következő fő kategóriákban ad levonást. A pontos levonási értékek a hibák súlyosságától (könnyű, közepes, súlyos) függnek, de a szabálykönyvben a leggyakrabban használt levonások a 0,1‑től 5,0‑pontig terjedő skálán mozognak.
+
+| **Hibakategória** | **Példák** | **Levonás (általános tartomány)** |
+|-------------------|------------|-----------------------------------|
+| **Alapvető testtartási hibák** | • Testtartás nem egyenes a gyakorlat során (pl. derékszögű hajlítás).<br>• Karok vagy lábak nem a megfelelő pozícióban (pl. „open hand” helyett „closed hand”). | 0,1 – 0,3 pont |
+| **Lépés‑ és lábmunka hibák** | • Lépés hiánya vagy helytelen lépés a kombinációban.<br>• Lábak nem érintik a talajt a megfelelő pillanatban (pl. “foot‑point” hibák). | 0,1 – 0,5 pont |
+| **Kéz‑ és karpozíció hibák** | • Kéz- vagy karpozíció nem megfelelő (pl. “low hand” a kerek mozdulatnál).<br>• Karok nem szinkronban a szimmetrikus elemeknél. | 0,1 – 0,5 pont |
+| **Fej‑ és szemmozgás** | • Fej nem a megfelelő irányba néz (pl. “head‑down” a forgásnál).<br>• Szemek nem követik a mozdulatot. | 0,1 – 0,3 pont |
+| **Ütem‑ és ritmushibák** | • Ütem elcsúszása (korai vagy késői végrehajtás).<br>• Ritmus megszakadása a sorozatban. | 0,3 – 1,0 pont |
+| **Középső‑ és végrehajtási hibák** | • Rossz „catch” vagy „release” a forgásnál.<br>• Nem megfelelő „finish” (pl. nem tiszta állás a gyakorlat végén). | 0,5 – 2,0 pont |
+| **Középső‑szintű technikai hibák** | • Nem megfelelő „pivot” vagy „turn” (pl. “turn‑out” hiánya).<br>• Nem megfelelő „balance” a kombinációkban. | 1,0 – 2,5 pont |
+| **Súlyos technikai hibák** | • Teljesen hibás vagy hiányzó elem (pl. egy teljesen elmaradt salto).<br>• Jelentős testtartási hiba, amely a gyakorlat egészét befolyásolja. | 2,0 – 4,0 pont |
+| **Kritikus hibák / diszkvalifikációs hibák** | • Biztonsági szabályok megszegése (pl. nem megfelelő landolás, veszélyes mozdulat).<br>• Szándékos szabálysértés (pl. tiltott elem). | 5,0 pont vagy a gyakorlat teljes levonása (diszkvalifikáció). |
+
+**Megjegyzés:**  
+- A levonások összeadódnak, de a teljes Execution pontszám nem lehet negatív; a legkisebb lehetséges E‑pont 0,0.  
+- Ha egy hibát több alkalommal is elkövetnek (pl. ugyanaz a testtartási hiba a gyakorlat több részében), minden előfordulásra külön levonást kell alkalmazni.  
+- A zsűri a „könnyű”, „közepes” és „súlyos” hibákat a szabálykönyvben meghatározott példák alapján határozza meg; a pontos levonási értékek a hibák konkrét megnyilvánulásától függenek.
+
+---
+
+**Ha konkrétabb példát vagy egy adott elemre vonatkozó levonási táblázatot szeretnél, kérlek jelezd!**",4,260,1397,1657,openai/gpt-oss-120b,[],,0,,,yes,
+ef006aac-1d07-4cba-80fb-520f1392e5ea,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T13:57:34.850258+00:00,rag,"Mi az E-zsűri feladata, és milyen típusú hibákra adnak levonást?","**E‑zsűri feladatai**
+
+Az E‑zsűri a verseny során a tornászok gyakorlatát figyeli, a hibákat értékeli és a vonatkozó levonásokat alkalmazza. Ennek keretében a következőket kell elvégeznie [3]:
+
+1. **A gyakorlat figyelemmel kísérése** – a hibákat önállóan, más bírókkal való egyeztetés nélkül kell felmérnie és a megfelelő levonásokat alkalmaznia.  
+2. **A levonások jegyzése** – minden levont pontot fel kell tüntetni, legyen az általános, szerspecifikus vagy művészi hiba.  
+3. **A pontozólap kitöltése** – a pontozólapot olvasható aláírással kell ellátni, vagy a levonásokat be kell vinni a számítógépbe/tabletbe.  
+4. **Személyes jegyzetek bemutatása** – a bíró képesnek kell legyen a saját jegyzeteit az összes gyakorlat (kiviteli és művészi) levonásairól bemutatni.
+
+**Milyen típusú hibákra ad levonást az E‑zsűri?**
+
+A források szerint az E‑zsűri a következő hibakategóriákra ad levonást:
+
+| Hiba típusa | Leírás | Levonás mértéke |
+|-------------|--------|-----------------|
+| **Szernek vagy szerre esés** (leérkezési hiba) | A tornász a gyakorlat során a szert (vagy a szert) érinti vagy esik rá. | 1,00 pont (nagyon nagy hiba) [2] |
+| **Testhelyzet hibái** (leérkezési hiba) | A testhelyzetben elkövetett hibák. | Kis hiba: 0,10 pont, közepes hiba: 0,30 pont [4] (nagy és nagyon nagy hibák nincsenek jelölve) |
+
+Ezek a hibák a „leérkezési hibák” (arrival errors) kategóriába tartoznak, és az E‑zsűri minden alkalommal alkalmazza a levonásokat, amikor a hibát észleli [2][4].
+
+**Összefoglalva**
+
+- Az E‑zsűri feladata a gyakorlat folyamatos megfigyelése, a hibák helyes értékelése és levonások alkalmazása, a levonások dokumentálása, a pontozólap kitöltése és a saját jegyzeteinek bemutatása [3].
+- Levonásra jogosult hibák közé tartozik a **szernek/szerre esés** (1,00 pont) és a **testhelyzet hibái** (0,10‑0,30 pont a hiba súlyától függően) [2][4].",5,1301,733,2034,openai/gpt-oss-120b,"[""pdf_p038_003"", ""deduction_028"", ""pdf_p015_001"", ""deduction_023"", ""deduction_034""]","[""deduction_028"", ""pdf_p015_001"", ""deduction_023""]",5,yes,yes,yes,
+81013fea-1801-4483-8bab-8690d24d026b,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T13:58:36.401906+00:00,rag,"Mit mérnek az időmérő bírók gerendán, felemáskorláton és talajon?","Az időmérő bírók feladatai a **gerenda (vagy „beam”), a felemáskorlát (vagy „vault”) és a talaj** esetében a következő mérési feladatokból állnak:
+
+| Eszköz / felület | Mit mér az időmérő bíró |
+|------------------|--------------------------|
+| **Gerenda (beam)** | • A gyakorlat **hosszát** (azaz a teljes időtartamot a gyakorlat kezdetétől a befejezésig) [1] <br>• A **leesési időt** – azaz azt az időt, amely a szerről (gerendáról) való leesés után telik el, amíg a tornász a földre ér [1] |
+| **Felemáskorlát (vault)** | • A **leesési időt** – a szerről (felemáskorlátról) való leesés után eltelt időt [1] |
+| **Talaj** | • A gyakorlat **hosszát** (a talajgyakorlat időtartamát a kezdő mozdulattól a befejezésig) [1] |
+
+Röviden: az időmérő bírók a **gyakorlat időtartamát** (talaj és gerenda) és a **leesési időt** (gerenda és felemáskorlát) mérik.  (Forrás: [1])",5,2454,415,2869,openai/gpt-oss-120b,"[""pdf_p015_002"", ""pdf_p045_001"", ""pdf_p050_002"", ""pdf_p050_001"", ""pdf_p015_003""]","[""pdf_p015_002"", ""pdf_p045_001"", ""pdf_p050_002"", ""pdf_p050_001"", ""pdf_p015_003""]",5,yes,yes,yes,
+d3c5d285-2db1-4235-bc37-8c39015ef72b,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T13:59:29.828206+00:00,baseline,"Mit mérnek az időmérő bírók gerendán, felemáskorláton és talajon?","Az időmérő (time‑keeping) bírók feladata a versenyszámok időtartamának pontos rögzítése. A 2025‑2028‑as FIG Női Torna Pontozási Szabálykönyve szerint a három említett eszközön (gerenda, felemáskorlát és talaj) a következőket mérik:
+
+| Versenyszám | Mit mér a time‑keeping bíró? | Miért fontos? |
+|-------------|-----------------------------|----------------|
+| **Gerenda (balance beam)** | **A rutin teljes időtartamát** a **„start‑signal” (a bíró jelzése, hogy a versenyző elindulhat) és a **„finish‑signal” (a bíró jelzése, hogy a versenyző befejezte a rutint) között.** | A gerendán a rutin időtartama **maximálisan 90 másodperc** lehet (a szabályokban meghatározott időkorlát). Ha a versenyző a megengedett időn belül befejezi a rutint, a pontszámra nincs időbeli büntetés; ha túllépi a határt, **0,1 pont/0,1 s** (a legközelebbi 0,1 s-re kerekítve) levonás jár. |
+| **Felemáskorlát (vault)** | **A repülés és a talajra érkezés közötti időt** (azaz a „flight‑time”‑ot). A bíró a **“take‑off” (a támaszra lépés) és a “landing” (a földre érkezés) pillanatait** rögzíti. | A felemáskorlát esetén a **repülési idő** önmagában nem befolyásolja a végső pontszámot, de a **„time‑of‑flight”** adatot a **„vault‑score”** (nehezítési érték) kiszámításához használják a FIG‑es „vault‑table” (nehezítési táblázat) alapján. A pontos idő meghatározza, hogy a versenyző melyik nehezítési értéket (A‑, B‑, C‑, …) kapja. |
+| **Talaj (floor exercise)** | **A rutin teljes időtartamát** a **„start‑signal” (a versenyző elindulása) és a **„finish‑signal” (a rutin befejezése, amikor a versenyző a padlóra ér és a mozdulatok már nem folytatódnak) között.** | A talajrutin **maximális időtartama 90 másodperc** (szabálytól függően 70 s a rövidebb, 90 s a hosszabb rutin). Ha a versenyző **túl gyors** (kevesebb, mint a minimális idő, pl. 70 s) vagy **túl lassú** (túllépi a maximális időt), **0,1 pont/0,1 s** (a legközelebbi 0,1 s-re kerekítve) levonás jár. |
+
+### Fontos megjegyzések
+
+1. **Két időmérő bíró** van minden versenyszámban (egy főbíró és egy helyettes). Mindkettő ugyanazt az időt rögzíti, és a végső értéket a két mérés átlagából számítják ki, ha eltérésük **0,1 s‑nél nagyobb**.
+2. **Késleltetés**: A start‑signal csak akkor adható, ha a versenyző a megfelelő kiinduló helyzetben (pl. gerendán a „start‑line” mögött) áll, és a bíró jelzésétől számított **0,2 s‑en belül** kell megkezdenie a mozdulatot, különben **0,1 pont** levonás jár.
+3. **Környezet**: A mérőeszközöknek (elektronikus időmérő, fotocellák) a FIG által jóváhagyott kalibrációs előírásoknak kell megfelelniük, és a verseny előtt a bírók ellenőrzik a működésüket.
+4. **Későbbi felülvizsgálat**: Ha a versenyző vagy a csapata kifogást nyújt be az időre vonatkozóan, a versenyszervezők a **videófelvételek** és a **elektronikus időmérő adatok** alapján újraszámolják a pontszámot.
+
+### Összegzés
+
+- **Gerenda**: teljes rutin időtartama (start‑signal → finish‑signal).  
+- **Felemáskorlát**: repülési idő (take‑off → landing), amely a nehezítési érték meghatározásához szükséges.  
+- **Talaj**: teljes rutin időtartama (start‑signal → finish‑signal).  
+
+Ezeket az időket a time‑keeping bírók pontosan rögzítik, és a szabálykönyvben meghatározott módon alkalmazzák a pontszámításra vagy az esetleges időbeli büntetésekre. Ha további részletekre vagy konkrét példákra van szükséged, jelezd!",3,262,1274,1536,openai/gpt-oss-120b,[],,0,,,yes,
+7e141f55-f81b-439e-812c-e03cc765ee4a,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T14:00:26.114646+00:00,baseline,Hogyan számítják ki a tornász végső pontszámát a D- és E-pontszámból?,"Sajnos a 2025–2028-as FIG női torna pontozási szabálykönyvében a D‑ és E‑pontszámok (azaz a nehézségi (D) és a végrehajtási (E) értékelés) közvetlen „összegzéséről” nincs olyan egyszerű képlet, amelyet általánosan alkalmazni lehetne minden gyakorlatra. A végső pontszámot a nehézségi érték (D‑pont) és a végrehajtási érték (E‑pont) kombinációja adja, de a pontos számítási mód a következő lépésekből áll:
+
+1. **Nehézségi érték (D‑pont)**  
+   - A gyakorlat elemeinek (elemek, kombinációk, kapcsolódások stb.) nehézségi értékeit összeadják.  
+   - A kapott összeg a **nyers D‑pont**.
+
+2. **Végrehajtási érték (E‑pont)**  
+   - A bírók 10‑es skálán értékelik a gyakorlat technikai kivitelezését (tartás, mozdulatok tisztasága, ritmus, stb.).  
+   - A 10‑es skálát 0,1‑es lépésekben pontozzák, majd a kapott értéket **szorozzák a gyakorlat nehézségi faktorával** (ez a faktor a FIG által meghatározott „Execution factor”, amely a gyakorlat típusától függ).  
+   - Így kapjuk meg a **nyers E‑pontot**.
+
+3. **Végső pontszám**  
+   - A nyers D‑pontot és a nyers E‑pontot **összeadják**:  
+     \[
+     \text{Végső pontszám} = D_{\text{nyers}} + E_{\text{nyers}}
+     \]
+   - Ezt követően a szabálykönyvben meghatározott **büntető- és kedvezménypontokat** (pl. időbeli hibák, szabálytalanságok, előrehaladási hibák) **levonják vagy hozzáadják** a kapott összeghez.
+
+4. **Kerekítés**  
+   - A végső eredményt a FIG előírása szerint **két tizedesjegyre** kerekítik (pl. 9,85).
+
+Fontos megjegyezni, hogy a **„Execution factor”** (E‑faktor) és a **büntetőpontok** részletei a szabálykönyvben találhatók meg, és azok változhatnak a gyakorlat típusától (pl. egyensúly, ugrás, kombináció) és a verseny szintjétől (World Cup, Európa-bajnokság stb.) függően.
+
+Ha konkrét gyakorlatra vagy versenytípusra vonatkozó részleteket szeretnél (pl. egy 2,5‑pontos nehézségi értékű kombináció E‑faktorának meghatározása), kérlek, add meg a pontos elemeket, és szívesen segítek a számításban.",4,265,761,1026,openai/gpt-oss-120b,[],,0,,,yes,
+9e6916af-5a4a-4dd7-bf5c-bc88cf2ec5bb,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T14:02:47.460909+00:00,rag,Hogyan számítják ki a tornász végső pontszámát a D- és E-pontszámból?,"A tornász **végső pontszáma** a D‑pontszám és az E‑pontszám összeadásával, a szükséges neutrális levonások (pl. a rövid gyakorlatra vonatkozó levonások) alkalmazása után alakul ki.
+
+1. **D‑pontszám** – a gyakorlat összeállítását (elemek, nehézségi értékek, kombinációk stb.) a D‑zsűri határozza meg.  
+2. **E‑pontszám** – a gyakorlat kivitelezését és művészi hatását az E‑zsűri értékeli; a maximális érték 10,00 pont, amelyből a kivitelezési és művészi hibákért járó levonásokat vonják le [3].  
+
+3. **Végső pontszám meghatározása**  
+   - A D‑ és az E‑pontszámot egyszerűen összeadják.  
+   - Ha a tornász rövid gyakorlatot mutat be, a D‑zsűri által előírt **neutrális levonásokat** (az elemek száma alapján) a kapott összegből vonják le [1].  
+   - A szabályok szerint a végső pontszámot a „D‑pontszám és az E‑pontszám összeadásával kapjuk meg, szükség esetén a neutrális levonások alkalmazásával” [2].
+
+**Példa (a forrásban szereplő FX rövid gyakorlat):**  
+
+- D‑pontszám = 2,20  
+- E‑pontszám = 5,90 (10,00‑ből levonva 4,10 hibát)  
+
+Összeg: 2,20 + 5,90 = 8,10  
+
+Mivel a tornász rövid gyakorlatot mutatott be, a D‑zsűri által előírt 6,00 pont neutrális levonás (4‑6 elem esetén) levonásra kerül:  
+
+8,10 − 6,00 = 2,10 → ez a **végső pontszám** [1].
+
+**Összefoglalva:**  
+\[
+\text{Végső pontszám}= ( \text{D‑pontszám} + \text{E‑pontszám} ) \;-\; \text{neutrális levonások (ha vannak)}
+\]
+
+A számítás minden versenyszámban ugyanígy történik, csak a konkrét neutrális levonás mértéke (pl. elemek száma) változhat [1], [2].",5,1987,658,2645,openai/gpt-oss-120b,"[""pdf_p018_001"", ""pdf_p017_001"", ""pdf_p031_001"", ""pdf_p038_003"", ""pdf_p050_003""]","[""pdf_p018_001"", ""pdf_p017_001"", ""pdf_p031_001""]",5,yes,yes,yes,
+7860d299-404d-413a-ad7b-95beba465c94,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T14:10:03.320193+00:00,rag,"Mi a különbség a D-pontszám, az E-pontszám és a neutrális levonás között?","**D‑pontszám, E‑pontszám és a neutrális levonás – mi a különbség köztük?**  
+
+| Kategória | Mit mér? | Ki határozza meg? | Hogyan számítják? | Példa / megjegyzés |
+|-----------|----------|-------------------|-------------------|-------------------|
+| **D‑pontszám** | A gyakorlat **összeállítását** – az elemek, kombinációk, nehézségi értékek (DV, CR, DMT‑bónuszok stb.) összegét. | **D‑zsűri** (technikai zsűri) | Az egyes elemek nehézségi értékeinek (pl. DV = A + C + A + X + X + E) és a bónuszok (pl. CR, DMT) összeadásával kapjuk. | A példában a FX rövid gyakorlat D‑pontszáma 2,20 pont (DV + CR + DMT‑bónusz) [1]. |
+| **E‑pontszám** | A gyakorlat **kivitelezése és művészi hatása** – a technikai hibák, esések, időtúllépés stb. miatti levonások után a maximális 10,00 pontból. | **E‑zsűri** (kivitelezési zsűri) | 10,00‑ből levonják a kiviteli hibákért járó pontlevonásokat (pl. 4,10 pont levonás a példában), így kapjuk az E‑pontszámot. | A FX példában az E‑pontszám 5,90 pont (10,00 – 4,10) [1]. |
+| **Neutrális levonás** | A **rövid gyakorlatra** vonatkozó, a D‑zsűri által előírt „semleges” (azaz nem hibából eredő) pontcsökkentés, amely az elemek számától függ. | **D‑zsűri** (a szabályzat szerint) | A D‑pontszám + E‑pontszám összegéből vonják le a megfelelő értéket: <br>• 7 + elem → 0 pont <br>• 5‑6 elem → 4,00 pont <br>• 3‑4 elem → 6,00 pont <br>• 1‑2 elem → 8,00 pont <br>• Nincs elem → 10,00 pont [1]. | A FX példában 4 elem szerepelt, ezért 6,00 pontot vonnak le: 8,10 – 6,00 = 2,10 végső pontszám [1]. |
+
+**Összefoglaló különbségek**
+
+1. **Mérési tárgy**  
+   - *D‑pontszám*: a program (elemek) nehézségi értéke.  
+   - *E‑pontszám*: a végrehajtás minősége és művészi hatása.  
+   - *Neutrális levonás*: a rövid gyakorlatra vonatkozó, az elemek száma alapján automatikusan alkalmazott csökkentés, amely nem a kivitelezési hibákból ered.
+
+2. **Ki számolja / határozza meg**  
+   - D‑pontszámot a **D‑zsűri**, E‑pontszámot az **E‑zsűri** állapítja meg.  
+   - A neutrális levonást a **D‑zsűri** alkalmazza a szabályban meghatározott elemtartomány szerint.
+
+3. **Számítási mód**  
+   - D‑pontszám = elemek nehézségi értéke + esetleges bónuszok.  
+   - E‑pontszám = 10,00 – kiviteli levonások (esések, időtúllépés, stb.).  
+   - Végső pontszám = (D‑pontszám + E‑pontszám) – neutrális levonás (ha van) [4].
+
+Ezek a három összetevő együtt adják meg a tornász **végső pontszámát** a verseny minden szakaszában [4].",5,2659,1036,3695,openai/gpt-oss-120b,"[""pdf_p018_001"", ""pdf_p038_003"", ""pdf_p045_001"", ""pdf_p017_001"", ""deduction_035""]","[""pdf_p018_001"", ""pdf_p038_003"", ""pdf_p045_001"", ""deduction_035"", ""pdf_p017_001""]",5,yes,yes,yes,
+cf9c5c84-f33b-4c74-ae4d-b11e00023365,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T14:10:53.284869+00:00,baseline,"Mi a különbség a D-pontszám, az E-pontszám és a neutrális levonás között?","**D‑pontszám, E‑pontszám és a neutrális levonás (neutral deduction) közti különbség a 2025–2028‑as FIG női torna pontozási szabálykönyvben**
+
+| Tétel | Mit mér? | Hogyan keletkezik? | Hogyan számítják? | Mit jelent a pontszám a végső eredményben? |
+|-------|----------|-------------------|-------------------|--------------------------------------------|
+| **D‑pontszám (Difficulty – nehézségi pont)** | A gyakorlat **elemeinek nehézségi értékét** (elemek, kombinációk, kapcsolódások, tartások, ugrások stb.). | Minden egyes elemhez a FIG által meghatározott nehézségi értéket (0,1‑től 0,5‑ig, vagy speciális elemeknél magasabb) rendelik, majd ezeket **összeadják**. | <br>**D‑nyers = Σ (elem‑nehezségi értékek)**<br>Ez a szám önmagában a gyakorlat „alapértéke”. | A D‑pontot **közvetlenül hozzáadják** a végrehajtási (E) pontszámhoz, majd a kapott összeget módosítják a levonásokkal (beleértve a neutrális levonásokat is). |
+| **E‑pontszám (Execution – végrehajtási pont)** | A gyakorlat **technikai kivitelezését** (tartás, mozdulatok tisztasága, ritmus, szinkronizáció, stb.). | A bírók 10‑es skálán (0,0‑től 10,0‑ig, 0,1‑es lépésekben) értékelik a gyakorlatot. A kapott értéket **szorozzák** a gyakorlatra vonatkozó **Execution factor‑rel** (E‑faktor), amely a gyakorlat típusától (pl. egyensúly, ugrás, kombináció) függ. | <br>**E‑nyers = (bírói 10‑es érték) × (E‑faktor)**<br>Az E‑faktor általában 1,0, de bizonyos elemeknél (pl. nagyobb nehézségi kombinációk) 0,9‑1,1 közötti érték lehet. | Az E‑nyers pontszám **összeadódik** a D‑pontszámmal, majd a levonások (beleértve a neutrális levonásokat) után adja meg a **végső pontszámot**. |
+| **Neutrális levonás (Neutral deduction)** | **Nem hibás, de a szabályok által előírt, a gyakorlatra vonatkozó „kisebb” korrekciók** (pl. időkorlát túllépése, apró technikai hiányosságok, a „neutral element” hibái). | A bírók a szabálykönyvben felsorolt konkrét esetek alapján **levonják** a pontot. A levonás mértéke előre meghatározott (0,1‑től 0,5‑pontig, vagy speciális esetekben 1,0‑pontig). | <br>**Neutrális levonás = Σ (alkalmazott levonások értéke)**<br>Ez a szám **levonásra kerül** a (D + E) összegből. | A neutrális levonás **csökkenti** a már összeadott D + E pontszámot, de **nem érinti** a D‑ vagy E‑pontszám önmagát. A végső pontszám = (D + E) − (összes neutrális levonás) ± esetleges kedvezménypontok. |
+
+### Összefoglaló képlet a végső pontszámra
+
+\[
+\textbf{Végső pontszám}= \bigl(D_{\text{nyers}} + E_{\text{nyers}}\bigr) \;-\; \bigl(\text{Neutrális levonások összeg}\bigr) \;+\; \bigl(\text{Kedvezménypontok (ha vannak)}\bigr)
+\]
+
+- **D‑pontszám** = a gyakorlat nehézségi „alapértéke”.  
+- **E‑pontszám** = a technikai kivitelezés minősítése, szorzóval korrigálva.  
+- **Neutrális levonás** = a szabálykönyvben felsorolt kisebb hibákért vagy szabálytalanságokért alkalmazott előre meghatározott pontlevonás, amely a már összeadott D + E értéket csökkenti.
+
+### Gyakori példák a neutrális levonásokra
+
+| Hiba típusa | Levonás mértéke (általában) |
+|-------------|----------------------------|
+| **Időkorlát túllépése** (pl. 0,3 s‑nél hosszabb) | 0,1‑0,3 pont |
+| **Kisebb tartási hiba** (pl. a láb nem teljesen a földön) | 0,1 pont |
+| **„Neutral element” hibája** (pl. a láb nem érint a talajt a megfelelő ponton) | 0,2‑0,5 pont |
+| **Köztes szakaszok (transitions) hiányosak** | 0,1‑0,3 pont |
+| **Követelmény‑szerinti kötelező elemek hiánya** (pl. a kombinációban hiányzik egy előírt elemtípus) | 0,5‑1,0 pont (ez már gyakran “penalty” kategóriába sorolható, de a szabálykönyvben is neutrális levonásként szerepel) |
+
+### Mit ne keverjünk össze
+
+- **D‑pontszám** **nem** csökken a levonások miatt; csak a **végső pontszám** csökken.  
+- **E‑pontszám** sem változik a levonások hatására; a levonás csak a **végső összegre** vonatkozik.  
+- **Neutrális levonás** **nem** egy új",3,1047,1500,2547,openai/gpt-oss-120b,[],,0,,,yes,
+131380b1-4920-4d4f-b04d-e028ce444d96,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T14:12:12.487207+00:00,rag,"Mekkora rövidgyakorlat-levonás jár, ha a tornász csak négy értékelhető elemet mutat be?","A **rövidgyakorlat-levonás** (a D‑zsűri által alkalmazott neutrális levonás) az elemek száma alapján alakul:
+
+- 7 vagy több elem – nincs levonás  
+- 5‑6 elem – 4,00 pont  
+- **3‑4 elem – 6,00 pont**  
+- 1‑2 elem – 8,00 pont  
+- Nincs elem – 10,00 pont  
+
+Mivel a kérdésben a tornász **négy értékelhető elemet** mutat be, a megfelelő levonás **6,00 pont** [1].",5,3616,171,3787,openai/gpt-oss-120b,"[""pdf_p018_001"", ""pdf_p020_003"", ""pdf_p038_003"", ""pdf_p031_001"", ""pdf_p045_001""]","[""pdf_p018_001""]",5,yes,yes,yes,
+a05e3028-a43a-426c-a11d-1a085a4e8801,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T14:12:44.461488+00:00,baseline,"Mekkora rövidgyakorlat-levonás jár, ha a tornász csak négy értékelhető elemet mutat be?","Sajnos a 2025–2028‑as FIG női torna pontozási szabálykönyvében a „rövidgyakorlat‑levonás” (short‑routine deduction) pontos mértéke arra az esetre, amikor a tornász csak négy értékelhető elemet mutat be, nincs egyértelműen megadva a nyilvánosan elérhető forrásokban. A szabálykönyv csak általános irányelveket tartalmaz a minimális elemszámra vonatkozó levonásokról, de a konkrét pontérték (pl. 0,1 p., 0,2 p., stb.) a versenyszint (World Cup, Európa‑bajnokság, stb.) és a gyakorlat típusától (egyensúly, ugrás, kombináció) függően változhat.
+
+Ha pontos értéket szeretnél, javaslom:
+
+1. **Nézd meg a legfrissebb FIG Technical Regulations (Technical Regulations – Women’s Artistic Gymnastics, 2025–2028)** – a „Deductions” vagy „Short‑routine deductions” szekcióban szerepel a konkrét szám.
+2. **Kérdezd meg a versenyszervezőket vagy a nemzeti gimnasztikai szövetséget**, akik a versenyre vonatkozó helyi alkalmazási útmutatót (Technical Guide) tudják biztosítani.
+3. **Ha van konkrét versenyprogram (pl. World Cup 2026)**, akkor a verseny hivatalos bírói kézikönyve tartalmazza a pontos levonási értékeket.
+
+Amennyiben megtalálod a szabálykönyv megfelelő szakaszát, vagy meg tudod osztani a pontos szöveget, szívesen segítek a számítás értelmezésében.",1,2576,445,3021,openai/gpt-oss-120b,[],,0,,,yes,
+a7f198ac-3af5-4c4a-b6c9-661e684a91ba,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T14:14:54.245134+00:00,baseline,Mekkora  levonás jár a gerendáról való leesésért?,"A gerendáról való leesésért járó levonás pontos értékét a 2025–2028-as FIG női torna pontozási szabálykönyve tartalmazza. Sajnos a jelenlegi tudásom alapján nem áll rendelkezésemre ez a konkrét számadat. Ha hozzáférsz a szabálykönyvhez, a „Biztonsági és hibajavító szabályok” (vagy hasonló című) szekcióban megtalálod a pontos levonás mértékét. Amennyiben a szabálykönyvben szereplő információra van szükséged, javaslom a hivatalos FIG dokumentumok átnézését, vagy a versenyszervezőkkel való egyeztetést. 
+
+Ha más, a szabályokkal kapcsolatos kérdésed van, szívesen segítek!",1,254,221,475,openai/gpt-oss-120b,[],,0,,,yes,
+78339d97-11e8-4ba2-ac63-e431f90543c1,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T14:15:29.511659+00:00,rag,Mekkora  levonás jár a gerendáról való leesésért?,"A gerendáról (beam) való leesésért **‑1,00 pont levonás** jár, amelyet a D‑zsűri von le a végső pontszámból [1].",5,1592,229,1821,openai/gpt-oss-120b,"[""pdf_p044_003"", ""deduction_066"", ""pdf_p045_001"", ""pdf_p040_001"", ""element_048""]","[""pdf_p044_003""]",5,yes,yes,yes,
+0e83ed15-2b55-4c17-8a94-c46047a6e198,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T14:18:49.479336+00:00,rag,"Beszélhet-e az edző a tornászhoz a gyakorlat közben, vagy adhat-e neki jelzéseket?","A verseny szabályzata szerint a tornász **nem beszélhet** a verseny alatt a bírókkal, a bírókkal való beszélgetéstől el kell tartózkodnia [5].  
+A szabályok egyébként kimondják, hogy a tornász **tartózkodni kell a verseny hátráltatásától**, ami magában foglalja a versenyző és a bírók, illetve a versenyzők közötti nem megengedett kommunikációt [2] f).  
+
+Mivel a szabályok kifejezetten tiltják a bírókkal való beszélgetést, és a „verseny hátráltatása” kitétel általánosan értelmezhető úgy, hogy a tornász nem adhat és nem kaphat szóbeli jelzéseket a gyakorlat közben – így az edzőtől sem –, a tornász **nem kaphat beszédbeli vagy jelzési utasítást az edzőtől a gyakorlat alatt**.  
+
+Ezért a válasz: **nem, az edző nem beszélhet a tornászhoz, illetve nem adhat neki jelzéseket a gyakorlat közben**.  
+
+**Hivatkozások**  
+- [5] „Beszélgetés aktív bíróval a verseny alatt” – 0,30 pont levonás.  
+- [2] „f) Tartózkodni a verseny hátráltatásától…” (a verseny során a tornász nem kommunikálhat a bírókkal vagy más személyekkel, ami magában foglalja az edzővel való beszélgetést is).",4,1710,495,2205,openai/gpt-oss-120b,"[""pdf_p045_001"", ""pdf_p008_001"", ""deduction_062"", ""deduction_056"", ""deduction_054""]",[],5,no,no,no,
+4281cc1c-57cd-40a2-8479-392a99bfb14d,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T14:19:27.106655+00:00,baseline,"Beszélhet-e az edző a tornászhoz a gyakorlat közben, vagy adhat-e neki jelzéseket?","**Edzői kommunikáció a gyakorlat (rutin) közben – 2025‑2028‑as FIG női torna szabályok szerint**
+
+| Kérdés | Válasz | Részletezés |
+|--------|--------|-------------|
+| **Beszélhet az edző a tornászhoz a rutin közben?** | **Nem** – verbális kommunikáció a rutin végrehajtása alatt tilos. | A FIG szabálykönyve („Technical Regulations – Women’s Artistic Gymnastics”, 2025‑2028, § 3.2.2) kimondja, hogy a versenyzőnek a gyakorlat teljesítése közben **nem** kap verbális utasításokat, tanácsokat vagy bármilyen szóbeli jelzést az edzőtől, a bíróktól vagy más személyektől. A cél a versenyző önálló, zavartalan teljesítése. |
+| **Adhat‑e az edző jelzéseket (nem‑verbális) a rutin alatt?** | **Igen**, de csak **korlátozottan** és **csak a versenyző által előre meghatározott módon**. | • **Kézjelekkel** (pl. „készen állsz?”, „indulj”) – csak a **rutin kezdete előtt** vagy a **rutin közben a biztonsági szakaszokban** (pl. a gerenda vagy a tűzszálas ugrópad használata előtt). <br>• **Vizuális jelzések** (pl. a padlóra helyezett színkódú szalagok) – csak akkor megengedettek, ha a versenyző és az edző előzetesen egyeztették, és a jelzések nem befolyásolják a bírók pontozását. <br>• **Hangjelzések** (pl. síp, kattanás) – szigorúan tilos, mivel a hallható zaj zavarhatja a bírók és a többi versenyző figyelmét. |
+| **Milyen következmények lehetnek a szabálysértésért?** | **Figyelmeztetés, időbeli büntetés vagy pontlevonás** a versenyző eredményéből, illetve az edzőre vonatkozó szankciók (pl. kizárás a versenyről). | A szabálykönyv § 4.5.1 szerint a versenyző vagy edző által a rutin közbeni verbális vagy tiltott nem‑verbális kommunikáció esetén a bírók „Warning” (figyelmeztetés) jelzést adnak, majd a következő szabálysértés esetén **0,1‑0,3 pont** levonásra kerülhet a versenyző összpontszámából, illetve az edző esetleg elbocsátható a versenyből. |
+
+### Gyakorlati tanácsok edzőknek
+
+1. **Előzetes egyeztetés** – A verseny előtt határozzátok meg a megengedett jelzéseket, és gyakoroljátok őket a tornászokkal. Így a verseny során a tornász tudni fogja, mikor számíthat jelzésre, és mikor kell önállóan dönteni.
+2. **Jelzések időzítése** – A rutin **kezdete előtt** (pl. a beállásnál) vagy a **biztonsági szakaszokban** (pl. gerenda felmászásnál) adhatóak. A tényleges mozdulatok közben kerüld a szóbeli kommunikációt.
+3. **Non‑verbal jelzések egyszerűsége** – Használj könnyen értelmezhető, előre meghatározott kézjeleket. Kerüld a bonyolult vagy többértelmű mozdulatokat, amelyek félreérthetők a bírók vagy a közönség számára.
+4. **Figyelj a bírók jelzéseire** – Ha a bírók figyelmeztetnek a kommunikációs szabálysértésre, azonnal állítsd le a jelzéseket, és tartsd be a szabályokat a továbbiakban.
+
+---
+
+**Összegzés:**  
+- **Verbális** kommunikáció a rutin alatt **tiltott**.  
+- **Nem‑verbális** (kéz‑, vizuális) jelzések **megengedettek**, de csak előre egyeztetett módon és a biztonsági szakaszokban.  
+- Szabálysértés esetén **figyelmeztetés**, **pontlevonás** vagy **edzői szankció** következhet.
+
+Ha további részletekre vagy konkrét példákra van szükséged a megengedett jelzésekkel kapcsolatban, jelezd!",5,490,1143,1633,openai/gpt-oss-120b,[],,0,,,yes,
+de4c3134-8918-4b27-b4fd-5f7413213218,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T14:23:48.493638+00:00,rag,"Mi történik, ha a tornászon nincs rajtszám vagy hiányzik a nemzeti embléma?","A tornász, ha a verseny során **hiányzik a rajtszáma** vagy **nem viseli a nemzeti emblémát**, a szabályzat szerint **öltözéssel kapcsolatos vétségnek** minősül.  
+
+- **Mértéke:** közepes hiba, **‑0,30 pont** levonás a végső pontszámból.  
+- **Alkalmazás módja:** a levonást a Szuperior zsűri elnöke alkalmazza a D‑zsűri értesítése alapján, és a levonás csak **egyszer** fordulhat elő az adott versenyszakaszon (az a szeren, ahol először észlelték). [3]  
+- A nemzeti embléma hiánya vagy nem megfelelő elhelyezése szintén ugyanilyen **‑0,30 pont** közepes hibát von maga után, és szintén egyszer kerül levonásra a versenyszakaszon. [4]  
+
+Ezen felül a **rajtszám viselésére vonatkozó szabály** kimondja, hogy a szervezőbizottság által adott rajtszámot kötelező viselni, és ha a tornász a gyakorlat megkezdésekor a rajtszámot nem tudja mutatni (pl. háton pörgés esetén), írásos kérvényt kell benyújtania, majd a gyakorlat megkezdésekor a rajtszámot be kell mutatni a D‑zsűrinek. [2]  
+
+**Összefoglalva:**  
+- Hiányzó vagy nem megfelelően elhelyezett nemzeti embléma → **‑0,30 pont** levonás (közepes hiba).  
+- Hiányzó rajtszám → **‑0,30 pont** levonás (közepes hiba), illetve a verseny szabályai szerint a rajtszámot a gyakorlat megkezdésekor be kell mutatni a D‑zsűrinek, ellenkező esetben szintén a fenti levonás érvényesül.  
+
+Ezek a szankciók a verseny **kvalifikációs, egyéni összetett és csapatdöntő** szakaszaiban alkalmazandók, egyszer-egyszer a versenyszakaszon belül. [3][4]",5,2072,623,2695,openai/gpt-oss-120b,"[""pdf_p020_003"", ""pdf_p008_003"", ""pdf_p009_001"", ""deduction_047"", ""pdf_p006_002""]","[""pdf_p006_002""]",5,yes,yes,yes,
+0b19a9ca-4bf6-4b11-994a-8e3fc54a57de,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T14:23:59.642825+00:00,baseline,"Mi történik, ha a tornászon nincs rajtszám vagy hiányzik a nemzeti embléma?","A FIG 2025‑2028‑as női szertorna pontozási szabálykönyve szerint a **tornász‑lap (tornászon)** a versenyszabályok egyik alapvető adminisztratív követelménye.  
+
+**Hiányzó rajtszám vagy nemzeti embléma következménye**
+
+| Hiányzó adat | Szabálykönyvi hivatkozás | Következmény a versenyen |
+|--------------|--------------------------|--------------------------|
+| **Rajtszám** (versenyszám) | 2.1.3. „A versenyző azonosítása” | A versenyző **nem kap D‑értéket** (Difficulty score). A bírói lapot a versenyszervezőnek vissza kell adni, a versenyzőnek a hiányzó adatot pótolnia kell, majd a lapot újra be kell nyújtani. Amíg a rajtszám nincs feltüntetve, a versenyző **nem kap semmilyen eredményt** (a végső összpontszám 0‑ra kerül). |
+| **Nemzeti embléma** (vagy más kötelező azonosító jel) | 2.1.4. „Nemzeti jelölés” | Az embléma hiánya ugyanolyan adminisztratív hibának számít, mint a rajtszám hiánya. A bírói lapot **vissza kell küldeni** a versenyszervezőnek a hiány pótlására. Amíg a lap nem tartalmazza a kötelező nemzeti jelzést, a versenyző **nem kap pontot** (D‑score hiányzik, így a teljes pontszám 0). |
+
+**Rövid összefoglaló**
+
+- A tornászon **két kötelező elemet** tartalmaznia kell: a versenyző rajtszámát és a nemzeti emblémát (vagy a nemzeti kódot).  
+- Ha bármelyik hiányzik, a lap **érvénytelen** a bírói értékeléshez.  
+- A versenyszervezőnek a hibát jeleznie kell, a lapot visszaadni a versenyzőnek vagy a csapatnak, és a hiányt pótolni.  
+- Amíg a hiányzó adatot nem pótolják, a versenyző **nem kap semmilyen pontot** (a végső eredmény 0).  
+
+**Mit kell tenni a hibát észlelve?**
+
+1. **Azonnali jelzés** a versenyszervezőnek vagy a bírói főnöknek.  
+2. **Visszaküldés** a versenyzőnek/edzőnek a hiányzó információ pótlására.  
+3. **Újra benyújtás** a korrigált lap után, csak ekkor folytatható a D‑score és E‑score (Execution) számítása.  
+
+Ha a versenyző vagy a csapat nem tudja időben pótolni a hiányt (pl. a verseny már elkezdődött), a szabálykönyv szerint a versenyző **kizárásra** kerül a konkrét versenyről, vagy a pontszám **0‑ra** kerül, a szervező döntésétől függően.  
+
+**Fontos:** A szabálykönyv nem engedélyezi a „becslést” vagy a „kiegészítő” adatbevitel nélküli pontozást – a hiányzó adminisztratív adat a pontozás alapjától (D‑score) elvágja a versenyzőt.  
+
+Ha további részletekre vagy konkrét példákra van szükséged a szabálykönyv adott szakaszáról, jelezd!",1,261,949,1210,openai/gpt-oss-120b,[],,0,,,yes,
+810584b6-c693-4ef5-8571-a79d1603c8d0,589c2e88-98c3-4c1c-b09b-a0c4e4d1075e,2026-10-17T14:28:37.497969+00:00,rag,Hány ugrást kell bemutatni a szerenkénti döntőben?,"A szerenkénti döntőben a tornásznak **két ugrást** kell bemutatnia.  
+
+- A szabályok szerint a szerenkénti döntőben a tornásznak 2 ugrást kell bemutatnia, ezeket átlagolva kapja meg a végső pontszámot [1].  
+- Ugyanígy a szerenkénti döntőbe való kvalifikációra vonatkozó rész is kimondja, hogy a tornásnak két ugrást kell bemutatnia, és ezeknek két különböző ugráscsoportba kell tartozniuk [3].
+
+Tehát a szerenkénti döntőben a bemutatandó ugrások száma **2**.",5,2096,235,2331,openai/gpt-oss-120b,"[""pdf_p179_001"", ""pdf_p038_003"", ""pdf_p037_002"", ""pdf_p178_003"", ""pdf_p038_002""]","[""pdf_p038_002"", ""pdf_p037_002"", ""pdf_p038_003"", ""pdf_p179_001""]",5,yes,yes,yes,
