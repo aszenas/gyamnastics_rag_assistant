@@ -890,7 +890,7 @@ with st.sidebar:
 st.divider()
 st.markdown("""
 <div class="hero">
-    <h1>Gymnastics AI Asszisztens</h1>
+    <h1>Gymnastics AI Assistant</h1>
     <p>
         Az eszköz lehetőséget biztosít a női szertorna pontozási szabályainak megismerésére,
         és a RAG és a hagyományos LLM által generált válaszok összehasonlítására.
