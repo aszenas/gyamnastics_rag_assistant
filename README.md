@@ -36,6 +36,8 @@ pip install -r requirements.txt
 GROQ_API_KEY=your_groq_api_key
 PINECONE_API_KEY=your_pinecone_api_key
 PINECONE_INDEX_NAME=gymnastics-rag
+PINECONE_NAMESPACE=__default__
+GROQ_MODEL=openai/gpt-oss-120b
 ```
 
 3. Start the application:
